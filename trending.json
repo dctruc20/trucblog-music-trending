@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "YouTube Data API videos.list chart=mostPopular category=Music",
-  "updatedAt": "2026-11-18T17:15:22Z",
+  "updatedAt": "2026-11-18T17:16:03Z",
   "refreshedRegions": [
     "VN",
     "AU"
@@ -40,21 +40,21 @@
         "id": "_DDdTphLxKI",
         "title": "TRÚC NHÂN ft. WREN EVANS | VÌ ANH QUÁ ĐẸP TRAI | OFFICIAL PERFORMANCE",
         "channelTitle": "Trúc Nhân",
-        "viewCount": 3944150,
+        "viewCount": 3945765,
         "publishedAt": "2026-11-01T16:36:39Z"
       },
       {
         "id": "ceGkpG_HJ6Y",
         "title": "COOLKID - QUÁ ĐỦ RỒI (OFFICIAL VISUALIZER)",
         "channelTitle": "COOLKID OFFICIAL",
-        "viewCount": 4071279,
+        "viewCount": 4071297,
         "publishedAt": "2026-11-01T13:00:06Z"
       },
       {
         "id": "MWp0CfBH-ow",
         "title": "TRÚC NHÂN ft. RHYMASTIC | VỀ ĐI EM | OFFICIAL PERFORMANCE",
         "channelTitle": "Trúc Nhân",
-        "viewCount": 2800917,
+        "viewCount": 2801367,
         "publishedAt": "2026-11-03T13:00:29Z"
       },
       {
@@ -103,7 +103,7 @@
         "id": "8nsV1giVLOQ",
         "title": "‘Ngoài Dự Tính’ - Bùi Công Nam (Official Music Video)",
         "channelTitle": "Bùi Công Nam",
-        "viewCount": 1510798,
+        "viewCount": 1510606,
         "publishedAt": "2026-11-05T13:00:11Z"
       },
       {
@@ -140,7 +140,7 @@
         "id": "BPZkZpGMpXA",
         "title": "KING: Tu Mil Jaaye | Shah Rukh Khan, Deepika | Sachin-Jigar, Arijit, Ed Sheeran, Madhubanti, Kumaar",
         "channelTitle": "T-Series",
-        "viewCount": 88694515,
+        "viewCount": 88694523,
         "publishedAt": "2026-11-01T18:39:02Z"
       },
       {
@@ -154,7 +154,7 @@
         "id": "eR20KCC6oPs",
         "title": "Sushant KC - Na Lajai ft. Situsit (Official Music Video)",
         "channelTitle": "Sushant KC",
-        "viewCount": 1830124,
+        "viewCount": 1830391,
         "publishedAt": "2026-11-07T13:15:11Z"
       },
       {
@@ -238,7 +238,7 @@
         "id": "uXymCnWk9LI",
         "title": "Olivia Rodrigo - take me home (4 christmas)",
         "channelTitle": "OliviaRodrigoVEVO",
-        "viewCount": 7760663,
+        "viewCount": 7761139,
         "publishedAt": "2026-11-06T01:00:08Z"
       }
     ]
