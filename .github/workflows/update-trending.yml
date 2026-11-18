@@ -2,33 +2,44 @@ name: TrucBlog daily YouTube Music Trending
 
 on:
   schedule:
-    - cron: "20 0 * * *"  # 08:20 Perth / 07:20 Vietnam
+    - cron: '20 0 * * *' # 08:20 Perth / 07:20 Vietnam
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: trucblog-music-daily
+  cancel-in-progress: false
+
 jobs:
-  update-charts:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - name: Refresh public chart snapshot
+          python-version: '3.12'
+      - name: Update video & playlist discoveries
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TREND_CHART_LIMIT: '250'
+          TREND_GENRE_LIMIT: '70'
+          TREND_PLAYLIST_LIMIT: '6'
+          TREND_SEARCH_BUDGET: '88'
+          TREND_SEARCH_DAYS: '365'
+          TREND_GENRES: 'vpop,bolero,remix,lofi,instrumental,usuk,kpop,jpop,catholic,children,gameshow,movie'
         run: python scripts/update_trending.py
-      - name: Commit snapshot if changed
+      - name: Publish JSON to repository
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add trending.json
           if ! git diff --cached --quiet; then
-            git commit -m "Daily YouTube Music chart update"
-            git push
+            git commit -m 'Refresh TrucBlog music videos and playlists'
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
