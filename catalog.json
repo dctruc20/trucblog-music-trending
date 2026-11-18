@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "",
+  "tracks": [
+    {
+      "id": "tb-archive-1",
+      "title": "Fox Rain – Instrumental",
+      "artist": "Kho hòa tấu",
+      "genre": "Instrumental",
+      "sourceType": "mp3",
+      "url": "https://archive.org/download/fox-rain-instrumental/Fox%20Rain%20-%20Instrumental.mp3",
+      "ytId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#0ea5e9",
+        "#8b5cf6"
+      ],
+      "lyrics": "Tệp âm thanh trên Internet Archive; khả năng phát phụ thuộc vào quyền truy cập của máy chủ."
+    },
+    {
+      "id": "tb-archive-2",
+      "title": "Aloha – Cool – Instrumental",
+      "artist": "Kho hòa tấu",
+      "genre": "Instrumental",
+      "sourceType": "mp3",
+      "url": "https://archive.org/download/fox-rain-instrumental/Aloha%20-%20Cool%20-%20Instrumental.mp3",
+      "ytId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#0ea5e9",
+        "#8b5cf6"
+      ],
+      "lyrics": "Tệp âm thanh trên Internet Archive; khả năng phát phụ thuộc vào quyền truy cập của máy chủ."
+    },
+    {
+      "id": "tb-archive-3",
+      "title": "Chill Trip Nhạc Nền",
+      "artist": "Kho hòa tấu",
+      "genre": "Instrumental",
+      "sourceType": "mp3",
+      "url": "https://archive.org/download/fox-rain-instrumental/Chill%20Trip%20Nh%E1%BA%A1c%20N%E1%BB%81n.mp3",
+      "ytId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#0ea5e9",
+        "#8b5cf6"
+      ],
+      "lyrics": "Tệp âm thanh trên Internet Archive; khả năng phát phụ thuộc vào quyền truy cập của máy chủ."
+    },
+    {
+      "id": "tb-archive-4",
+      "title": "Flowers Letter (Piano Version)",
+      "artist": "Kho hòa tấu",
+      "genre": "Instrumental",
+      "sourceType": "mp3",
+      "url": "https://archive.org/download/fox-rain-instrumental/Flowers%20Letter%20%28Piano%20Version%29.mp3",
+      "ytId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#0ea5e9",
+        "#8b5cf6"
+      ],
+      "lyrics": "Tệp âm thanh trên Internet Archive; khả năng phát phụ thuộc vào quyền truy cập của máy chủ."
+    },
+    {
+      "id": "tb-01",
+      "title": "Cơn Mưa Ngang Qua (Lofi Chill Session)",
+      "artist": "Sơn Tùng M-TP",
+      "genre": "V-Pop",
+      "sourceType": "mp3",
+      "url": "",
+      "ytId": "Llw9Q6akRo4",
+      "duration": "03:52",
+      "durationSec": 232,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#ec4899"
+      ],
+      "notes": [
+        261.63,
+        329.63,
+        392,
+        523.25,
+        392,
+        329.63
+      ],
+      "tempo": 112,
+      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    },
+    {
+      "id": "tb-02",
+      "title": "Chắc Ai Đó Sẽ Về (Acoustic MV)",
+      "artist": "Sơn Tùng M-TP",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=TTP1J_1999A",
+      "ytId": "TTP1J_1999A",
+      "duration": "04:22",
+      "durationSec": 262,
+      "plays": 0,
+      "colors": [
+        "#ec4899",
+        "#f43f5e"
+      ],
+      "notes": [
+        220,
+        261.63,
+        329.63,
+        440,
+        329.63,
+        261.63
+      ],
+      "tempo": 88,
+      "lyrics": "Anh tìm nỗi nhớ, anh tìm quá khứ...\nNhớ lắm kí ức anh và em.\nTrả lại anh yêu thương ấy, xin người hãy về nơi đây."
+    },
+    {
+      "id": "tb-03",
+      "title": "Duyên Phận (Bolero Phòng Trà Tuyển Chọn)",
+      "artist": "Như Quỳnh",
+      "genre": "Bolero",
+      "sourceType": "mp3",
+      "url": "",
+      "ytId": "W9A62m2a8hE",
+      "duration": "05:18",
+      "durationSec": 318,
+      "plays": 0,
+      "colors": [
+        "#f59e0b",
+        "#b45309"
+      ],
+      "notes": [
+        196,
+        246.94,
+        293.66,
+        392,
+        293.66,
+        246.94
+      ],
+      "tempo": 74,
+      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    },
+    {
+      "id": "tb-04",
+      "title": "Vùng Lá Me Bay (Trữ Tình Quê Hương)",
+      "artist": "Như Quỳnh",
+      "genre": "Bolero",
+      "sourceType": "lossless",
+      "url": "",
+      "ytId": "3M7vG2V1k8k",
+      "duration": "04:55",
+      "durationSec": 295,
+      "plays": 0,
+      "colors": [
+        "#eab308",
+        "#10b981"
+      ],
+      "notes": [
+        246.94,
+        293.66,
+        369.99,
+        493.88,
+        369.99,
+        293.66
+      ],
+      "tempo": 72,
+      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    },
+    {
+      "id": "tb-05",
+      "title": "Video mẫu kiểm thử HLS (Mux)",
+      "artist": "Mux Test Stream",
+      "genre": "EDM & Remix",
+      "sourceType": "hls",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "ytId": "5qap5aO4i9A",
+      "duration": "06:10",
+      "durationSec": 370,
+      "plays": 0,
+      "colors": [
+        "#06b6d4",
+        "#3b82f6"
+      ],
+      "notes": [
+        130.81,
+        261.63,
+        196,
+        392,
+        164.81,
+        329.63
+      ],
+      "tempo": 138,
+      "lyrics": "Luồng HLS thử nghiệm; đây không phải bài nhạc được đặt tên ở phiên bản cũ."
+    },
+    {
+      "id": "tb-06",
+      "title": "Chiều Mưa Phố Nhỏ (Guitar Lofi Chill)",
+      "artist": "Đen Vâu",
+      "genre": "Lofi & Chill",
+      "sourceType": "mp3",
+      "url": "",
+      "ytId": "ddaEtFOsFeM",
+      "duration": "03:40",
+      "durationSec": 220,
+      "plays": 0,
+      "colors": [
+        "#10b981",
+        "#0ea5e9"
+      ],
+      "notes": [
+        293.66,
+        349.23,
+        440,
+        523.25,
+        440,
+        349.23
+      ],
+      "tempo": 84,
+      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    },
+    {
+      "id": "tb-07",
+      "title": "Hai Triệu Năm (Acoustic Live Video)",
+      "artist": "Đen Vâu",
+      "genre": "Lofi & Chill",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=LSMDNL4n0kM",
+      "ytId": "LSMDNL4n0kM",
+      "duration": "03:38",
+      "durationSec": 218,
+      "plays": 0,
+      "colors": [
+        "#0ea5e9",
+        "#6366f1"
+      ],
+      "notes": [
+        261.63,
+        311.13,
+        392,
+        466.16,
+        392,
+        311.13
+      ],
+      "tempo": 90,
+      "lyrics": "Quanh anh toàn là nước, cơ thể anh đang ướt...\nMênh mông là biển cả, anh chỉ có một mình."
+    },
+    {
+      "id": "tb-08",
+      "title": "Hẹn Ước Từ Hư Vô (Live Concert)",
+      "artist": "Mỹ Tâm",
+      "genre": "V-Pop",
+      "sourceType": "mp3",
+      "url": "",
+      "ytId": "j8U06veqxdU",
+      "duration": "04:30",
+      "durationSec": 270,
+      "plays": 0,
+      "colors": [
+        "#f43f5e",
+        "#a855f7"
+      ],
+      "notes": [
+        329.63,
+        392,
+        493.88,
+        659.25,
+        493.88,
+        392
+      ],
+      "tempo": 80,
+      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    },
+    {
+      "id": "tb-09",
+      "title": "Midnight Cyberpunk Synthwave (US-UK Hit)",
+      "artist": "Alan Walker",
+      "genre": "US-UK",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=60ItHLz5WEA",
+      "ytId": "60ItHLz5WEA",
+      "duration": "03:32",
+      "durationSec": 212,
+      "plays": 0,
+      "colors": [
+        "#6366f1",
+        "#ec4899"
+      ],
+      "notes": [
+        220,
+        293.66,
+        329.63,
+        440,
+        392,
+        329.63
+      ],
+      "tempo": 124,
+      "lyrics": "You were the shadow to my light, did you feel us?\nAnother star, you fade away..."
+    },
+    {
+      "id": "tb-10",
+      "title": "Suối Nguồn Bình Yên (Piano & Sáo Trúc Hòa Tấu)",
+      "artist": "Băng Tâm Ensemble",
+      "genre": "Instrumental",
+      "sourceType": "lossless",
+      "url": "",
+      "ytId": "DWcJFNfaw9c",
+      "duration": "05:05",
+      "durationSec": 305,
+      "plays": 0,
+      "colors": [
+        "#14b8a6",
+        "#3b82f6"
+      ],
+      "notes": [
+        261.63,
+        293.66,
+        329.63,
+        392,
+        440,
+        523.25
+      ],
+      "tempo": 68,
+      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    }
+  ],
+  "artists": {}
+}
