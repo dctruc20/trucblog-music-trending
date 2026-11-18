@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "YouTube Data API videos.list chart=mostPopular category=Music",
-  "updatedAt": "2026-11-18T17:14:47Z",
+  "updatedAt": "2026-11-18T17:15:22Z",
   "refreshedRegions": [
     "VN",
     "AU"
@@ -40,7 +40,7 @@
         "id": "_DDdTphLxKI",
         "title": "TRÚC NHÂN ft. WREN EVANS | VÌ ANH QUÁ ĐẸP TRAI | OFFICIAL PERFORMANCE",
         "channelTitle": "Trúc Nhân",
-        "viewCount": 3945147,
+        "viewCount": 3944150,
         "publishedAt": "2026-11-01T16:36:39Z"
       },
       {
@@ -82,7 +82,7 @@
         "id": "oaxpY1EjLH0",
         "title": "DC Tâm Remix - Mashup 15 In 1 Cực Cuốn 2026 🔥 Về Đây Em Lo x Đắng Cay Tuổi Đôi Mươi x Vở Kịch Của Em",
         "channelTitle": "DC Tâm",
-        "viewCount": 640870,
+        "viewCount": 641443,
         "publishedAt": "2026-10-30T11:45:32Z"
       },
       {
@@ -140,7 +140,7 @@
         "id": "BPZkZpGMpXA",
         "title": "KING: Tu Mil Jaaye | Shah Rukh Khan, Deepika | Sachin-Jigar, Arijit, Ed Sheeran, Madhubanti, Kumaar",
         "channelTitle": "T-Series",
-        "viewCount": 88686154,
+        "viewCount": 88694515,
         "publishedAt": "2026-11-01T18:39:02Z"
       },
       {
@@ -168,7 +168,7 @@
         "id": "XO1h5G6xytU",
         "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
         "channelTitle": "Daddy Yankee",
-        "viewCount": 48267851,
+        "viewCount": 48268377,
         "publishedAt": "2026-10-30T04:00:11Z"
       },
       {
