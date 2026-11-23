@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:04:30.677Z",
+  "updatedAt": "2026-11-23T20:06:47.864Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtp5do4-rf15m5",
+      "title": "Nhạc trẻ",
+      "artist": "V-Pop",
+      "genre": "V-Pop",
+      "sourceType": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=RDDrX8FbkWhxE",
+      "ytId": "",
+      "playlistId": "RDDrX8FbkWhxE",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Playlist cập nhật tự động từ YouTube khi kênh thêm hoặc thay đổi video."
+    },
     {
       "id": "tb-admin-mwtp130k-ka0x59",
       "title": "Quốc Thiên",
