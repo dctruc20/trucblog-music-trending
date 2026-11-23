@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:25:13.506Z",
+  "updatedAt": "2026-11-23T19:25:55.515Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1647,12 +1647,14 @@
     {
       "id": "tb-yt-QSvWbkialq8",
       "title": "Chút KN Buồn | LK NHẠC DÂN CA - Remix Hay Nhất 2026 | LK NHẠC ĐỎ  GÁI XINH REMIX | Dân Ca Việt",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "artist": "Không tên",
+      "genre": "Nhạc Quê Hương / Dân Ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=QSvWbkialq8",
       "ytId": "QSvWbkialq8",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1660,10 +1662,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
-      "lyrics": "Chút KN Buồn | LK NHẠC DÂN CA - Remix Hay Nhất 2026 | LK NHẠC ĐỎ  GÁI XINH REMIX | Dân Ca Việt\n#canhac #vinahouse #nonstop2025\n#canhac #nonstop2025 #vinahouse\nLK NHẠC DÂN CA - Remix Hay Nhất 2026 | Mãu Xinh  Remix | LK NHẠC ĐỎ REMIX Bass Cực Căng\n#canhac #nonstop2025 #vinahouse\nLK NHẠC DÂN CA - Remix Hay Nhất 2025 | Duyên Quê Remix | LK NHẠC ĐỎ REMIX Bass Cực Căng\n#nonstop2025 #canhac #vinahouse\nLK NHẠC DÂN CA -  Remix Hay Nhất 2025 | Diệu Ví Dặm Là Em | LK NHẠC ĐỎ REMIX Bas Cực Căng\n#nonstop2025 #canhac #vinahouse\n#nonstop2025 #canhac #nhacsanremix\nRỪNG XANH VANG TIẾNG TA LƯU - TIẾNG ĐÀN TA LƯ - Lk Nhạc Đỏ Remix Cực Hay - Nhạc Sống Vùng Cao Remix\n#nonstop2025 #canhac #nhacsanremix\nTIẾNG ĐÀN TA LƯ - Lk Nhạc Đỏ Remix Cực Hay - Nhạc Sống Vùng Cao Tây Bắc Càng Nghe Càng Phê 2025\n#nonstop2025 ",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "coverUrl": "",
+      "lyrics": "Chút KN Buồn | LK NHẠC DÂN CA - Remix Hay Nhất 2026 | LK NHẠC ĐỎ  GÁI XINH REMIX | Dân Ca Việt\n#canhac #vinahouse #nonstop2025\n#canhac #nonstop2025 #vinahouse\nLK NHẠC DÂN CA - Remix Hay Nhất 2026 | Mãu Xinh  Remix | LK NHẠC ĐỎ REMIX Bass Cực Căng\n#canhac #nonstop2025 #vinahouse\nLK NHẠC DÂN CA - Remix Hay Nhất 2025 | Duyên Quê Remix | LK NHẠC ĐỎ REMIX Bass Cực Căng\n#nonstop2025 #canhac #vinahouse\nLK NHẠC DÂN CA -  Remix Hay Nhất 2025 | Diệu Ví Dặm Là Em | LK NHẠC ĐỎ REMIX Bas Cực Căng\n#nonstop2025 #canhac #vinahouse\n#nonstop2025 #canhac #nhacsanremix\nRỪNG XANH VANG TIẾNG TA LƯU - TIẾNG ĐÀN TA LƯ - Lk Nhạc Đỏ Remix Cực Hay - Nhạc Sống Vùng Cao Remix\n#nonstop2025 #canhac #nhacsanremix\nTIẾNG ĐÀN TA LƯ - Lk Nhạc Đỏ Remix Cực Hay - Nhạc Sống Vùng Cao Tây Bắc Càng Nghe Càng Phê 2025\n#nonstop2025",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-q86XPtR-rY0",
