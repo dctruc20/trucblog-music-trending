@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:06:47.864Z",
+  "updatedAt": "2026-11-23T20:08:20.321Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -3830,6 +3830,11 @@
     },
     "Quốc Thiên": {
       "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Qu%E1%BB%91c_Thi%C3%AAn_n%C4%83m_2025.jpg/500px-Qu%E1%BB%91c_Thi%C3%AAn_n%C4%83m_2025.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "",
+      "isAI": false
+    },
+    "Sơn Tùng M-TP": {
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Son_Tung_M-TP_1_%282021%29.png/500px-Son_Tung_M-TP_1_%282021%29.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "bio": "",
       "isAI": false
     }
