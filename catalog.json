@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:15:32.673Z",
+  "updatedAt": "2026-11-23T20:16:28.456Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtphtqn-zgyg3h",
+      "title": "Dù cho tận thế (vẫn yêu em)",
+      "artist": "ERIK",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=js6JBdLzNn4",
+      "ytId": "js6JBdLzNn4",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
+    },
     {
       "id": "tb-admin-mwtpgmnt-caikmg",
       "title": "2 năm 1 không",
