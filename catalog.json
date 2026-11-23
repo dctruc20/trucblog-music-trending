@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:38:21.111Z",
+  "updatedAt": "2026-11-23T19:38:45.722Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1611,13 +1611,15 @@
     },
     {
       "id": "tb-yt-CDPT37cWCT0",
-      "title": "Diệu Vời Tình Cha || Sáng tác : Lê Tiệp || Tb : Sr Xoan Nguyễn SDC || Nhạc Thánh Ca",
-      "artist": "Thu Phương",
+      "title": "Diệu Vời Tình Cha",
+      "artist": "Sr Xoan Nguyễn SDC",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=CDPT37cWCT0",
       "ytId": "CDPT37cWCT0",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1625,7 +1627,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "\"Tình Yêu Chúa cao vời con biết lấy gì đáp đền một tình yêu bao la diệu vời khôn ví \"\nDiệu Vời Tình Cha \nSáng tác : Lê Tiệp \nTrình bày : Sr Xoan Nguyễn SDC\n#Dieuvoitinhcha\n#SrXoannguyen\n#studiothánhca \n------------------------------------------------------\n☞ Subscribe để tiện theo dõi: https://www.youtube.com/channel/UC8HsmIbFckDQSoYgA1_7uuw?sub_confirmation=1\n☞ Facebook: https://www.facebook.com/Nguyenhien.ilovemusic\n☞ Fanpage : https://www.facebook.com/phongthuchuyennghiep\n======================\n★ Mọi ý kiến thắc mắc và đóng góp xin gửi về qua địa chỉ:\nFacebook cá nhân:  https://www.facebook.com/Nguyenhien.ilovemusic\n Email: nguyenhienkeyboard@gmail.com\nCần hòa âm nhạc thánh ca Liên hệ \nMail:nguyenhienkeyboard@gmail.com\nTel : 0973645004\n======================\n★ NOTE: Nếu có bất kỳ vấn đề",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
