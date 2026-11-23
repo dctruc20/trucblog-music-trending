@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:35:57.430Z",
+  "updatedAt": "2026-11-23T19:36:20.538Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1000,13 +1000,15 @@
     },
     {
       "id": "tb-yt-KLiTRjpX9ZU",
-      "title": "XIN CHÚA XÓT THƯƠNG | Lm.Thái Nguyên | Thánh Ca - Thiên Anh",
-      "artist": "Thu Phương",
+      "title": "XIN CHÚA XÓT THƯƠNG",
+      "artist": "Thiên Anh",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=KLiTRjpX9ZU",
       "ytId": "KLiTRjpX9ZU",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1014,7 +1016,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "🙏 XIN CHÚA XÓT THƯƠNG | Sáng tác: Lm. Thái Nguyên\n\n“Xin Chúa Xót Thương” là một ca khúc Thánh ca Công giáo mang tâm tình sám hối và cầu xin lòng thương xót của Thiên Chúa. Trước những yếu đuối, lỗi lầm và giới hạn của phận người, người tín hữu khiêm nhường trở về bên Chúa, tha thiết xin Ngài tha thứ, chữa lành và nâng đỡ.\nQua những giai điệu sâu lắng và lời ca chân thành, bài hát như một lời nguyện của tâm hồn đang tìm kiếm sự bình an nơi Chúa. Dù con người có thể nhiều lần vấp ngã, tình thương của Thiên Chúa vẫn luôn rộng mở, mời gọi chúng ta trở về và đặt trọn niềm tin nơi Ngài.\n\n🎵 Sáng tác: Lm. Thái Nguyên\n🎼 Âm nhạc & hình ảnh: Thiên Anh\n\n🙏 Lạy Chúa, xin thương xót chúng con. Xin tha thứ những lỗi lầm, những thiếu sót và những lần chúng con đã xa rời tình yêu của Ngài.\nXin chữa lành",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
