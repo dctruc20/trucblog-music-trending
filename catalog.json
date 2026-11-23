@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:31:38.218Z",
+  "updatedAt": "2026-11-23T19:32:20.422Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1550,13 +1550,15 @@
     },
     {
       "id": "tb-yt-XEjaQv_qGok",
-      "title": "Mỗi Người Một Số Phận - Bài hát đời nhất năm nay | nghe mà thấm từng câu chữ | Phương Dung",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "Mỗi Người Một Số Phận",
+      "artist": "Phương Dung",
+      "genre": "Bolero",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=XEjaQv_qGok",
       "ytId": "XEjaQv_qGok",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1564,10 +1566,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "\"Mỗi Người Một Phận Số\" là bản nhạc sâu lắng, chạm đến trái tim người nghe bằng những lời ca đầy cảm xúc về thân phận con người. Dù sinh ra cùng trong gian khó, mỗi người lại có một lối rẽ riêng – người vươn lên từ nghèo khó, người mãi loay hoay trong bế tắc. Giai điệu buồn, da diết cùng ca từ chân thật khiến ai nghe cũng phải lặng người suy ngẫm về chính cuộc đời mình.\n\n🔥 Chào mừng đến với Phương Dung Entertainment!\n\nKênh chuyên mang đến những ca khúc remix sôi động, nhạc chế hài hước, cùng những bản bolero sâu lắng qua giọng ca của Phương Dung và các anh chị em nghệ sĩ trong team. Hãy đăng ký kênh để cập nhật những bản nhạc hot nhất mỗi ngày! 🎶🎧\n\n📌 Theo dõi chúng tôi:\n🔔 Đăng ký kênh: http://www.youtube.com/@Ph%C6%B0%C6%A1ngDungbolero1982\n🌎 Website: [Link website nếu có]\n\n📩 Liên hệ",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-CDPT37cWCT0",
