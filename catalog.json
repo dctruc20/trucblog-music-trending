@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:27:36.212Z",
+  "updatedAt": "2026-11-23T19:28:02.431Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1328,12 +1328,14 @@
     {
       "id": "tb-yt-6-rFYEp_5dw",
       "title": "CUỘC TÌNH KHÔNG TÊN 2 - Top Bảng Xếp Hạng Ca Khúc Bolero Hay Nhất | Nghĩa Trần AI",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "artist": "AI",
+      "genre": "Nhạc AI",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=6-rFYEp_5dw",
       "ytId": "6-rFYEp_5dw",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1341,10 +1343,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "💖 Cảm ơn quý cô chú anh chị và các bạn đã ghé thăm và ủng hộ kênh.\nĐừng quên nhấn Đăng Ký Kênh, Like và Chia Sẻ để tiếp thêm động lực cho NGHĨA TRẦN  AI ra thêm nhiều ca khúc Bolero trữ tình hay nhất nhé!\n💖 Chúc Quý Khách Nghe Nhạc Vui Vẻ !\n\n🎼 : CUỘC TÌNH KHÔNG TÊN 2 \n✍️ Sáng Tác: Thanh Tùng\n🎤 Trình Bày: Nghĩa Trần Al\nÂm Thanh Và Video Được Tạo AI \nĐược Quản Lý Bởi Trần Đình Nghĩa\nMọi chi tiết vui lòng liên hệ sdt : 0972824342",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": true,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-JWPIWvdNLog",
