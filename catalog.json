@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:51:36.839Z",
+  "updatedAt": "2026-11-23T19:52:08.490Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtomjla-g3ruci",
+      "title": "ĐỪNG LÀM TRÁI TIM ANH ĐAU",
+      "artist": "Sơn Tùng M-TP",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=abPmZCZZrFA",
+      "ytId": "abPmZCZZrFA",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
+    },
     {
       "id": "tb-admin-mwtolupr-aqvfak",
       "title": "MUỘN RỒI MÀ SAO CÒN",
