@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:28:02.431Z",
+  "updatedAt": "2026-11-23T19:28:31.387Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1306,13 +1306,15 @@
     },
     {
       "id": "tb-yt-F9ZyFpZJrSY",
-      "title": "Trác Tuyệt \" Mười Ngón Tay Tình Yêu Remix - Saka Trương Tuyền \" Mới Nhất | Bài Hát Remix Tỷ View",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "Mười Ngón Tay Tình Yêu Remix",
+      "artist": "Saka Trương Tuyền",
+      "genre": "V-Pop",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=F9ZyFpZJrSY",
       "ytId": "F9ZyFpZJrSY",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1320,10 +1322,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Trác Tuyệt \" Mười Ngón Tay Tình Yêu Remix - Saka Trương Tuyền \" Mới Nhất | Bài Hát Remix Tỷ View\nSaka Trương Tuyền Music : https://youtube.com/playlist?list=PLMEAt0i9z_nhe_WQaItXoePlbPNVPoboP\nSaka Trương Tuyền Remix : https://www.youtube.com/playlist?list=PLMEAt0i9z_njAo7X8piY0JQ-2dkKj6ULF\n#sakatruongtuyen \nĐăng Ký Kênh Chính Thức : https://www.youtube.com/channel/UCRL-y2Qjy2MbuJcHOdiVelQ",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-6-rFYEp_5dw",
