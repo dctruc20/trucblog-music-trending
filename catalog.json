@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:26:26.639Z",
+  "updatedAt": "2026-11-23T19:26:37.582Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1623,27 +1623,6 @@
         "#0ea5e9"
       ],
       "lyrics": "Ca khúc: Xin bên con Chúa ơi\nSáng tác: Jb. An Ninh\nTrình bày: Ca sĩ Tuyết Mai\n#thanhca #nhacthanhca #Jbanninh #tuyetmai",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
-    },
-    {
-      "id": "tb-yt--kQ5UboPVTs",
-      "title": "KIDDA - AKUZA",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
-      "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=-kQ5UboPVTs",
-      "ytId": "-kQ5UboPVTs",
-      "playlistId": "",
-      "duration": "00:00",
-      "durationSec": 0,
-      "plays": 0,
-      "colors": [
-        "#8b5cf6",
-        "#0ea5e9"
-      ],
-      "lyrics": "Stream on digital platforms - https://found.ee/kidda-akuza\n\nProduced by - Redy \nVideo by - Valon Aziri\nDirected by - Valon Aziri, KIDDA\nVFX/ Floridvfx\nLyrics , melody, recording - Kidda\nMix & Master - Redy\nExecutive Prod - Jetmir Agaj, Kidda",
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
