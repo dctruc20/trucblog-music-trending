@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:15:26.474Z",
+  "updatedAt": "2026-11-23T19:18:32.467Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1056,12 +1056,14 @@
     {
       "id": "tb-yt-RoK5Fs8lT2s",
       "title": "Ánh Trăng Nói Hộ Lòng Tôi – 月亮代表我的心 | Như Tâm | Nhạc Trung Thu Trữ Tình",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "artist": "AI",
+      "genre": "Nhạc AI",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=RoK5Fs8lT2s",
       "ytId": "RoK5Fs8lT2s",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1069,10 +1071,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Ánh Trăng Nói Hộ Lòng Tôi – 月亮代表我的心 qua giọng hát Như Tâm, một ca khúc tình ca kinh điển mang màu sắc dịu dàng, sâu lắng và đặc biệt phù hợp với không khí Tết Trung Thu.\n\nMV tái hiện một đêm Trung Thu đặc biệt trong trại giam: ánh đèn lồng lung linh, bánh Trung Thu, những khoảnh khắc vui vẻ rồi dần lắng lại theo tiếng hát. Ánh trăng trở thành hình ảnh gửi gắm nỗi nhớ và tình cảm trong lòng người.\n\n🎤 Ca sĩ: Như Tâm\n🎵 Tên bài: Ánh Trăng Nói Hộ Lòng Tôi\n🇨🇳 Tên tiếng Trung: 月亮代表我的心\n✍️ Tác giả gốc: Nhạc – 翁清溪 (Weng Ching-hsi/Tony) | Lời – 孫儀 (Sun Yi)\n🎙️ Ca khúc gốc: 月亮代表我的心\n🌕 Chủ đề: Trung Thu • Ánh trăng • Tình yêu • Nỗi nhớ\n\n🎬 Music Video: TDL Entertainment\n\n#AnhTrangNoiHoLongToi #月亮代表我的心 #NhuTam #NhacTrungThu #NhacTrungHoa #NhacTruTinh #TrungThu #TDLEntertainment",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": true,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-Ok2mzKYHdVw",
