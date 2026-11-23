@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:18:12.448Z",
+  "updatedAt": "2026-11-23T20:18:58.996Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtpl1ws-43scgf",
+      "title": "êu đương khó quá thì CHẠY VỀ KHÓC VỚI ANH",
+      "artist": "ERIK",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=EBpp2VTSI2Q",
+      "ytId": "EBpp2VTSI2Q",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
+    },
     {
       "id": "tb-admin-mwtpk1n3-qvjs0o",
       "title": "Em Không Sai, Chúng Ta Sai",
