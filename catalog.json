@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:52:08.490Z",
+  "updatedAt": "2026-11-23T19:53:03.799Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtonp55-lpnb56",
+      "title": "CÓ CHẮC YÊU LÀ ĐÂY",
+      "artist": "Sơn Tùng M-TP",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=6t-MjBazs3o",
+      "ytId": "6t-MjBazs3o",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
+    },
     {
       "id": "tb-admin-mwtomjla-g3ruci",
       "title": "ĐỪNG LÀM TRÁI TIM ANH ĐAU",
