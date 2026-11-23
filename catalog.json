@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:19:04.146Z",
+  "updatedAt": "2026-11-23T19:20:03.192Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1248,13 +1248,15 @@
     },
     {
       "id": "tb-yt-WahLapMImJU",
-      "title": "Hai Chữ Tiền Tình – Giọng Ca Độc Lạ Phương Dung | MV Tâm Trạng 2025 | St : Nhạc Sĩ Thanh Hùng",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "Hai Chữ Tiền Tình",
+      "artist": "Phương Dung",
+      "genre": "Bolero",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=WahLapMImJU",
       "ytId": "WahLapMImJU",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1262,10 +1264,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "💔Tiền và Tình – đôi khi chỉ cách nhau một bước, nhưng cũng có thể là cả một đời xa cách...\n\n🎼 Hai Chữ Tiền Tình – sáng tác  của nhạc sĩ Thanh Hùng, được thể hiện sâu lắng qua chất giọng đầy cảm xúc của Phương Dung.\n\nCa khúc là một lời tự sự về những mối quan hệ khi yêu thương không còn thuần khiết, mà có thêm tiếng động của đồng tiền chen ngang...\n\n🔔 Mời bạn cùng lắng nghe và cảm nhận – liệu tình yêu có đủ sức mạnh để vượt qua thử thách của vật chất?\n\n#HaiChuTienTinh #PhuongDungOfficial #ThanhHung #NhacTinhBuon #MVMoi2025 #NhacTamTrang #nhactrutinh \n\n🎵 Kênh YouTube chính thức của Phương Dung 🎵\n\nChào mừng bạn đến với không gian âm nhạc đậm chất trữ tình, bolero và những giai điệu sâu lắng. Đây là nơi Phương Dung gửi gắm những tâm tư, cảm xúc qua từng bài hát, mang đến sự đồng cảm và ch",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt--oIuw_rQlkQ",
