@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T17:42:23.168Z",
+  "updatedAt": "2026-11-23T17:46:33.364Z",
   "source": "TrucBlog Music Admin v4.14",
   "tracks": [
     {
@@ -428,19 +428,26 @@
     },
     {
       "id": "tb-curated-v43-4",
-      "title": "Thánh Ca Đi Vào Lòng Người 2026",
-      "artist": "Nguyễn Hồng Ân Official",
+      "title": "Hồng Ân Chúa",
+      "artist": "Kim Tuyến",
       "genre": "Nhạc Thánh Ca",
       "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=xfdouVBWePc",
-      "ytId": "xfdouVBWePc",
+      "url": "https://www.youtube.com/watch?v=g8YX_6aG7-0",
+      "ytId": "g8YX_6aG7-0",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
+      "durationSec": 0,
       "plays": 0,
       "colors": [
         "#8b5cf6",
-        "#06b6d4"
+        "#0ea5e9"
       ],
-      "lyrics": "Tuyển tập cầu nguyện và tạ ơn."
+      "coverUrl": "",
+      "lyrics": "Hồng Ân Chúa\nTác giả: Fa Lê\n\n1. Hồng ân Chúa ả ơi là tiếng hát ru của mẹ, là tay cha đỡ nâng dìu con bước đi đầu tiên. Hồng ân Chúa đêm ngày ủ ấp mến thương dư đầy. Lòng hân hoan tán dương cảm tạ tình Chúa.\n\n2. Gọi tên con bước theo tình Chúa hiến trao một chiều, một tình yêu chết thay dù bao thế nhân đổi thay. Ngài gọi con theo Ngài mặc bao gió sương đường dài. Đường tương lai phó dâng tay Ngài từ đây.\n\n3. Đường con đi khó nguy cùng Chúa con qua muôn trùng, dù thân con đáng chi Ngài luôn giúp con cùng đi. Cùng với Chúa song hành truyền rao Phúc âm an lành. Đường có Chúa phúc thay ôi kỳ diệu thay.\n\nĐK: Hồng ân Chúa như là mưa chứa chan đổ xuống trên cuộc đời con. Để hồn con, hồn con tắm trong tình yêu Chúa bao chờ mong. Hồng ân Chúa nâng hồn con lên Thánh Nhan tới thiên đàng vinh sáng. Hồng ân Chúa bên con tháng năm mãi nồng thắm.",
+      "isCatholic": true,
+      "catholicCategory": "other"
     },
     {
       "id": "tb-curated-v43-5",
