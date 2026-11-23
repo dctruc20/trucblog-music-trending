@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:59:21.860Z",
+  "updatedAt": "2026-11-23T20:00:43.843Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -353,7 +353,7 @@
     },
     {
       "id": "tb-04",
-      "title": "https://www.youtube.com/watch?v=vDzyQ75nU-k",
+      "title": "THƯƠNG NHAU LÝ TƠ HỒNG",
       "artist": "HIỀN NGÂN",
       "genre": "Bolero",
       "sourceType": "lossless",
@@ -371,7 +371,9 @@
       ],
       "coverUrl": "",
       "lyrics": "Từ miền Nam em ngược ra Bắc mang theo câu hò điệu lý chín dòng sông\nMang theo tấm lòng con trai miệt vườn\nEm ra đón chàng với cả yêu thương\nNày ngựa ô kiệu vàng anh khớp xôn xao câu hò điệu lý bớ nàng ơi\nBăng qua núi đồi cao cao chập chùng đưa nàng về dinh xao xuyến lý chung tình\n\nQuan họ người ơi tương tư mà chim sáo\nSe chỉ luồn kim thiếp thương chàng từ lâu\nÁo bay ai đã qua cầu đôi mình duyên tình đậm sâu\nQuan họ người ơi tương tư mà chim sáo\nĐến hẹn lại lên thiếp theo chàng một phen\nGió đưa bông lúa trên đồng thương nhau lý tơ hồng\n... Tơ hồng ngựa ô ngựa ô ...",
+      "isAI": false,
       "isCatholic": false,
+      "collection": "",
       "catholicCategory": ""
     },
     {
