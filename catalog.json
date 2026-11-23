@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:03:32.699Z",
+  "updatedAt": "2026-11-23T20:04:16.149Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -3809,6 +3809,11 @@
     "AI": {
       "photo": "",
       "bio": ""
+    },
+    "Quốc Thiên": {
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Qu%E1%BB%91c_Thi%C3%AAn_n%C4%83m_2025.jpg/500px-Qu%E1%BB%91c_Thi%C3%AAn_n%C4%83m_2025.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "bio": "",
+      "isAI": false
     }
   }
 }
