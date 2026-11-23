@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:34:54.282Z",
+  "updatedAt": "2026-11-23T19:35:39.186Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1265,13 +1265,15 @@
     },
     {
       "id": "tb-yt--oIuw_rQlkQ",
-      "title": "Đời Con Là Của Chúa - Thanh Hoài | Giai Điệu Thánh Ca Lay Động Trái Tim",
-      "artist": "Thu Phương",
+      "title": "Đời Con Là Của Chúa",
+      "artist": "Thanh Hoài",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=-oIuw_rQlkQ",
       "ytId": "-oIuw_rQlkQ",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1279,7 +1281,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Ca khúc: Đời Con Là Của Chúa\nSáng tác: Huỳnh Tấn Dũng\nCa sĩ : Thanh Hoài\n\n#thanhhoai #doiconlacuachua  #thanhca #nhacthanhca #thanhhoaiofficial #thanhcavietnam #thanhcathanhhoai #nhacconggiao #nhacthanhca \n\n________DANH SÁCH PHÁT________\n👉List Thánh Ca Hay Nhất Thanh Hoài: https://www.youtube.com/playlist?list=PL-0g8cJEN6QHTdwHCSfHc2Q5CToQWcqgU\n👉Tổng Hợp Thánh Ca Thanh Hoài: https://www.youtube.com/playlist?list=PL-0g8cJEN6QE_rQWRhAf8mulQ-ADltlx_\n👉Album Thánh Ca Dâng Mẹ: https://www.youtube.com/playlist?list=PL-0g8cJEN6QFG8JvgDdaLCR5LZSLEkVhd\n👉Nhạc Thánh Ca 2023 Hay Nhất: https://www.youtube.com/playlist?list=PL-0g8cJEN6QFM81noy_ZHWmetmCe7K6N3\n______________________________________________________\n\n♪ Mời mọi người cùng lắng nghe và đừng quên Đăng Ký kênh & Bật Chuông để đón xem những c",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
