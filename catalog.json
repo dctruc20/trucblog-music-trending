@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:37:39.457Z",
+  "updatedAt": "2026-11-23T19:37:57.350Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1536,13 +1536,15 @@
     },
     {
       "id": "tb-yt-Ax4_HTWFs3w",
-      "title": "05  Nữ Vương Địa Phận Vinh   Lệ Hằng",
-      "artist": "Thu Phương",
+      "title": "Nữ Vương Địa Phận Vinh",
+      "artist": "Lệ Hằng",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=Ax4_HTWFs3w",
       "ytId": "Ax4_HTWFs3w",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1550,7 +1552,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "NỮ VƯƠNG ĐỊA PHẬN VINH\nSáng tác: Tân kỳ\n#nuvuongdiaphanvinh\n\nrecord & Mix: Sangjoanb\nCamera: Sangjoanb\n\n1. Hôm nay đoàn con vào nơi đây từ non xanh mây ngàn chập chùng. Tới nơi xa biển khơi gió lộng từ thành thị tới tận đồng quê. Quê lam hồng dẫn con ơn thánh hợp ca khen chúc tụng mẹ lành. Maria nữ vương thái bình. Mẹ đẹp như ánh dương bình minh.\n\nĐk: chúng con chung muôn lời ca hát Đức Nữ Vương trên trời dưới đất. Kính tiến Mẹ ngàn hoa thơm ngát. Chúng con chung tấm lòng tôn kính. Đức Nữ Vương của Địa Phận Vinh. Kính tiến Mẹ ngàn hoa tươi xinh.\n\n2. Sông lam rộng biết là bao nhiêu còn thua xa tấm lòng Mẹ nhiều. Sóng ái ân nhẹ trôi sớm chiều. Dìu thuyền con tới quê tình yêu. Núi Hồng Lĩnh cao chót vót thế vượt sao hơn khối tình của Mẹ Lúc nắng mưa đoàn con tựa kề. Đời sầu thương có Mẹ chở c",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
