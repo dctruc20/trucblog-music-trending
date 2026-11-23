@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:55:12.458Z",
+  "updatedAt": "2026-11-23T19:57:56.391Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -2945,6 +2945,63 @@
       ],
       "lyrics": "“Diễm Xưa – Rock Ballad Version” là bản phối hiện đại do AI Memory Cover thực hiện, mang âm hưởng rock mạnh mẽ nhưng vẫn giữ trọn chiều sâu và chất thơ đặc trưng của Trịnh Công Sơn.\n\nTrong phiên bản này, giai điệu quen thuộc của “Diễm Xưa” được tái hiện bằng lead guitar da diết, trống rock ấm – chắc, bass mạnh, cùng giọng hát AI dày, giàu cảm xúc, tạo nên một không gian vừa hoài niệm vừa bùng nổ.\n\nĐây là hướng làm nhạc Trịnh rất mới: Rock Ballad / Rock Cinematic, nơi cảm xúc cô đơn, buồn mưa của bài hát được “thắp sáng” bằng năng lượng của rock — nhưng vẫn đầy chất tự sự.\n\nKhi bạn tìm: “Diễm Xưa rock”, “Diễm Xưa Trịnh Công Sơn”, “Diễm Xưa cover”, “nhạc Trịnh rock”, “rock ballad Việt Nam”… hy vọng YouTube sẽ đưa bạn đến đúng bản này.\n\nThực hiện: AI Memory Cover\nPhong cách: Rock Ballad / Roc",
       "isAI": true
+    },
+    {
+      "id": "tb-curated-v43-1",
+      "title": "Thánh Ca Cầu Nguyện – Nương Tựa Chúa",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Công giáo",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=dXe_mjJMUOg",
+      "ytId": "dXe_mjJMUOg",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập thánh ca cầu nguyện trên kênh chính thức của ca sĩ.",
+      "isCatholic": true,
+      "collection": "catholic",
+      "catholicCategory": "prayer"
+    },
+    {
+      "id": "tb-curated-v43-2",
+      "title": "Thánh Ca Dâng Mẹ Maria",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Công giáo",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Kv0BLh4DoH4",
+      "ytId": "Kv0BLh4DoH4",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập thánh ca kính Đức Mẹ.",
+      "isCatholic": true,
+      "collection": "catholic",
+      "catholicCategory": "mary"
+    },
+    {
+      "id": "tb-curated-v43-3",
+      "title": "Thánh Ca Mùa Chay – Trở Về",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Công giáo",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=adLy4RyedLw",
+      "ytId": "adLy4RyedLw",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập thánh ca Mùa Chay.",
+      "isCatholic": true,
+      "collection": "catholic",
+      "catholicCategory": "lent-easter"
     }
   ],
   "artists": {
