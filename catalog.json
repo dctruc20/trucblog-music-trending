@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:35:39.186Z",
+  "updatedAt": "2026-11-23T19:35:57.430Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1386,13 +1386,15 @@
     },
     {
       "id": "tb-yt-JWPIWvdNLog",
-      "title": "Vì Ngoài Chúa Ra 2 (sáng tác: Phùng Minh Mẫn) | Angelo Band [MV Lyrics]",
-      "artist": "Thu Phương",
+      "title": "Vì Ngoài Chúa Ra 2",
+      "artist": "Angelo Band",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=JWPIWvdNLog",
       "ytId": "JWPIWvdNLog",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1400,7 +1402,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "#vingoaichuara #phungminhman #angeloband\n\nVÌ NGOÀI CHÚA RA 2\nsáng tác: Phùng Minh Mẫn\ntrình bày: Angelo Band\nphối khí: Xuân Tính\nphòng thu: E.M Studio\n\n🎵 Để Tải PDF & Audio vào link tại : https://drive.google.com/drive/folders/1pY0LeB3tRaMvR5xNxApOL2-qz8BrTf52?usp=sharing\n———————\n⛔️ MỌI SAO CHÉP XIN VUI LÒNG GHI RÕ NGUỒN\n———————\n✅ Mọi thông tin xin liên hệ :\n\n▶️ Website : https://angelo.vn​​\n▶️ Email : angeloband2018@gmail.com\n▶️ Facebook : Angelo Band (https://www.facebook.com/angeloband2018)\n▶️ Spotify : Angelo Band\n▶️ iTunes : Angelo Band\n▶️ Instagram: angelo.band\n-----------------------\nXin cám ơn.",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
