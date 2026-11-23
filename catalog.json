@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:29:16.532Z",
+  "updatedAt": "2026-11-23T19:29:54.401Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1377,13 +1377,15 @@
     },
     {
       "id": "tb-yt-eeC8sb-8wo8",
-      "title": "Thư Tình Em Gái Karaoke Tone Nữ ( Dm ) Nhạc Sống 2027 Siêu Hay | Trọng Hiếu",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "Thư Tình Em Gái",
+      "artist": "Không tên",
+      "genre": "Nhạc Quê Hương / Dân Ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=eeC8sb-8wo8",
       "ytId": "eeC8sb-8wo8",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1391,10 +1393,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Karaoke Thư Tình Em Gái Karaoke Tone Nữ ( Dm ) Nhạc Sống 2027 Siêu Hay | Trọng Hiếu\n👉 Tone Nữ Full - https://www.youtube.com/playlist?list=PLERNons1db6LP7IV04x1Ti0bdQg9CFR8_\n👉 Tone Nam Full - https://www.youtube.com/playlist?list=PLERNons1db6IQwPfz_T9LS91sv3xZS6WX\n👉 Tone Song Ca Full - https://www.youtube.com/playlist?list=PLERNons1db6KjUx-s8aQORiQjEnnfBH0Z\n👉 Liên Khúc Tổng Hợp Full - https://www.youtube.com/playlist?list=PLERNons1db6IyD-805A9myVWU7iybY9K2\n\n🎵 Bài hát: Thư Tình Em Gái\n🖋 Nhạc sĩ: Quý Phi\n🎤 Tone: Nữ (Dm)\n🎹 Beat karaoke: Hiếu Organ – Trọng Hiếu\n🎼 Thể loại: Karaoke Nhạc Vàng – Bolero\n🎧 Cảm xúc: Tình yêu trong sáng\n\n📝 Lời Bài Hát\nThư từ thành đô em gửi đi\nQua miền rừng cao nguyên về anh\nCao nguyên có còn lạnh vào hồn ?\nThông reo có còn nhả nhạc buồn\nBên rừng, bên suối",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-cO5UcOBThG0",
