@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:18:58.996Z",
+  "updatedAt": "2026-11-23T20:20:11.376Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtpmloi-yxt87d",
+      "title": "CHẠM ĐÁY NỖI ĐAU",
+      "artist": "ERIK",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=8BAdhoeabUM",
+      "ytId": "8BAdhoeabUM",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
+    },
     {
       "id": "tb-admin-mwtpl1ws-43scgf",
       "title": "êu đương khó quá thì CHẠY VỀ KHÓC VỚI ANH",
