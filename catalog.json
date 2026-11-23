@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:53:03.799Z",
+  "updatedAt": "2026-11-23T19:53:42.889Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
+    {
+      "id": "tb-admin-mwtoojnz-rwsdrt",
+      "title": "CHÚNG TA CỦA TƯƠNG LAI",
+      "artist": "Sơn Tùng M-TP",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=zoEtcR5EW08",
+      "ytId": "zoEtcR5EW08",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
+    },
     {
       "id": "tb-admin-mwtonp55-lpnb56",
       "title": "CÓ CHẮC YÊU LÀ ĐÂY",
