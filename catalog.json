@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:38:45.722Z",
+  "updatedAt": "2026-11-23T19:39:02.428Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1515,13 +1515,15 @@
     },
     {
       "id": "tb-yt-kmEcSKDCkS4",
-      "title": "Chính Chúa Chọn Con|| MV Lyrics|| Thánh Ca Tận Hiến",
+      "title": "Chính Chúa Chọn Con",
       "artist": "Thu Phương",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=kmEcSKDCkS4",
       "ytId": "kmEcSKDCkS4",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1529,7 +1531,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Sáng tác: Hồng Bính\nTrình bày: Hoàng Thy\n🎈 Kênh được tạo ra với ước mong lan tỏa Tin Mừng yêu thương. Vì vậy, còn nhiều thiếu sót về nội dung và bản quyền xin mọi người thứ lỗi!\n🎈Mọi thắc mắc xin liên lệ email: tuaithien204@gmail.com \n😊Xin  chân thành cảm ơn và chúc mọi người có những phút giây thư giản trong Chúa!\n#thánhca \n#thanhcahaynhat\n#thanhhien \n#chinhchuachoncon",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
