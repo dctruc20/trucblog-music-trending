@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:34:31.121Z",
+  "updatedAt": "2026-11-23T19:34:54.282Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1119,13 +1119,15 @@
     },
     {
       "id": "tb-yt-BL-PWCiKKQI",
-      "title": "TÂM SỰ VỚI NGÀI || KIM THU PHONG|| sáng tác: Bùi Trung Chánh ||Nhạc THÁNH CA",
-      "artist": "Thu Phương",
+      "title": "TÂM SỰ VỚI NGÀI",
+      "artist": "KIM THU PHONG",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=BL-PWCiKKQI",
       "ytId": "BL-PWCiKKQI",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1133,7 +1135,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
-      "lyrics": "#KimThuPhong   #NhạcThánhCa #thanhca \nSáng tác: Bùi Trung Chánh\nHoà âm: Nguyễn Thanh\nDesigner: Thiên Long\n\n\nLink nghe Spotify : https://open.spotify.com/track/2oN4gCqx4DvOgirS0LFV5j?si=dtioUXLoTAGjYXsh-FethA&context=spotify%3Aalbum%3A5ueIbCF6Od60PvwFZ5LAge&dl_branch=1\n\nLyrics: Tâm Sự Với Ngài \n\nTâm sự với Ngài \r\nCon chỉ muốn làm đóa hoa dưới chân bàn thờ\r\nCon chỉ muốn làm ngọn nến cháy mãi bên Ngài\r\nVì cuộc sống cám dỗ ở mọi nơi Chúa ơi \r\nTừng ngày trôi lại gánh thêm lỗi tội\r\nỞ trần gian ai cũng mang cái tôi riêng mình\r\nĐể hờn ghen để thù oán chiếm hết tâm tư\r\nSự cô đơn cứ thế trong lòng con lớn dần\r\nCho đến khi gục ngã giữa đời\r\nHỏi gió, hỏi cỏ cây, hỏi đêm, không biết nương tựa nơi nào.\r\nGọi những vật chất phù vân, gọi tôi tuổi xuân lỡ dại\r\nMuốn bên Ngài như cánh hoa nhỏ nhoi\r\nĐK : Nếu n",
+      "coverUrl": "",
+      "lyrics": "#KimThuPhong   #NhạcThánhCa #thanhca \nSáng tác: Bùi Trung Chánh\nHoà âm: Nguyễn Thanh\nDesigner: Thiên Long\n\n\nLink nghe Spotify : https://open.spotify.com/track/2oN4gCqx4DvOgirS0LFV5j?si=dtioUXLoTAGjYXsh-FethA&context=spotify%3Aalbum%3A5ueIbCF6Od60PvwFZ5LAge&dl_branch=1\n\nLyrics: Tâm Sự Với Ngài \n\nTâm sự với Ngài \nCon chỉ muốn làm đóa hoa dưới chân bàn thờ\nCon chỉ muốn làm ngọn nến cháy mãi bên Ngài\nVì cuộc sống cám dỗ ở mọi nơi Chúa ơi \nTừng ngày trôi lại gánh thêm lỗi tội\nỞ trần gian ai cũng mang cái tôi riêng mình\nĐể hờn ghen để thù oán chiếm hết tâm tư\nSự cô đơn cứ thế trong lòng con lớn dần\nCho đến khi gục ngã giữa đời\nHỏi gió, hỏi cỏ cây, hỏi đêm, không biết nương tựa nơi nào.\nGọi những vật chất phù vân, gọi tôi tuổi xuân lỡ dại\nMuốn bên Ngài như cánh hoa nhỏ nhoi\nĐK : Nếu n",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
