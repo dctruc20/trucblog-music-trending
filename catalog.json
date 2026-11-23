@@ -1,7 +1,54 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "",
+  "updatedAt": "2026-11-23T17:33:43.290Z",
+  "source": "TrucBlog Music Admin v4.14",
   "tracks": [
+    {
+      "id": "tb-admin-mwtij1op-il0xsq",
+      "title": "NGÀY ĐẸP TRỜI ĐỂ NÓI CHIA TAY",
+      "artist": "LOU HOÀNG",
+      "genre": "Nhạc Trẻ (V-Pop)",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=0xAW6MAT_Wo",
+      "ytId": "0xAW6MAT_Wo",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "Nếu em nói mình xa nhau rồi ngày mai ai sẽ đưa lối em về\nNếu hôm ấy mình buông tay liệu rằng em còn hát những lời ca cho nhau\nQuán quen xưa nơi cuối góc phố xa\nSau hôm nay sẽ vắng bóng chúng ta\nAnh chẳng tin thật trùng hợp hôm ấy\nĐể nói hết ra \n\nLà ngày đẹp trời mây xanh nắng vàng em gọi anh để nói chia tay\nMình từng yêu nhau đến vậy giờ chỉ còn đôi mắt sâu cay\nLà ngày anh như chết lặng đưa bàn tay về phía em\nNhưng em chẳng còn muốn nắm lấy\nNàng sẽ là cô dâu rất đẹp nhưng ngày vui nào phải cho anh\nNụ cười che đi nỗi buồn sao hàng mi kia vẫn long lanh\nLặng thầm anh ôm giấc mộng gồng mình bước qua\nNgắm em cười từ phía xa\n\nChắc là \nKhông còn ai bận tâm lưu luyến gì\nNên tuyến lệ \nNày không ướt\nCàng không thể \nChẳng để cho 2 ta rơi nước mắt\nSau bao nhiêu vấn vương mù sương cho đối phương trước mặt \nTự mình nhận ra không thể là bước ngoặt\nCho hàng vạn hàng ngàn điều em mơ về nơi xa xăm\n3 năm trôi đi nhanh không phanh cho anh không thấy nhớ em\nMất bao nhiêu thời gian quên đi những thói quen\nChôn sâu mối tình đầu vào những lời ca rối ren\nBao câu thề thốt trong mưa lưa thưa ko thể nào giữ được em\nVậy thì \n\nQuán quen xưa nơi phía cuối góc phố xa \nSau hôm nay sẽ vắng bóng chúng ta\nAnh chẳng tin thật trùng hợp ngày hôm nay \nĐể nói hết ra\n\nLà ngày đẹp trời mây xanh nắng vàng em gọi anh để nói chia tay\nMình từng yêu nhau đến vậy giờ chỉ còn đôi mắt sâu cay\nLà ngày anh như chết lặng đưa bàn tay về phía em\nNhưng em chẳng còn muốn nắm lấy\nNàng sẽ là cô dâu rất đẹp nhưng ngày vui nào phải cho anh\nNụ cười che đi nỗi buồn sao hàng mi kia vẫn long lanh\nLặng thầm anh ôm giấc mộng gồng mình bước qua\nNgắm em cười từ phía xa\n\nLà ngày đẹp trời mây xanh nắng vàng\nMình từng yêu nhau đến vậy\nNàng sẽ là cô dâu rất đẹp\nNhưng chẳng phải dành cho anh\n\nNàng sẽ là cô dâu rất đẹp nhưng ngày vui nào phải cho anh\nNụ cười che đi nỗi buồn sao hàng mi kia vẫn long lanh\nLặng thầm anh ôm giấc mộng gồng mình bước qua\nNgắm em cười từ phía xa",
+      "isCatholic": false,
+      "catholicCategory": ""
+    },
+    {
+      "id": "tb-admin-mwthh1ce-xi8wzr",
+      "title": "Tuyển tập Thánh Ca Nhạc Sĩ Phùng Minh Mẫn",
+      "artist": "Thánh Ca Graceful Sounds",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=OGaFMqDV8SM",
+      "ytId": "OGaFMqDV8SM",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "",
+      "isCatholic": true,
+      "catholicCategory": "prayer"
+    },
     {
       "id": "tb-archive-1",
       "title": "Fox Rain – Instrumental",
@@ -71,108 +118,73 @@
       "lyrics": "Tệp âm thanh trên Internet Archive; khả năng phát phụ thuộc vào quyền truy cập của máy chủ."
     },
     {
-      "id": "tb-01",
-      "title": "Cơn Mưa Ngang Qua (Lofi Chill Session)",
-      "artist": "Sơn Tùng M-TP",
-      "genre": "V-Pop",
-      "sourceType": "mp3",
-      "url": "",
-      "ytId": "Llw9Q6akRo4",
-      "duration": "03:52",
-      "durationSec": 232,
-      "plays": 0,
-      "colors": [
-        "#8b5cf6",
-        "#ec4899"
-      ],
-      "notes": [
-        261.63,
-        329.63,
-        392,
-        523.25,
-        392,
-        329.63
-      ],
-      "tempo": 112,
-      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
-    },
-    {
       "id": "tb-02",
-      "title": "Chắc Ai Đó Sẽ Về (Acoustic MV)",
+      "title": "HÃY TRAO CHO ANH",
       "artist": "Sơn Tùng M-TP",
       "genre": "V-Pop",
       "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=TTP1J_1999A",
-      "ytId": "TTP1J_1999A",
+      "url": "https://www.youtube.com/watch?v=knW7-x7Y7RE",
+      "ytId": "knW7-x7Y7RE",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "04:22",
       "durationSec": 262,
       "plays": 0,
       "colors": [
-        "#ec4899",
-        "#f43f5e"
+        "#8b5cf6",
+        "#0ea5e9"
       ],
-      "notes": [
-        220,
-        261.63,
-        329.63,
-        440,
-        329.63,
-        261.63
-      ],
-      "tempo": 88,
-      "lyrics": "Anh tìm nỗi nhớ, anh tìm quá khứ...\nNhớ lắm kí ức anh và em.\nTrả lại anh yêu thương ấy, xin người hãy về nơi đây."
+      "coverUrl": "",
+      "lyrics": "Anh tìm nỗi nhớ, anh tìm quá khứ...\nNhớ lắm kí ức anh và em.\nTrả lại anh yêu thương ấy, xin người hãy về nơi đây.",
+      "isCatholic": false,
+      "catholicCategory": ""
     },
     {
       "id": "tb-03",
-      "title": "Duyên Phận (Bolero Phòng Trà Tuyển Chọn)",
-      "artist": "Như Quỳnh",
+      "title": "Duyên Phận",
+      "artist": "HIỀN NGÂN",
       "genre": "Bolero",
       "sourceType": "mp3",
-      "url": "",
-      "ytId": "W9A62m2a8hE",
+      "url": "https://www.youtube.com/watch?v=KQ-T9mlDHns",
+      "ytId": "",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "05:18",
       "durationSec": 318,
       "plays": 0,
       "colors": [
-        "#f59e0b",
-        "#b45309"
+        "#8b5cf6",
+        "#0ea5e9"
       ],
-      "notes": [
-        196,
-        246.94,
-        293.66,
-        392,
-        293.66,
-        246.94
-      ],
-      "tempo": 74,
-      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+      "coverUrl": "",
+      "lyrics": "Phận là con gái, chưa một lần yêu ai\nNhìn về tương lai mà thấy như sông rộng đường dài\nCảnh nhà neo đơn, bầy em chưa lớn trĩu đôi vai gánh nhọc nhằn\nThầy mẹ thương em nhờ tìm người se duyên\nLòng cầu mong em đậu bến cho yên một bóng thuyền\nLứa đôi tình duyên còn chưa lưu luyến\nSợ người ta đến em khóc sau bao lời khuyên.\n\nChưa yêu lần nào biết ra làm sao\nBiết trong tình yêu như thế nào\nSông sâu là bao nào đo được đâu\nLòng người ta ai biết có dài lâu\nQua bao thời gian sống trong bình an\nLỡ yêu người ta gieo trái ngang\nNông sâu tùy sông làm sao mà trông\nChưa đỗ bến biết nơi nào đục trong\n\nRồi người ta đến theo họ hàng đôi bên\nMột ngày nên duyên một bước em nên người vợ hiền\nBỏ lại sau lưng bầy em ngơ ngác đứng trông theo mắt đượm buồn\nThầy mẹ vui hơn mà lệ tràn rưng rưng\nDặn dò con yêu phải sống theo gia đạo bên chồng\nBước qua dòng sông hỏi từng con sóng\nĐời người con gái không muốn yêu ai được không?",
+      "isCatholic": false,
+      "catholicCategory": ""
     },
     {
       "id": "tb-04",
-      "title": "Vùng Lá Me Bay (Trữ Tình Quê Hương)",
-      "artist": "Như Quỳnh",
+      "title": "https://www.youtube.com/watch?v=vDzyQ75nU-k",
+      "artist": "HIỀN NGÂN",
       "genre": "Bolero",
       "sourceType": "lossless",
-      "url": "",
-      "ytId": "3M7vG2V1k8k",
+      "url": "https://www.youtube.com/watch?v=vDzyQ75nU-k",
+      "ytId": "",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "04:55",
       "durationSec": 295,
       "plays": 0,
       "colors": [
-        "#eab308",
-        "#10b981"
+        "#8b5cf6",
+        "#0ea5e9"
       ],
-      "notes": [
-        246.94,
-        293.66,
-        369.99,
-        493.88,
-        369.99,
-        293.66
-      ],
-      "tempo": 72,
-      "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+      "coverUrl": "",
+      "lyrics": "Từ miền Nam em ngược ra Bắc mang theo câu hò điệu lý chín dòng sông\nMang theo tấm lòng con trai miệt vườn\nEm ra đón chàng với cả yêu thương\nNày ngựa ô kiệu vàng anh khớp xôn xao câu hò điệu lý bớ nàng ơi\nBăng qua núi đồi cao cao chập chùng đưa nàng về dinh xao xuyến lý chung tình\n\nQuan họ người ơi tương tư mà chim sáo\nSe chỉ luồn kim thiếp thương chàng từ lâu\nÁo bay ai đã qua cầu đôi mình duyên tình đậm sâu\nQuan họ người ơi tương tư mà chim sáo\nĐến hẹn lại lên thiếp theo chàng một phen\nGió đưa bông lúa trên đồng thương nhau lý tơ hồng\n... Tơ hồng ngựa ô ngựa ô ...",
+      "isCatholic": false,
+      "catholicCategory": ""
     },
     {
       "id": "tb-05",
@@ -329,6 +341,134 @@
       ],
       "tempo": 68,
       "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
+    },
+    {
+      "id": "tb-curated-v43-1",
+      "title": "Thánh Ca Cầu Nguyện – Nương Tựa Chúa",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=dXe_mjJMUOg",
+      "ytId": "dXe_mjJMUOg",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập thánh ca cầu nguyện trên kênh chính thức của ca sĩ."
+    },
+    {
+      "id": "tb-curated-v43-2",
+      "title": "Thánh Ca Dâng Mẹ Maria",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Kv0BLh4DoH4",
+      "ytId": "Kv0BLh4DoH4",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập thánh ca kính Đức Mẹ."
+    },
+    {
+      "id": "tb-curated-v43-3",
+      "title": "Thánh Ca Mùa Chay – Trở Về",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=adLy4RyedLw",
+      "ytId": "adLy4RyedLw",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập thánh ca Mùa Chay."
+    },
+    {
+      "id": "tb-curated-v43-4",
+      "title": "Thánh Ca Đi Vào Lòng Người 2026",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=xfdouVBWePc",
+      "ytId": "xfdouVBWePc",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập cầu nguyện và tạ ơn."
+    },
+    {
+      "id": "tb-curated-v43-5",
+      "title": "Thánh Ca Hồng Ân – Chọn Lọc",
+      "artist": "Nguyễn Hồng Ân Official",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=vCqoKI95HSc",
+      "ytId": "vCqoKI95HSc",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tuyển tập trên kênh chính thức."
+    },
+    {
+      "id": "tb-curated-v43-6",
+      "title": "Thánh Ca Giáng Sinh – Christmas Special",
+      "artist": "Tin Vui Media",
+      "genre": "Nhạc Thánh Ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=YNFI8Ck0ebs",
+      "ytId": "YNFI8Ck0ebs",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Giáng Sinh: Clara Choir và các ca đoàn Công Giáo."
+    },
+    {
+      "id": "tb-curated-v43-7",
+      "title": "Tre Việt Nam – AI/T",
+      "artist": "AI/T (Ái Trinh) – Thái Nguyên Music",
+      "genre": "Nhạc AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=vEbef8EpCkA",
+      "ytId": "vEbef8EpCkA",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tác phẩm có giọng ca sĩ ảo AI/T, phát hành bởi Thái Nguyên Music."
+    },
+    {
+      "id": "tb-curated-v43-8",
+      "title": "Áo Dài Việt Nam – AI/T",
+      "artist": "AI/T (Ái Trinh) – Thái Nguyên Music",
+      "genre": "Nhạc AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=tlkkdCqOi_o",
+      "ytId": "tlkkdCqOi_o",
+      "duration": "00:00",
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#06b6d4"
+      ],
+      "lyrics": "Tác phẩm với nghệ sĩ ảo AI/T của Thái Nguyên Music."
     }
   ],
   "artists": {}
