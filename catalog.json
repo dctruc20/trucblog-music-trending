@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:30:44.013Z",
+  "updatedAt": "2026-11-23T19:31:12.818Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -425,18 +425,24 @@
     {
       "id": "tb-curated-v43-5",
       "title": "Thánh Ca Hồng Ân – Chọn Lọc",
-      "artist": "Nguyễn Hồng Ân Official",
+      "artist": "Nguyễn Hồng Ân",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=vCqoKI95HSc",
       "ytId": "vCqoKI95HSc",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
+      "durationSec": 0,
       "plays": 0,
       "colors": [
         "#8b5cf6",
-        "#06b6d4"
+        "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Tuyển tập trên kênh chính thức.",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
