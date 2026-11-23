@@ -1,4 +1,4 @@
-name: TrucBlog Music v4.6 - Daily Charts and Shows
+name: TrucBlog Music v4.10 - Daily Charts and Shows
 
 on:
   schedule:
@@ -25,20 +25,20 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Refresh regional music and Vietnamese shows
+      - name: Refresh 7 regional music charts, Latin and hot topics
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/update_trending.py
       - name: Validate trending JSON
         run: |
           python -m json.tool trending.json > /dev/null
-          python -c 'import json;d=json.load(open("trending.json"));assert d["schemaVersion"]==2 and "collections" in d and "regions" in d'
+          python -c 'import json;d=json.load(open("trending.json"));assert d["schemaVersion"]==3 and "collections" in d and "hotTopics" in d and all(k in d["regions"] for k in ("VN","AU","US","GB","KR","JP","LAT"))'
       - name: Commit JSON only if changed
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add trending.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh TrucBlog Music v4.6 charts and shows'
+            git commit -m 'Refresh TrucBlog Music v4.10 charts and shows'
             git push
           fi
