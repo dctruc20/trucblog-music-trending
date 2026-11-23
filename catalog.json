@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T17:56:08.583Z",
+  "updatedAt": "2026-11-23T18:38:27.199Z",
   "source": "TrucBlog Music Admin v4.14",
   "tracks": [
+    {
+      "id": "tb-admin-mwtldooi-gy2304",
+      "title": "AI Memory Cover Phiên Bản Rock",
+      "artist": "AI",
+      "genre": "V-Pop",
+      "sourceType": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLj_HY1A6ef6As-l00uGnIhPXTJH3unYid",
+      "ytId": "",
+      "playlistId": "PLj_HY1A6ef6As-l00uGnIhPXTJH3unYid",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Playlist cập nhật tự động từ YouTube khi kênh thêm hoặc thay đổi video."
+    },
     {
       "id": "tb-admin-mwtjzo17-rb3f2i",
       "title": "THÁNH CA KIM TUYẾN",
@@ -379,22 +397,6 @@
       "lyrics": "Bản ghi dữ liệu mẫu từ phiên bản trước, chưa có link âm thanh thực. Admin cần cập nhật URL hợp lệ để phát được."
     },
     {
-      "id": "tb-curated-v43-1",
-      "title": "Thánh Ca Cầu Nguyện – Nương Tựa Chúa",
-      "artist": "Nguyễn Hồng Ân Official",
-      "genre": "Nhạc Thánh Ca",
-      "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=dXe_mjJMUOg",
-      "ytId": "dXe_mjJMUOg",
-      "duration": "00:00",
-      "plays": 0,
-      "colors": [
-        "#8b5cf6",
-        "#06b6d4"
-      ],
-      "lyrics": "Tuyển tập thánh ca cầu nguyện trên kênh chính thức của ca sĩ."
-    },
-    {
       "id": "tb-curated-v43-2",
       "title": "Thánh Ca Dâng Mẹ Maria",
       "artist": "Nguyễn Hồng Ân Official",
@@ -409,22 +411,6 @@
         "#06b6d4"
       ],
       "lyrics": "Tuyển tập thánh ca kính Đức Mẹ."
-    },
-    {
-      "id": "tb-curated-v43-3",
-      "title": "Thánh Ca Mùa Chay – Trở Về",
-      "artist": "Nguyễn Hồng Ân Official",
-      "genre": "Nhạc Thánh Ca",
-      "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=adLy4RyedLw",
-      "ytId": "adLy4RyedLw",
-      "duration": "00:00",
-      "plays": 0,
-      "colors": [
-        "#8b5cf6",
-        "#06b6d4"
-      ],
-      "lyrics": "Tuyển tập thánh ca Mùa Chay."
     },
     {
       "id": "tb-curated-v43-4",
@@ -984,12 +970,14 @@
     {
       "id": "tb-yt-9Yq95hyLE8w",
       "title": "Chị Ngả Em Nâng - Team Lan Ngọc, Trang Pháp, Quỳnh Nga, Uyên Linh, Diệp Lâm Anh | Công Diễn 2",
-      "artist": "",
-      "genre": "",
+      "artist": "Thu Phương",
+      "genre": "V-Pop",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=9Yq95hyLE8w",
       "ytId": "9Yq95hyLE8w",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -997,7 +985,10 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
-      "lyrics": "#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #1Production \n\nChị Ngả Em Nâng - Team Lan Ngọc, Trang Pháp, Quỳnh Nga, Uyên Linh, Diệp Lâm Anh | Công Diễn 2\nSÁNG TÁC: TIÊN COOKIE, PHẠM THANH HÀ\nBIỂU DIỄN: NINH DƯƠNG LAN NGỌC, UYÊN LINH, TRANG PHÁP, DIỆP LÂM ANH, QUỲNH NGA\nBIÊN ĐẠO: LAN NHI\nHỖ TRỢ: BƯỚC NHẢY\nArranger: UPIN\n------------------------------------------\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam"
+      "coverUrl": "",
+      "lyrics": "#ChiDepDapGioReSong #ChiDepDapGioReSong2023 #ChiDep #ChiDep2023 #DapGio #SistersWhoMakeWaves #VTVcab #YeaH1 #1Production \n\nChị Ngả Em Nâng - Team Lan Ngọc, Trang Pháp, Quỳnh Nga, Uyên Linh, Diệp Lâm Anh | Công Diễn 2\nSÁNG TÁC: TIÊN COOKIE, PHẠM THANH HÀ\nBIỂU DIỄN: NINH DƯƠNG LAN NGỌC, UYÊN LINH, TRANG PHÁP, DIỆP LÂM ANH, QUỲNH NGA\nBIÊN ĐẠO: LAN NHI\nHỖ TRỢ: BƯỚC NHẢY\nArranger: UPIN\n------------------------------------------\n\n----------------------------------------------\nHãy cùng theo dõi và đón chờ những thông tin mới nhất của Chị Đẹp Đạp Gió trên: \n\n📍FanPage:   / chidepdapgioresong   \n📍TikTok:   / chidepdapgioresong   \n📍Instagram:   / chidepdapgioresong   \n\nChị Đẹp Đạp Gió Rẽ Sóng là chương trình truyền hình thực tế đáng mong chờ nhất 2023 với sự quy tụ của 30 nữ nghệ sĩ Việt Nam",
+      "isCatholic": false,
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-KLiTRjpX9ZU",
@@ -1017,15 +1008,14 @@
       ],
       "lyrics": "🙏 XIN CHÚA XÓT THƯƠNG | Sáng tác: Lm. Thái Nguyên\n\n“Xin Chúa Xót Thương” là một ca khúc Thánh ca Công giáo mang tâm tình sám hối và cầu xin lòng thương xót của Thiên Chúa. Trước những yếu đuối, lỗi lầm và giới hạn của phận người, người tín hữu khiêm nhường trở về bên Chúa, tha thiết xin Ngài tha thứ, chữa lành và nâng đỡ.\nQua những giai điệu sâu lắng và lời ca chân thành, bài hát như một lời nguyện của tâm hồn đang tìm kiếm sự bình an nơi Chúa. Dù con người có thể nhiều lần vấp ngã, tình thương của Thiên Chúa vẫn luôn rộng mở, mời gọi chúng ta trở về và đặt trọn niềm tin nơi Ngài.\n\n🎵 Sáng tác: Lm. Thái Nguyên\n🎼 Âm nhạc & hình ảnh: Thiên Anh\n\n🙏 Lạy Chúa, xin thương xót chúng con. Xin tha thứ những lỗi lầm, những thiếu sót và những lần chúng con đã xa rời tình yêu của Ngài.\nXin chữa lành"
     },
- 
     {
-      "id": "tb-yt-lbxZPGbczk8",
-      "title": "THANH DUY & PHẠM TRẦN PHƯƠNG - GIẤC MƠ TRƯA  (Live Performance)",
-      "artist": "THANH DUY & PHẠM TRẦN PHƯƠNG",
-      "genre": "",
+      "id": "tb-yt-3UmU9zp1rMY",
+      "title": "Durim Malaj - SHEQERE (Official Music Video)",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=lbxZPGbczk8",
-      "ytId": "lbxZPGbczk8",
+      "url": "https://www.youtube.com/watch?v=3UmU9zp1rMY",
+      "ytId": "3UmU9zp1rMY",
       "playlistId": "",
       "duration": "00:00",
       "durationSec": 0,
@@ -1034,13 +1024,36 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
-      "lyrics": "THANH DUY & PHẠM TRẦN PHƯƠNG - GIẤC MƠ TRƯA | Sáng tác: Giáng Son (Live Performance)\n---------------\nGiấc Mơ Trưa\n- Sáng Tác: Giáng Son \n- Lời thơ: Nguyễn Vĩnh Tiến\n- Thể hiện: Thanh Duy, Phạm Trần Phương\n---------------\nConnect with Thanh Duy:\nFANPAGE: https://www.facebook.com/thanhduyartist\nFACEBOOK: https://www.facebook.com/pttduy\nINSTAGRAM: https://www.instagram.com/phamtranthanhduy\nTIKTOK: https://www.tiktok.com/@thanhduy3011\n\nLIÊN HỆ: \n0906765186 - Mr. Vũ  \nEmail: vu.cung@theogent.vn\n\n--------\n© Bản quyền thuộc về Thanh Duy\n© Copyright by Thanh Duy ☞ Do not Reup\n\n#ThanhDuy"
+      "lyrics": "🎵  @BareshaNetwork    - Smarturl.it/Baresha\n🔔 Turn on notifications to stay updated with new uploads!\n🎧 https://www.youtube.com/@DurimMalajBaresha\n\nPublisher : Baresha Network\nText & Music: Nurteel\nAktor: Qumili\nSolo: Halit Haliti & Hekuran Gashi\nVideo: Reci Films\nLicensing: info@bareshamusic.com\n\nFollow DURIM MALAJ on : \nFacebook ► https://www.facebook.com/dfmalaj\nInstagram ►  https://www.instagram.com/durimmalaj/\nTikTok ►  https://www.tiktok.com/@durim.malaj\n\nFollow BARESHA on : \nFacebook ► https://www.facebook.com/bareshamusic\nInstagram ► https://www.instagram.com/bareshamusic\nTikTok ► https://www.tiktok.com/@bareshamusic\nWebsite ► https://bareshanetwork.com/\n\nPlaylist :\n🎶 Spotify Playlist : https://baresha.to/DurimMalaj\n🎶 Spotify Playlist : https://baresha.to/SpotifyBaresha\n🎶 You"
+    },
+    {
+      "id": "tb-yt-lbxZPGbczk8",
+      "title": "THANH DUY & PHẠM TRẦN PHƯƠNG - GIẤC MƠ TRƯA  (Live Performance)",
+      "artist": "THANH DUY",
+      "genre": "V-Pop",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=lbxZPGbczk8",
+      "ytId": "lbxZPGbczk8",
+      "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "coverUrl": "",
+      "lyrics": "THANH DUY & PHẠM TRẦN PHƯƠNG - GIẤC MƠ TRƯA | Sáng tác: Giáng Son (Live Performance)\n---------------\nGiấc Mơ Trưa\n- Sáng Tác: Giáng Son \n- Lời thơ: Nguyễn Vĩnh Tiến\n- Thể hiện: Thanh Duy, Phạm Trần Phương\n---------------\nConnect with Thanh Duy:\nFANPAGE: https://www.facebook.com/thanhduyartist\nFACEBOOK: https://www.facebook.com/pttduy\nINSTAGRAM: https://www.instagram.com/phamtranthanhduy\nTIKTOK: https://www.tiktok.com/@thanhduy3011\n\nLIÊN HỆ: \n0906765186 - Mr. Vũ  \nEmail: vu.cung@theogent.vn\n\n--------\n© Bản quyền thuộc về Thanh Duy\n© Copyright by Thanh Duy ☞ Do not Reup\n\n#ThanhDuy",
+      "isCatholic": false,
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-RoK5Fs8lT2s",
       "title": "Ánh Trăng Nói Hộ Lòng Tôi – 月亮代表我的心 | Như Tâm | Nhạc Trung Thu Trữ Tình",
       "artist": "Thu Phương",
-      "genre": "c-POP",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=RoK5Fs8lT2s",
       "ytId": "RoK5Fs8lT2s",
@@ -1090,11 +1103,10 @@
       ],
       "lyrics": ""
     },
-   
     {
       "id": "tb-yt-BL-PWCiKKQI",
       "title": "TÂM SỰ VỚI NGÀI || KIM THU PHONG|| sáng tác: Bùi Trung Chánh ||Nhạc THÁNH CA",
-      "artist": "KIM THU PHONG",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=BL-PWCiKKQI",
@@ -1109,11 +1121,28 @@
       ],
       "lyrics": "#KimThuPhong   #NhạcThánhCa #thanhca \nSáng tác: Bùi Trung Chánh\nHoà âm: Nguyễn Thanh\nDesigner: Thiên Long\n\n\nLink nghe Spotify : https://open.spotify.com/track/2oN4gCqx4DvOgirS0LFV5j?si=dtioUXLoTAGjYXsh-FethA&context=spotify%3Aalbum%3A5ueIbCF6Od60PvwFZ5LAge&dl_branch=1\n\nLyrics: Tâm Sự Với Ngài \n\nTâm sự với Ngài \r\nCon chỉ muốn làm đóa hoa dưới chân bàn thờ\r\nCon chỉ muốn làm ngọn nến cháy mãi bên Ngài\r\nVì cuộc sống cám dỗ ở mọi nơi Chúa ơi \r\nTừng ngày trôi lại gánh thêm lỗi tội\r\nỞ trần gian ai cũng mang cái tôi riêng mình\r\nĐể hờn ghen để thù oán chiếm hết tâm tư\r\nSự cô đơn cứ thế trong lòng con lớn dần\r\nCho đến khi gục ngã giữa đời\r\nHỏi gió, hỏi cỏ cây, hỏi đêm, không biết nương tựa nơi nào.\r\nGọi những vật chất phù vân, gọi tôi tuổi xuân lỡ dại\r\nMuốn bên Ngài như cánh hoa nhỏ nhoi\r\nĐK : Nếu n"
     },
-   
+    {
+      "id": "tb-yt-DEyiQUG0iwM",
+      "title": "Jesus, My Everything",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=DEyiQUG0iwM",
+      "ytId": "DEyiQUG0iwM",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Jesus, My Everything – A Soul-Stirring Worship Anthem. A powerful declaration of love and surrender, Jesus, My Everything is a heartfelt worship song that exalts the One who gave His all for us. With lyrics inspired by Christ’s sacrifice, boundless grace, and eternal reign, this song leads believers into deep reverence and praise. Whether in personal devotion, church worship, or moments of reflection, it serves as a reminder of His redeeming love, victory over sin, and the unshakable joy found in His presence."
+    },
     {
       "id": "tb-yt-BFgHDiRuzyA",
       "title": "Vì Tình Ngài Yêu Con (sáng tác: Dương Như Đình) | Angelo Band [MV Lyrics]",
-      "artist": "Angelo Band",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=BFgHDiRuzyA",
@@ -1128,13 +1157,47 @@
       ],
       "lyrics": "#vitinhngaiyeucon #duongnhudinh #angeloband\n\nVÌ TÌNH NGÀI YÊU CON\nsáng tác: Dương Như Đình\ntrình bày: Angelo Band\nphòng thu: E.M Studio\nphối nhạc: Long MU\n\nBài hát đã được Imprimatur sử dụng trong phụng vụ.\n\n🎵 Để Tải PDF & Audio vào link tại : https://drive.google.com/drive/folders/1uQzeIdxVjT7-geY7VkwKAzCfg96HsvI_?usp=sharing\n———————\n⛔️ MỌI SAO CHÉP XIN VUI LÒNG GHI RÕ NGUỒN\n———————\n✅ Mọi thông tin xin liên hệ :\n\n▶️ Website : https://angelo.vn​​\n▶️ Email : angeloband2018@gmail.com\n▶️ Facebook : Angelo Band (https://www.facebook.com/angeloband2018)\n▶️ Spotify : Angelo Band\n▶️ iTunes : Angelo Band\n▶️ Instagram: angelo.band\n-----------------------\nXin cám ơn."
     },
- 
-    
+    {
+      "id": "tb-yt-RyZY96yKl2E",
+      "title": "Beslira x Drilon - Syn o syn #2027",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=RyZY96yKl2E",
+      "ytId": "RyZY96yKl2E",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Video : MProduction\nText & Muz : Kreshnik Avdiu\nOrk : Arti Rec\nProduced by : MProduction\nExecutive Producer : Mirton Xhekaj\nPublisher : @Mproduction\n\nConnect MProduction : \nFacebook ► https://www.facebook.com/MProductionss\nInstagram ►  https://www.instagram.com/mproduction\nTikTok ►  https://www.tiktok.com/@mproduction_\n\n\n\nFollow Mproduction on…\nFB: https://smarturl.it/MproductionFB\nIG: https://smarturl.it/MproductionIG\n\nPublisher: MProduction https://fanlink.to/MProduction\n\n#MProduction\n\n\n\n© & ℗ Mproduction  All Rights Reserved"
+    },
+    {
+      "id": "tb-yt-kjCQOr35mQk",
+      "title": "Andrea Bocelli - Gloria the Gift of Life (Audio)",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=kjCQOr35mQk",
+      "ytId": "kjCQOr35mQk",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Andrea Bocelli - Gloria the Gift of Life (Audio)\n\nListen now to \"Sì\", the new album from Andrea Bocelli: https://andreabocelli.lnk.to/SiAlbumYT \n\nSign up for Andrea Bocelli’s Email List: https://AndreaBocelli.lnk.to/MailingListSignUpID\nFollow Andrea Bocelli: \nInstagram: https://www.instagram.com/andreabocelliofficial\nFacebook: https://www.facebook.com/andreabocelli/YouTube\nYouTube: https://www.youtube.com/channel/UCb4JB8-ZAeceuR7EPCPOPzg\nTikTok:  https://www.tiktok.com/@andreabocelliof?lang=en\nX: https://x.com/AndreaBocelliWebsite\nWebsite: https://www.andreabocelli.com/\n#AndreaBocelli #Bocelli #GloriatheGiftofLife #Sì\n\n© 2018 Sugar S.r.l., under exclusive license to Decca Records, a division of Universal Music Operations Ltd and Disney Enterprises, Inc.\n\nLyrics and Music by Jonas Myrin / R"
+    },
     {
       "id": "tb-yt-6HFbw87Iq9o",
       "title": "Chút Lòng Son || Sáng tác: Hồng Trần, Phạm Đình Đài || Thể hiện: Kiều Oanh Nguyễn",
-      "artist": "Kiều Oanh Nguyễn",
-      "genre": "",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=6HFbw87Iq9o",
       "ytId": "6HFbw87Iq9o",
@@ -1169,8 +1232,8 @@
     {
       "id": "tb-yt-59sy0w2me0E",
       "title": "KHÔNG MÔN ĐĂNG HỘ ĐỐI (new version) || Tại hai ta không môn đăng hộ đối...",
-      "artist": "",
-      "genre": "",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=59sy0w2me0E",
       "ytId": "59sy0w2me0E",
@@ -1184,12 +1247,29 @@
       ],
       "lyrics": "MÔN ĐĂNG HỘ ĐỐI (NEW VERSION) | Sáng tác: Nguyễn Vĩ\n\n“Môn Đăng Hộ Đối” là câu chuyện về một tình yêu có thương, có nhớ nhưng lại chẳng thể bước cùng nhau đến cuối con đường. Khi khoảng cách giữa hai người không chỉ nằm ở tình cảm, mà còn là hoàn cảnh, gia đình và hai thế giới khác biệt.\n\n“Một người là hoa, một người là cỏ\nBiết lấy gì ra làm tin với họ…”\n\nMôn Đăng Hộ Đối – New Version mang màu sắc tình cảm, buồn và nhiều tự sự. Hy vọng phiên bản này sẽ chạm đến những ai từng yêu một người rất nhiều nhưng cuối cùng vẫn phải học cách buông tay.\n\n🎵 Bài hát: Môn Đăng Hộ Đối (New Version)\n✍️ Sáng tác: Nguyễn Vĩ\n\nNếu bạn thấy mình đâu đó trong câu chuyện này, hãy để lại một bình luận và đăng ký kênh để cùng nghe thêm những bản nhạc mới nhé.\n\n#MonDangHoDoi #MonDangHoDoiNewVersion #NguyenVi #NhacT"
     },
-
+    {
+      "id": "tb-yt-D9OXnWoPucQ",
+      "title": "BLERONA BYTYCI - Pasuria vjen e shkon #Gezuar2027",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=D9OXnWoPucQ",
+      "ytId": "D9OXnWoPucQ",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "✍️ Text : Hazbi Ameti & Blerona Bytyci\n🎹 Muzik : Xheni\n🎧 Orkestrim: Habib Mece\n🎵 Mix & Mastering : Studio Xheni Shkup\n🎥 Video by: MProduction\n💻 Oganisations by: Abas Spahiu\n📑 Script - Egzon Bytyci\n\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n► Follow   Blerona Bytyci\n👉Instagram:https://www.instagram.com/blerona_off...\n👉Facebook:https://www.facebook.com/Blerona/\n👉TikTok      : https://www.tiktok.com/@bellona04\n👉Web:https://bleronaofficial.wixsite.com/bleronbytyqi/muzik\n👉Snapchat : Blerona_byy \n👉OnAir        : https://instagram.com/onair.popullore\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n© & ℗ BleronaOfficial & Onair Media. All Rights Reserved\n\n#bleronaofficial  #amg   #onair"
+    },
     {
       "id": "tb-yt-WahLapMImJU",
       "title": "Hai Chữ Tiền Tình – Giọng Ca Độc Lạ Phương Dung | MV Tâm Trạng 2025 | St : Nhạc Sĩ Thanh Hùng",
-      "artist": "Phương Dung",
-      "genre": "",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=WahLapMImJU",
       "ytId": "WahLapMImJU",
@@ -1206,7 +1286,7 @@
     {
       "id": "tb-yt--oIuw_rQlkQ",
       "title": "Đời Con Là Của Chúa - Thanh Hoài | Giai Điệu Thánh Ca Lay Động Trái Tim",
-      "artist": "Thanh Hoài",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=-oIuw_rQlkQ",
@@ -1224,8 +1304,8 @@
     {
       "id": "tb-yt-tHcgYh0UBWs",
       "title": "LẶNG LẼ - Nỗi đau của ta ai sẽ thấu.... | Kẻ Viết Nhạc Tình | MV OFFICIAL",
-      "artist": "",
-      "genre": "",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=tHcgYh0UBWs",
       "ytId": "tHcgYh0UBWs",
@@ -1260,8 +1340,8 @@
     {
       "id": "tb-yt-F9ZyFpZJrSY",
       "title": "Trác Tuyệt \" Mười Ngón Tay Tình Yêu Remix - Saka Trương Tuyền \" Mới Nhất | Bài Hát Remix Tỷ View",
-      "artist": "Saka Trương Tuyền",
-      "genre": "",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=F9ZyFpZJrSY",
       "ytId": "F9ZyFpZJrSY",
@@ -1278,8 +1358,8 @@
     {
       "id": "tb-yt-6-rFYEp_5dw",
       "title": "CUỘC TÌNH KHÔNG TÊN 2 - Top Bảng Xếp Hạng Ca Khúc Bolero Hay Nhất | Nghĩa Trần AI",
-      "artist": "Nghĩa Trần AI",
-      "genre": "AI",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=6-rFYEp_5dw",
       "ytId": "6-rFYEp_5dw",
@@ -1293,11 +1373,28 @@
       ],
       "lyrics": "💖 Cảm ơn quý cô chú anh chị và các bạn đã ghé thăm và ủng hộ kênh.\nĐừng quên nhấn Đăng Ký Kênh, Like và Chia Sẻ để tiếp thêm động lực cho NGHĨA TRẦN  AI ra thêm nhiều ca khúc Bolero trữ tình hay nhất nhé!\n💖 Chúc Quý Khách Nghe Nhạc Vui Vẻ !\n\n🎼 : CUỘC TÌNH KHÔNG TÊN 2 \n✍️ Sáng Tác: Thanh Tùng\n🎤 Trình Bày: Nghĩa Trần Al\nÂm Thanh Và Video Được Tạo AI \nĐược Quản Lý Bởi Trần Đình Nghĩa\nMọi chi tiết vui lòng liên hệ sdt : 0972824342"
     },
-    
+    {
+      "id": "tb-yt-PhBCa9ADSnk",
+      "title": "Granit Ismajli x Hekuran Krasniqi - Ku je ti",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=PhBCa9ADSnk",
+      "ytId": "PhBCa9ADSnk",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "#granitismajli #hekurankrasniqi #kujeti\n\nMusic & Produced by: Granit Ismajli\nLyrics: Granit Ismajli & Genc Prelvukaj\nVideo : Blackfish\n\nSpecial Thanks: Minimax\n\n▸ Follow Granit Ismajli\n\nInstagram : https://www.instagram.com/granitismajli_/\nTik tok : https://www.tiktok.com/@granitismajli_\nFacebook : https://www.facebook.com/Granitsta/\n\n▸ Follow Hekuran Krasniqi\n\nInstagram : https://www.instagram.com/hekuranbyheki\nTik tok : https://www.tiktok.com/@hekurankrasniqi1\nFacebook : https://www.facebook.com/hekuran.krasniqi.54/\n\n▸ Follow Black Fish\n\nInstagram : https://www.instagram.com/blackfishentertainment/\nTik tok : https://www.tiktok.com/@blackfishentertainment\nFacebook : https://www.facebook.com/blackfishks"
+    },
     {
       "id": "tb-yt-JWPIWvdNLog",
       "title": "Vì Ngoài Chúa Ra 2 (sáng tác: Phùng Minh Mẫn) | Angelo Band [MV Lyrics]",
-      "artist": "Angelo Band",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=JWPIWvdNLog",
@@ -1315,7 +1412,7 @@
     {
       "id": "tb-yt-eeC8sb-8wo8",
       "title": "Thư Tình Em Gái Karaoke Tone Nữ ( Dm ) Nhạc Sống 2027 Siêu Hay | Trọng Hiếu",
-      "artist": "Trọng Hiếu",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=eeC8sb-8wo8",
@@ -1332,8 +1429,8 @@
     },
     {
       "id": "tb-yt-cO5UcOBThG0",
-      "title": " Ôm Một Bóng Hình",
-      "artist": "Minh Tuyết & Bằng Kiều",
+      "title": "PBN 126 | Minh Tuyết & Bằng Kiều - Ôm Một Bóng Hình",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=cO5UcOBThG0",
@@ -1351,8 +1448,8 @@
     {
       "id": "tb-yt-7m_zVBmNIas",
       "title": "TÌM LẠI HƯƠNG TÌNH XƯA - (ST: MINH PHI) - QUA GIỌNG HÁT ĐƯỢC YÊU THÍCH NHẤT HIỆN NAY, DIỄM TRANG",
-      "artist": "DIỄM TRANG",
-      "genre": "Bolero",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=7m_zVBmNIas",
       "ytId": "7m_zVBmNIas",
@@ -1366,11 +1463,28 @@
       ],
       "lyrics": "TÌM LẠI HƯƠNG TÌNH XƯA - (ST: MINH PHI) - QUA GIỌNG HÁT ĐƯỢC YÊU THÍCH NHẤT HIỆN NAY, DIỄM TRANG\n➥Diễm Trang với những tác phẩm hay nhất mang lại cho người xem những cảm xúc về quê hương về tình yêu đôi lứa, Hãy nghe và cảm nhận nhé Fan yêu quý của Diễm Trang\n►  Hãy bấm đăng ký kênh để nhận những sản phẩm âm nhạc mới nhất.\n© Bản quyền thuộc sở hữu của Diễm Trang Official & BH MEDIA Vui lòng không đăng tải lại các sản phẩm của tôi.\n🚩 Mọi đóng góp ý kiến xin quý vị và các bạn vui lòng liên hệ qua mail: thutrangnhoanhkr@gmail.com\n⏩ Chúc quý vị và các bạn nghe nhạc vui vẻ!\nHãy Theo dõi  kênh của Diễm Trang tại đây nhé...... \nhttps://www.youtube.com/channel/UC7Ig-vF9C530yQ5FVG8aU-Q?sub_confirmation=1\nFacebook Diễm Trang : https://www.facebook.com/casidiemtrang\nSố Điện thoại Tại hàn quốc : 0082"
     },
-   
+    {
+      "id": "tb-yt-tn7Nmazw2lM",
+      "title": "RITA & FIDAN - Shami Kuqe (Official Music Video)",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=tn7Nmazw2lM",
+      "ytId": "tn7Nmazw2lM",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "RITA & FIDAN - Shami Kuqe (Official Music Video)\n\nMusic: Rita & Fidan - FabioBeatz\nLyrics: FabioBeatz\n\nOrkestrimi - Mix - Master \nNexhi Vuniqi\n\nVideo: URBAN Films\n\n🟣 Instagram | Follow Rita\nhttps://www.instagram.com/ritahaziri/\n\n🟣 Instagram | Follow Fidan\nhttps://www.instagram.com/fidangashiiiii/\n\nAll Rights Reserved!\n\n#rita #fidan #gertit"
+    },
     {
       "id": "tb-yt-2Q5DEcMVFM0",
       "title": "Bài Ca Hiến Dâng - Kim Tuyến | Sáng tác : Sr Kim Liên SPC | Thánh Ca Dâng Hiến",
-      "artist": "Kim Tuyến",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=2Q5DEcMVFM0",
@@ -1406,7 +1520,7 @@
     {
       "id": "tb-yt-Ax4_HTWFs3w",
       "title": "05  Nữ Vương Địa Phận Vinh   Lệ Hằng",
-      "artist": "Lệ Hằng",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=Ax4_HTWFs3w",
@@ -1421,12 +1535,29 @@
       ],
       "lyrics": "NỮ VƯƠNG ĐỊA PHẬN VINH\nSáng tác: Tân kỳ\n#nuvuongdiaphanvinh\n\nrecord & Mix: Sangjoanb\nCamera: Sangjoanb\n\n1. Hôm nay đoàn con vào nơi đây từ non xanh mây ngàn chập chùng. Tới nơi xa biển khơi gió lộng từ thành thị tới tận đồng quê. Quê lam hồng dẫn con ơn thánh hợp ca khen chúc tụng mẹ lành. Maria nữ vương thái bình. Mẹ đẹp như ánh dương bình minh.\n\nĐk: chúng con chung muôn lời ca hát Đức Nữ Vương trên trời dưới đất. Kính tiến Mẹ ngàn hoa thơm ngát. Chúng con chung tấm lòng tôn kính. Đức Nữ Vương của Địa Phận Vinh. Kính tiến Mẹ ngàn hoa tươi xinh.\n\n2. Sông lam rộng biết là bao nhiêu còn thua xa tấm lòng Mẹ nhiều. Sóng ái ân nhẹ trôi sớm chiều. Dìu thuyền con tới quê tình yêu. Núi Hồng Lĩnh cao chót vót thế vượt sao hơn khối tình của Mẹ Lúc nắng mưa đoàn con tựa kề. Đời sầu thương có Mẹ chở c"
     },
-
+    {
+      "id": "tb-yt-Pi90yqeIrv4",
+      "title": "Malsorja e Deçanit - DOD TAHIRI",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Pi90yqeIrv4",
+      "ytId": "Pi90yqeIrv4",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎵  @BareshaNetwork    - Smarturl.it/Baresha\n🔔 Turn on notifications to stay updated with new uploads!\n🎧 https://www.youtube.com/@BonMediaProductionBonMediaProd\n\nPublisher : Baresha Network\nCover: Vllezerit Shani\nLicensing: info@bareshamusic.com\n\nFollow Baresha on : \nFacebook ► https://www.facebook.com/bareshamusic\nInstagram ► https://www.instagram.com/bareshamusic\nTikTok ► https://www.tiktok.com/@bareshamusic\nWebsite ► https://bareshanetwork.com/\n\nPlaylist :\n🎶 Spotify Playlist ► https://smarturl.it/spotifybaresha\n🎶 YouTube Playlist ► https://smarturl.it/HiteteReja\n\nBaresha Network - All rights Reserved\n\n#Baresha#MalsorjaeDeçanit"
+    },
     {
       "id": "tb-yt-WjtPBUaqnTo",
       "title": "Ngày Tình Phôi Pha - Lê Hiếu「Official Lyric Video」",
-      "artist": "Lê Hiếu",
-      "genre": "Nhạc Trẻ (V-Pop)",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=WjtPBUaqnTo",
       "ytId": "WjtPBUaqnTo",
@@ -1443,7 +1574,7 @@
     {
       "id": "tb-yt-XEjaQv_qGok",
       "title": "Mỗi Người Một Số Phận - Bài hát đời nhất năm nay | nghe mà thấm từng câu chữ | Phương Dung",
-      "artist": "Phương Dung",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=XEjaQv_qGok",
@@ -1461,7 +1592,7 @@
     {
       "id": "tb-yt-CDPT37cWCT0",
       "title": "Diệu Vời Tình Cha || Sáng tác : Lê Tiệp || Tb : Sr Xoan Nguyễn SDC || Nhạc Thánh Ca",
-      "artist": "Sr Xoan Nguyễn SDC",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=CDPT37cWCT0",
@@ -1479,8 +1610,8 @@
     {
       "id": "tb-yt-7p0Okwxs1EU",
       "title": "Tuyệt Phẩm Tàu Đêm Năm Cũ (Trúc Phương) | Bản Phối Đỉnh Cao | Thanh Tú [Phố Nhạc Việt]",
-      "artist": "Thanh Tú ",
-      "genre": "Bolero",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=7p0Okwxs1EU",
       "ytId": "7p0Okwxs1EU",
@@ -1497,8 +1628,8 @@
     {
       "id": "tb-yt-DKldT39UwnE",
       "title": "ĐÀNH THÔI XA CÁCH ☘️ Phương Phương Thảo x DJ Thiện Hí (Composer)",
-      "artist": "Phương Phương Thảo",
-      "genre": "Bolero",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=DKldT39UwnE",
       "ytId": "DKldT39UwnE",
@@ -1530,12 +1661,29 @@
       ],
       "lyrics": "Ca khúc: Xin bên con Chúa ơi\nSáng tác: Jb. An Ninh\nTrình bày: Ca sĩ Tuyết Mai\n#thanhca #nhacthanhca #Jbanninh #tuyetmai"
     },
-   
+    {
+      "id": "tb-yt--kQ5UboPVTs",
+      "title": "KIDDA - AKUZA",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=-kQ5UboPVTs",
+      "ytId": "-kQ5UboPVTs",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Stream on digital platforms - https://found.ee/kidda-akuza\n\nProduced by - Redy \nVideo by - Valon Aziri\nDirected by - Valon Aziri, KIDDA\nVFX/ Floridvfx\nLyrics , melody, recording - Kidda\nMix & Master - Redy\nExecutive Prod - Jetmir Agaj, Kidda"
+    },
     {
       "id": "tb-yt-QSvWbkialq8",
       "title": "Chút KN Buồn | LK NHẠC DÂN CA - Remix Hay Nhất 2026 | LK NHẠC ĐỎ  GÁI XINH REMIX | Dân Ca Việt",
       "artist": "Thu Phương",
-      "genre": "Dân ca",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=QSvWbkialq8",
       "ytId": "QSvWbkialq8",
@@ -1548,6 +1696,24 @@
         "#0ea5e9"
       ],
       "lyrics": "Chút KN Buồn | LK NHẠC DÂN CA - Remix Hay Nhất 2026 | LK NHẠC ĐỎ  GÁI XINH REMIX | Dân Ca Việt\n#canhac #vinahouse #nonstop2025\n#canhac #nonstop2025 #vinahouse\nLK NHẠC DÂN CA - Remix Hay Nhất 2026 | Mãu Xinh  Remix | LK NHẠC ĐỎ REMIX Bass Cực Căng\n#canhac #nonstop2025 #vinahouse\nLK NHẠC DÂN CA - Remix Hay Nhất 2025 | Duyên Quê Remix | LK NHẠC ĐỎ REMIX Bass Cực Căng\n#nonstop2025 #canhac #vinahouse\nLK NHẠC DÂN CA -  Remix Hay Nhất 2025 | Diệu Ví Dặm Là Em | LK NHẠC ĐỎ REMIX Bas Cực Căng\n#nonstop2025 #canhac #vinahouse\n#nonstop2025 #canhac #nhacsanremix\nRỪNG XANH VANG TIẾNG TA LƯU - TIẾNG ĐÀN TA LƯ - Lk Nhạc Đỏ Remix Cực Hay - Nhạc Sống Vùng Cao Remix\n#nonstop2025 #canhac #nhacsanremix\nTIẾNG ĐÀN TA LƯ - Lk Nhạc Đỏ Remix Cực Hay - Nhạc Sống Vùng Cao Tây Bắc Càng Nghe Càng Phê 2025\n#nonstop2025 "
+    },
+    {
+      "id": "tb-yt-q86XPtR-rY0",
+      "title": "Hűséges Isten | Ararat Worship | LIVE",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=q86XPtR-rY0",
+      "ytId": "q86XPtR-rY0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "©MMXX Ararat Worship Collective\n\nInstagram: https://www.instagram.com/araratworship/ \nFacebook: https://www.facebook.com/araratworshipcollective\nWeb: https://www.araratworship.com/ \nAkkordok & Szöveg: https://www.araratworship.com/akkordok\n\n- - - \n\nHŰSÉGES ISTEN\n\nverse1\nKi átvezetsz a tengeren\nHatalmas Úr, ki lépsz a hegyeken\nKinek hatalma végtelen\nTe megláttál, s kimondtad a nevem \n\nKi port és tengert alkottál\nKi szólsz és újra él ez a világ\nKi adtál fényt és éjszakát\nKezem fogod s mindig vigyázol rám\n\nREFR\nTámaszom, erőm vagy én Uram\nÉletem, jövőm kezedben van\nCsak Benned bízik lelkem, tarts meg engem\nHűséges Istenem\n\nverse2\nKi hordozol sasszárnyakon\nKi jársz viharban, égi utakon\nTe jól tudod a holnapom\nMár nem félek, mert Hozzád tartozom\n\ncoda\nOltalmam és pajzsom\nKőszálam, szerelmed ég "
     },
     {
       "id": "tb-yt-ZIU9X61YStw",
@@ -1586,9 +1752,27 @@
       "lyrics": "Thánh Ca Công Giáo “Mây Ơi Mưa Xuống” – một lời nguyện cầu nhẹ nhàng, tha thiết, xin Chúa tuôn đổ tình yêu và ân sủng trên cuộc đời mỗi người.\n\nMong những cơn mưa từ trời cao mang đến bình an, hy vọng và làm tươi mới những tâm hồn đang khát khao tình Chúa.\n\n( Imprimatur: TGP. Sài Gòn | 22/08/2007 )\n🎙 Giọng hát: Cece Châu\n🎼 Sáng tác:LM. Nguyễn Duy\n🎵 Âm nhạc & Hình ảnh:Hoan Ca Studio\n\n💙 Cảm ơn bạn đã lắng nghe!\n\nNếu yêu thích những bài Thánh Ca Công Giáo nhẹ nhàng, sâu lắng và giàu tâm tình cầu nguyện, hãy đăng ký kênh Hoan Ca để đón nghe những ca khúc tiếp theo.\n———————\n⛔️ MỌI SAO CHÉP XIN VUI LÒNG GHI RÕ NGUỒN\n———————\n✅ Mọi thông tin xin liên hệ :\n\n▶️ Email : bdung.des@gmail.com\n▶️ Instagram: hoanca.dl\n\n———————\nXin Chúa chúc lành cho bạn và gia đình.\n\n© Copyright by Hoan ca Studio\n\n#Th"
     },
     {
+      "id": "tb-yt-Qy8dtS3nB4E",
+      "title": "Hyrjeta & Albina Burrniku - DITËLINDJA E NËNËS #2027",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Qy8dtS3nB4E",
+      "ytId": "Qy8dtS3nB4E",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎵@BareshaNetwork    - Smarturl.it/Baresha\n🔔 Turn on notifications to stay updated with new uploads!\n🎧 https://www.youtube.com/@hyrjetaalbinaburrnikuofficial\n\nPublisher : Baresha Network\nTeksti: Daut Burrniku\nMuzika & Orkestrimi: Besnik Zikolli\nLicensing: info@bareshamusic.com\n\nFollow HYRJETA BURRNIKU on : \nFacebook ► https://www.facebook.com/hyrjetaalbina\nInstagram ► https://www.instagram.com/hyrjeta_burrniku/\nTikTok ► https://www.tiktok.com/@hyrjetaburrniku\n\nFollow ALBINA BURRNIKU on : \nFacebook ► https://www.facebook.com/hyrjetaalbina\nInstagram ► https://www.instagram.com/albinaaburrnikuu/\nTikTok ► https://www.tiktok.com/@albinaburrniku1\n\nFollow BARESHA on : \nFacebook ► https://www.facebook.com/bareshamusic\nInstagram ► https://www.instagram.com/bareshamusic\nTikTok ► https://www.tiktok"
+    },
+    {
       "id": "tb-yt-HZCi3EVe6oQ",
       "title": "CỦA LỄ THẮM TÌNH QUÊ HƯƠNG (Dâng lễ vật) - Jos Trần Anh Vũ | Ca Đoàn Hàn Quốc GYEONGJU",
-      "artist": "Ca Đoàn Hàn Quốc GYEONGJU",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=HZCi3EVe6oQ",
@@ -1605,9 +1789,9 @@
     },
     {
       "id": "tb-yt-zk1507X-AuU",
-      "title": "Em Về Miền Tây | Composer : Minh Vy. (cover) 2026",
-      "artist": "Hồ Như Ý",
-      "genre": "Bolero",
+      "title": "Hồ Như Ý | Em Về Miền Tây | Composer : Minh Vy. (cover) 2026",
+      "artist": "Thu Phương",
+      "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=zk1507X-AuU",
       "ytId": "zk1507X-AuU",
@@ -1623,8 +1807,8 @@
     },
     {
       "id": "tb-yt-JHAsU6PC2h4",
-      "title": "Cảm Mến Ân Tình",
-      "artist": "Gia Ân",
+      "title": "Gia Ân | Cảm Mến Ân Tình | Official Music Video",
+      "artist": "Thu Phương",
       "genre": "Thánh ca",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=JHAsU6PC2h4",
@@ -1638,7 +1822,912 @@
         "#0ea5e9"
       ],
       "lyrics": "Gia Ân Official - Cảm Mến Ân Tình\nSáng tác: Phùng Minh Mẫn\nThể hiện: Gia Ân\nDesign: Gia Thái\n#GiaAn #ThanhCa #ThanhHien\n\nBản quyền: Gia Ân Official \nEmail: giaannguyen79@gmail.com\nFacebook: https://www.facebook.com/giaan.nguyen.9678"
+    },
+    {
+      "id": "tb-yt-loXPL2t9lg0",
+      "title": "Một Cõi Đi Về | AI Memory Cover Phiên Bản Rock",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=loXPL2t9lg0",
+      "ytId": "loXPL2t9lg0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Một Cõi Đi Về | AI Memory Cover Phiên Bản Rock\n\nMột bản phối hoàn toàn mới của Một Cõi Đi Về – ca khúc kinh điển của cố nhạc sĩ Trịnh Công Sơn – được “tái sinh” theo phong cách AI Memory Cover với màu sắc Rock hiện đại, mạnh mẽ nhưng vẫn giữ trọn chiều sâu triết lý.\n\nBản cover mang tinh thần hoài niệm, da diết, hòa cùng không khí Rock đầy cảm xúc:\n🎸 Guitar điện nổi bật\n🥁 Trống mạnh mẽ nhưng không phá lỡ giai điệu\n🎤 Giọng hát AI Memory sắc nét, trầm ấm, đượm buồn\n\nSự kết hợp giữa chất liệu rock và hồn nhạc Trịnh tạo nên một trải nghiệm âm nhạc mới — vừa phóng khoáng, vừa chiêm nghiệm.\n🎧 Nghe bài hát trên Spotify:\nhttps://open.spotify.com/track/4dbOorIemzL6OO8a4iVnK7\n🎧 Nghe bài hát trên Apple Music:\nhttps://music.apple.com/us/song/m%E1%BB%99t-c%C3%B5i-%C4%91i-v%E1%BB%81/6776692136\n\n👉 Đ"
+    },
+    {
+      "id": "tb-yt-tBSHvqohIfQ",
+      "title": "Mưa Chiều – Anh Bằng | Nhạc Trữ Tình Da Diết Nỗi Đau Tình Cuối | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=tBSHvqohIfQ",
+      "ytId": "tBSHvqohIfQ",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Mưa Chiều của nhạc sĩ Anh Bằng là tình khúc nhạc trữ tình về nỗi đau của một người vẫn còn yêu sau khi đã nhận về nhiều tổn thương. AI Memory Cover mời quý vị lắng nghe bản cover AI với câu chuyện tình yêu dang dở và những cảm xúc khó nguôi sau chia xa.\n\nNgười trong bài hát từng có những phút giây được yêu thương, từng gắn bó với một mối tình say đắm. Khi sự gần gũi ấy không còn, nỗi cô đơn trở nên khó chịu đựng bởi ký ức hạnh phúc vẫn hiện hữu. Càng nhớ tình yêu từng có, người ở lại càng cảm nhận rõ sự trống vắng của hiện tại.\n\nĐiều day dứt trong Mưa Chiều là sự giằng co giữa mong muốn dứt bỏ và tình cảm chưa thể nguôi. Lời ca đi đến quyết định trả lại những dối gian cho người cũ, nhưng nỗi buồn vẫn còn nguyên. Một mối tình từng được gửi gắm hy vọng về hạnh phúc cuối đời đã để lại sự hụt "
+    },
+    {
+      "id": "tb-yt-IJpKkaZ9bJs",
+      "title": "Một Cõi Đi Về – Trịnh Công Sơn | Bản Phối Rock Ballad Cực Đỉnh",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=IJpKkaZ9bJs",
+      "ytId": "IJpKkaZ9bJs",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Một Cõi Đi Về là ca khúc của nhạc sĩ Trịnh Công Sơn, được AI Memory Cover thể hiện qua bản phối Rock Ballad mới với không gian âm nhạc sâu, ma mị và giàu cao trào.\n\nCa khúc là suy tưởng về hành trình tồn tại của con người giữa đi và về, gặp gỡ và chia lìa, hữu hạn và vô biên. Những hình ảnh nhật nguyệt, mùa xuân, mùa hạ, mưa xa, tà dương, non cao và biển rộng gợi nên vòng tuần hoàn của thời gian, đồng thời đặt ra câu hỏi về quê nhà và nơi con người thực sự thuộc về.\n\nBản phối mới sử dụng guitar, saxophone và violin làm những lớp âm thanh chủ đạo. Giọng hát được xử lý theo hướng mạnh mẽ, trải nghiệm nhưng vẫn giữ chiều sâu triết lý, giai điệu và tinh thần nguyên bản của tác phẩm.\n\nThông tin ca khúc:\n- Tên bài hát: Một Cõi Đi Về\n- Sáng tác: Trịnh Công Sơn\n- Thể loại bản phối: Rock Ballad\n- T"
+    },
+    {
+      "id": "tb-yt-u1URTk81S_g",
+      "title": "Thành Phố Buồn – Lam Phương | Tuyệt Phẩm Nhạc Vàng Bản Phối Mới 2026",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=u1URTk81S_g",
+      "ytId": "u1URTk81S_g",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Thành Phố Buồn – Lam Phương | Tuyệt Phẩm Nhạc Vàng Bản Phối Mới 2026\n\n\"Thành phố buồn nằm nghe khói tỏa\nNgười lưa thưa chìm dưới sương mù\nQuỳ bên em trong góc giáo đường\nTiếng kinh cầu dệt mộng yêu đương...\"\n— Nhạc phẩm \"Thành Phố Buồn\" của nhạc sĩ Lam Phương\n\nThành Phố Buồn là một trong những tuyệt phẩm nhạc vàng, nhạc xưa bất hủ khắc họa nỗi buồn chia phôi gắn liền với khung cảnh sương mờ Đà Lạt. Bản phối mới từ AI Memory Cover mang đến không gian âm nhạc hoài niệm nhưng hiện đại, tôn vinh trọn vẹn giai điệu da diết và ca từ sâu lắng của tác giả Lam Phương.\n\n📌 Thông tin bài hát:\n\nTác phẩm: Thành Phố Buồn\nTác giả: Lam Phương\nThể loại: Nhạc vàng, Nhạc xưa, Trữ tình bolero\nThể hiện / Phối khí: AI Memory Cover\n\n📜 Lời bài hát (Lyrics):\nThành phố nào nhớ không anh?\nNơi chúng mình tìm phút êm"
+    },
+    {
+      "id": "tb-yt-sR-ZxRRLT8o",
+      "title": "Một Cõi Đi Về – Trịnh Công Sơn | Phiên Bản Rock Ballad do AI phối và hát lại",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=sR-ZxRRLT8o",
+      "ytId": "sR-ZxRRLT8o",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎧 Một Cõi Đi Về – Trịnh Công Sơn | Phiên Bản Rock Ballad do AI phối và hát lại  \nCover & Produced by AI Memory Cover  \n\nBản phối được tạo hoàn toàn bằng AI, mang hơi thở hiện đại và sức mạnh của Rock Ballad.  \nGiọng hát AI thể hiện cảm xúc nội tâm, giữ nguyên hồn nhạc Trịnh – sâu lắng nhưng đầy nội lực.  \n\n✨ Phong cách: Rock Ballad  \n🎤 Giọng AI: Nam – khàn, ấm, mạnh mẽ  \n🎛️ Phối khí: Trống điện tử – Guitar điện – Bass dày – Hòa âm Cinematic  \n\n🎵 “Một cõi đi về” – biểu tượng của triết lý sống, được AI tái hiện trong không gian âm nhạc mới,  \nnơi hoài niệm và hiện đại hòa quyện thành một cảm xúc rất riêng.  \n\n🔥 Nếu bạn yêu nhạc Trịnh, hãy khám phá playlist “AI Recreates Classics”:  \n👉 https://youtube.com/playlist?list=PLj_HY1A6ef6As-l00uGnIhPXTJH3unYid&si=Sg_tvAmTyNxaVf94\n\n#aimemorycov"
+    },
+    {
+      "id": "tb-yt-e_iS8Gk1YxY",
+      "title": "Hát Trên Những Xác Người – Trịnh Công Sơn | Phiên Bản Rock Ballad do AI phối và hát lại",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=e_iS8Gk1YxY",
+      "ytId": "e_iS8Gk1YxY",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎧 Hát Trên Những Xác Người – Trịnh Công Sơn | Phiên Bản Rock Ballad do AI phối và hát lại\nCover & Produced by AI Memory Cover  \n\nBản phối được tạo hoàn toàn bằng AI, mang hơi thở hiện đại và sức mạnh của Rock Ballad.  \nGiọng hát AI thể hiện cảm xúc nội tâm, giữ nguyên hồn nhạc Trịnh – sâu lắng nhưng đầy nội lực.  \n\n✨ Phong cách: Rock Ballad  \n🎤 Giọng AI: Nam – khàn, ấm, mạnh mẽ  \n🎛️ Phối khí: Trống điện tử – Guitar điện – Bass dày – Hòa âm Cinematic  \n\n🎵 “Hát Trên Những Xác Người” –Nỗi đau và sự mất mát, hình ảnh bi thương của chiến tranh, nơi nhiều người đã hy sinh và thân xác họ nằm rải rác khắp nơi như một minh chứng cho sự tàn khốc của cuộc chiến.\n🔥 Nếu bạn yêu nhạc Trịnh, hãy khám phá playlist “AI Recreates Classics”:  \n👉 https://youtube.com/playlist?list=PLj_HY1A6ef6As-l00uGnIh"
+    },
+    {
+      "id": "tb-yt-4HSm208FvVw",
+      "title": "Người Già Em Bé – Trịnh Công Sơn | Phiên Bản Rock Ballad Đầy Cảm Xúc Và Mới Mẻ",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=4HSm208FvVw",
+      "ytId": "4HSm208FvVw",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "“Người Già Em Bé” – một sáng tác của Trịnh Công Sơn được khoác lên lớp áo mới trong bản phối Rock Ballad đầy cảm xúc.\n\nÂm nhạc Trịnh vốn nhẹ nhàng, sâu lắng, nay được thổi vào hơi thở mới bằng guitar điện, trống mạnh mẽ, cùng giọng hát tràn năng lượng và chân thành.\n\nBản phối mang đến sự giao hòa giữa chất triết lý, nhân văn của nhạc Trịnh và nhiệt huyết của Rock hiện đại, vừa mới mẻ, vừa giữ trọn tinh thần nguyên bản.\n\n🎸 Ca khúc: Người Già Em Bé\n✍️ Nhạc sĩ: Trịnh Công Sơn\n🎤 Phiên bản: Rock Ballad phối lại\n\n💌 Hãy lắng nghe để cảm nhận tình yêu, tuổi trẻ và sự hồi sinh của cảm xúc trong từng nhịp Rock.\n\n—\n🔔 Đăng ký kênh để xem thêm nhiều ca khúc Trịnh Công Sơn phối Rock khác nhé!"
+    },
+    {
+      "id": "tb-yt-fHOkrtY2Zf0",
+      "title": "Đại Bác Ru Đêm – Trịnh Công Sơn | Phiên Bản AI Hát Đầy Xúc Cảm",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=fHOkrtY2Zf0",
+      "ytId": "fHOkrtY2Zf0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "“Đại Bác Ru Đêm” – một trong những ca khúc phản chiến nổi tiếng của Trịnh Công Sơn, khắc họa nỗi đau chiến tranh và tiếng lòng của con người giữa bom đạn.\nTiếng đại bác vọng về giữa đêm khuya, làm thức giấc mẹ già, khiến trẻ thơ hoảng sợ – như lời nhắc về những mất mát không thể đong đếm.\nPhiên bản AI hát này được tái hiện với cảm xúc chân thực, trầm buồn nhưng đầy nhân văn – lời cầu mong cho một quê hương yên bình, không còn tiếng súng."
+    },
+    {
+      "id": "tb-yt-I70mjxHikM8",
+      "title": "Ngày Dài Trên Quê Hương - Trịnh Công Sơn | AI Memory Cover - Rock Ballad",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=I70mjxHikM8",
+      "ytId": "I70mjxHikM8",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎧 Ngày Dài Trên Quê Hương – Trịnh Công Sơn\nCover & Produced by AI Memory Cover  \n\nBản phối được tạo hoàn toàn bằng AI, mang hơi thở hiện đại và sức mạnh của Rock Ballad.  \nGiọng hát AI thể hiện cảm xúc nội tâm, giữ nguyên hồn nhạc Trịnh – sâu lắng nhưng đầy nội lực.  \n\n✨ Phong cách: Rock Ballad  \n🎤 Giọng AI: Nam – khàn, ấm, mạnh mẽ  \n🎛️ Phối khí: Trống điện tử – Guitar điện – Bass dày – Hòa âm Cinematic  \n\n🎵 “Ngày Dài Trên Quê Hương” – Giọng nam khàn ấm mang lại nỗi buồn man mác, khắc khoải về chiến tranh và niềm hy vọng cho quê hương.\nMột cách cảm nhạc Trịnh mới – sâu lắng, mạnh mẽ và đầy nhân văn.  \n\n🔥 Nếu bạn yêu nhạc Trịnh, hãy khám phá playlist “AI Recreates Classics”:  \n👉    • Những Bản Nhạc Cực Cuốn Do AI Cover Theo Rock  \nhttps://www.youtube.com/playlist?list=PLj_HY1A6ef6As-l"
+    },
+    {
+      "id": "tb-yt-ZFkqaw8t7y0",
+      "title": "Một Cõi Đi Về | 11 Ca Khúc Trịnh Công Sơn Bất Hủ - AI Memory Cover Phiên Bản Rock",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=ZFkqaw8t7y0",
+      "ytId": "ZFkqaw8t7y0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Một hành trình âm nhạc đặc biệt cùng 11 ca khúc bất hủ của cố nhạc sĩ Trịnh Công Sơn, được AI Memory Cover tái hiện trong một màu sắc hoàn toàn mới: Rock hiện đại, mạnh mẽ, sâu lắng và đầy chất chiêm nghiệm.\n\nAlbum mở đầu với Một Cõi Đi Về – ca khúc mang tinh thần triết lý về thân phận, hành trình sống và sự trở về trong cõi người. Từ đó, người nghe được dẫn qua những miền ký ức, nỗi đau thời cuộc, tình mẹ, quê hương và những suy tư rất Trịnh.\n\nBản phối Rock trong album này không làm mất đi hồn nhạc Trịnh, mà mở thêm một không gian cảm xúc mới:\n\n🎸 Guitar điện da diết, mạnh mẽ\n🥁 Trống chắc nhịp, giàu năng lượng\n🎤 Giọng hát AI Memory trầm ấm, sắc nét, đượm buồn\n🌫️ Không khí âm nhạc hoài niệm, triết lý và đầy nội lực\n\nDanh sách ca khúc:\n\n1. Một Cõi Đi Về – Trịnh Công Sơn\n2. Ca Dao Mẹ - Tr"
+    },
+    {
+      "id": "tb-yt-KWDNUBX4L30",
+      "title": "Huyền Thoại Mẹ – Bản Rock Điện Ảnh Hùng Tráng | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=KWDNUBX4L30",
+      "ytId": "KWDNUBX4L30",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "“Huyền Thoại Mẹ” – Trịnh Công Sơn là một trong những ca khúc xúc động nhất viết về hình tượng người mẹ Việt Nam trong chiến tranh.\nTrong phiên bản này, AI Memory Cover tái hiện tác phẩm theo hướng Rock Điện Ảnh Hùng Tráng: kết hợp grand piano, dàn dây giao hưởng, trống cinematic, cùng chất Symphonic Rock Việt Nam bi tráng và sâu lắng.\n\nBản phối mang hơi thở của một bản Power Ballad điện ảnh, nơi giai điệu được mở rộng như nhạc phim chiến tranh: chậm – sâu – kịch tính – dồn nén cảm xúc.\nGiọng hát được xử lý theo phong cách soaring vocals, vút cao mạnh mẽ nhưng đầy hoài niệm, tôn lên hình tượng người mẹ Việt Nam kiên cường, thầm lặng và bất tử.\n\nĐây là lời tri ân đến những người mẹ đã gánh chịu mọi gian nan để bảo vệ con, bảo vệ làng quê, bảo vệ đất nước trong những năm tháng đau thương ấy.\n"
+    },
+    {
+      "id": "tb-yt-SoZiBLn7o60",
+      "title": "Đại Bác Ru Đêm (Trịnh Công Sơn) | Bản Cover 1970s | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=SoZiBLn7o60",
+      "ytId": "SoZiBLn7o60",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎵 Đại Bác Ru Đêm – Trịnh Công Sơn | MV Cover Hoài Niệm 1970s | AI Memory Cover\n\n“Đại Bác Ru Đêm”, MV này được AI Memory Cover thực hiện với phong cách điện ảnh – hoài cổ – Việt Nam thập niên 70, tái hiện những kiếp người bé nhỏ giữa tiếng đại bác, ánh hỏa châu, mái nhà tranh và cánh đồng bom đạn.\n\nMV được dựng theo phong cách phim tài liệu xưa: màu nâu–vàng bạc, tương phản mềm, film grain, ánh trăng yếu, không điện đường, mang lại cảm giác chân thật của thời chiến.\n\n✨ Nội dung MV:\n– Người phu quét đường giữa tiếng đại bác\n– Mẹ ôm con trong hầm trú\n– Trẻ thơ giật mình trong ánh hỏa châu\n– Đoàn xe chiến tranh chạy xuyên qua xóm nhỏ\n– Nhà cửa cháy đỏ, làng quê tan hoang\n– Hình ảnh chiến tranh Việt Nam tái hiện chân thực phong cách 1970s\n\n💬 Thông điệp:\nCa khúc không chỉ là tiếng hát về chiến"
+    },
+    {
+      "id": "tb-yt-1IHqluSkOKo",
+      "title": "Nắng Thủy Tinh - Trịnh Công Sơn | Bản Phối AI Da Diết Gây Thương Nhớ",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=1IHqluSkOKo",
+      "ytId": "1IHqluSkOKo",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Nắng Thủy Tinh - Một trải nghiệm nghe nhạc Trịnh hoàn toàn mới bằng công nghệ AI.\n\n\"Nắng Thủy Tinh\" tạo 100% bởi Trí tuệ nhân tạo (AI), từ bản phối khí thính phòng da diết đến những thước phim điện ảnh (Cinematic) đầy hoài niệm. \n\n\"Nắng Thủy Tinh\" là khúc ca lãng mạn về vẻ đẹp mong manh và thuần khiết của tình yêu đầu, nơi ánh nắng mùa thu và ánh mắt người thương hòa quyện làm một trong cõi hư ảo. MV tái hiện không gian nhạc Trịnh xưa cũ nhưng với chất lượng âm thanh hiện đại, sang trọng.\n\n📌 Thông tin sản phẩm:\n\nSáng tác: Trịnh Công Sơn\n\nPhối khí & Âm thanh: AI (Suno v5)\n\nHình ảnh & Kịch bản: AI (Veo3)\n\nThể loại: Slow Surf, Chamber Pop, Acoustic\n\nMood: Hoài niệm, Buồn, Thư giãn\n\n📜 Lời bài hát (Lyrics): \nMàu nắng hay là màu mắt em\nMùa thu mưa bay cho tay mềm\nChiều nghiêng nghiêng bóng nắn"
+    },
+    {
+      "id": "tb-yt-7jSRcnfHrmk",
+      "title": "Ướt Mi – Trịnh Công Sơn | Bản Cover Cảm Xúc Nhất 2025 | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=7jSRcnfHrmk",
+      "ytId": "7jSRcnfHrmk",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Ướt Mi - Trịnh Công Sơn\nPhiên bản Vietnamese Slow Surf kết hợp Classical Pop, hòa âm bằng piano – violin – saxophone, giọng tenor rõ, sạch, audiophile.\nĐây là bản cover do AI Memory Cover thực hiện với phong cách nhẹ nhàng, lãng mạn, nhịp slow surf đặc trưng và chất âm trong trẻo cho người thích không gian chill – trữ tình.\nLời bài hát:\nNgoài hiên mưa rơi rơi,\nLòng ai như chơi vơi\nNgười ơi nước mắt hoen mi rồi\nĐừng khóc trong đêm mưa,\nĐừng than trong câu ca...\n\nBuồn ơi trong đêm thâu,\nÔm ấp giùm ta nhé\nNgười em thương mưa ngâu\nHay khóc sầu nhân thế\nNgười ơi mang về\nTình ấm hồn em thêm say mê\n\nMưa lạnh lùng rơi rớt giữa đêm về\nNghe não nề...\nMưa kéo dài lê thê những đêm khuya\nLạnh ướt mi\nAi còn nhìn mưa mãi rớt bên song thêm lạnh lùng\nAi còn buồn khi lá rớt rơi trong một cuối đông....\n\nNgoà"
+    },
+    {
+      "id": "tb-yt-WD7rm0IcmwQ",
+      "title": "10 Ca Khúc Triệu View Của Trịnh Công Sơn | AI Cover Qua Giọng Nữ | Acoustic Guitar & Violin",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=WD7rm0IcmwQ",
+      "ytId": "WD7rm0IcmwQ",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Album gồm 10 ca khúc triệu view của Trịnh Công Sơn, được AI phối lại hoàn toàn mới và thể hiện qua giọng nữ đầy cảm xúc.\nChỉ sử dụng guitar & violin acoustic, giữ trọn tinh thần mộc – trữ tình – hoài niệm của nhạc Trịnh.\n\nDanh sách 10 ca khúc trong album:\n1. Nắng Thủy Tinh\n2. Như Cánh Vạc Bay\n3. Mưa Hồng\n4. Hạ Trắng\n5. Biển Nhớ\n6. Ru Ta Ngậm Ngùi\n7. Phôi Pha\n8. Ca Dao Mẹ\n9. Một Cõi Đi Về\n10 Diễm Xưa\n\nĐiểm đặc biệt của video:\n- Phối khí đầy thơ, đúng màu Trịnh (1970s acoustic)\n- Giọng nữ trẻ trung, sáng, mềm mại\n- Không gian âm nhạc mộc, cảm xúc, dễ nghe\n- AI phối khí hiện đại nhưng vẫn giữ hồn của giai điệu\n\nDành cho những ai yêu:\n- Nhạc Trịnh Công Sơn\n- Acoustic – guitar – violin\n- Âm nhạc trữ tình – hoài niệm\n- Ca khúc Việt Nam bất hủ\nHãy đăng ký kênh AI Memory Cover để xem thêm nhiều bả"
+    },
+    {
+      "id": "tb-yt-MF2_xUkf2I0",
+      "title": "Tôi Đã Già – Bản AI Cover Chỉ Nghe Một Lần Là Đủ Hiểu Cả Cuộc Đời",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=MF2_xUkf2I0",
+      "ytId": "MF2_xUkf2I0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Tôi Đã Già\nSáng tác: Vũ Vĩnh Phúc \nCa khúc gợi lại khoảnh khắc ta nhìn vào gương, thấy mình đã khác, tóc đã bạc, và bỗng hiểu ra điều quan trọng nhất của cuộc đời: sống nhẹ nhàng, buông bỏ, và trân quý những gì còn lại.\n\nLỜI BÀI HÁT TÔI ĐÃ GIÀ – AI COVER\n[Verse 1]\nMột chiều nhìn qua gương,\nTóc điểm sương biết mình đã già\nThời gian dần đi qua,\nNhững vết nhăn đã hằn trên má.\n\nĐời người như chiếc lá,\nLá xanh kia cũng dần úa vàng\nLìa cành rơi xuống đất,\nRồi mục nát… rồi biến tan.\n\n[Verse 2]\nChuyện tình từ xa xưa,\nCứ ngỡ như mới từ hôm nào.\nCuộc đời tựa chiêm bao,\nCũng chóng qua như là thay áo.\n\nCòn lại bao nhiêu nữa,\nNhững tháng năm vui buồn kiếp người.\nGiận hờn hay ghen ghét,\nHay bỏ buông cho đời mãi tươi.\n\n[Chorus]\nLàm sao níu lại được thời gian?\nĐể ta gặp lại người trong mộng\nLàm sao giữ lạ"
+    },
+    {
+      "id": "tb-yt-ormxxhJ0k8s",
+      "title": "Tuyển Chọn Nhạc Trịnh Công Sơn – Lam Phương | 11 Ca Khúc Bất Hủ | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=ormxxhJ0k8s",
+      "ytId": "ormxxhJ0k8s",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Album tuyển chọn những ca khúc bất hủ của Trịnh Công Sơn và Lam Phương, hai nhạc sĩ lớn của nền tân nhạc Việt Nam.\nNhững giai điệu đi cùng năm tháng, chất chứa hoài niệm, triết lý và cảm xúc sâu lắng – được AI Memory Cover tái hiện lại với tinh thần trân trọng nguyên tác, nhẹ nhàng và giàu cảm xúc.\nDanh sách ca khúc trong album:\n1. Thành phố buồn\n2. Ru ta ngậm ngùi\n3. Thu sầu\n4. Mưa trên biển vắng\n5. Như cánh vạc bay\n6. Duyên kiếp\n7. Mưa hồng\n8. Một mình\n9. Hạ trắng\n10. Tôi đưa em sang sông\n11. Diễm xưa\nAlbum phù hợp để nghe khi thư giãn, hoài niệm, đọc sách hoặc những khoảnh khắc cần sự lắng đọng.\n👉 Nếu yêu mến dòng nhạc xưa, hãy đăng ký kênh AI Memory Cover để theo dõi thêm nhiều album tuyển chọn giá trị khác.\n#TrinhCongSon\n#LamPhuong\n#NhacXua\n#NhacTruTinh\n#AIMemoryCover\n#TuyenChonNhacX"
+    },
+    {
+      "id": "tb-yt-otDMPndNQzA",
+      "title": "Còn Tuổi Nào Cho Em - Trịnh Công Sơn | AI Memory Cover - Hạ Vy",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=otDMPndNQzA",
+      "ytId": "otDMPndNQzA",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Còn Tuổi Nào Cho Em - Trịnh Công Sơn\n\nTrong phiên bản AI Memory Cover, ca khúc được thể hiện qua giọng nữ trữ tình Hạ Vy, mang sắc thái chậm rãi, mềm mại và giàu suy tư. Không bi lụy, không phô diễn, bản cover giữ trọn tinh thần nguyên tác – như một dòng ký ức trôi nhẹ giữa những tháng năm đã cũ.\n\n🎵 Trình bày: Hạ Vy (AI Singer)\n✍️ Sáng tác: Trịnh Công Sơn\n🎧 Thực hiện: AI Memory Cover\n\nNếu bạn yêu nhạc trữ tình xưa, yêu những ca khúc của Trịnh Công Sơn, hãy đăng ký kênh AI Memory Cover để đồng hành cùng những bản nhạc vượt thời gian – được kể lại bằng một góc nhìn mới, tinh tế và đầy cảm xúc.\n\nLyrics:\nVerse 1]\nTuổi nào nhìn lá vàng úa chiều nay\nTuổi nào ngồi hát mây bay ngang trời\nTay măng trôi trên vùng tóc dài\nBao nhiêu cơn mơ vừa tuổi này\nTuổi nào ngơ ngác tìm tiếng gió heo may\nTuổi nà"
+    },
+    {
+      "id": "tb-yt-BMq7KD78sWk",
+      "title": "Thành Phố Buồn – Lam Phương || Rock Ballad Nhạc Vàng Phối Mới Nghe Là Thấm [MV HD]",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=BMq7KD78sWk",
+      "ytId": "BMq7KD78sWk",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "“Thành Phố Buồn” của Lam Phương được tái hiện trong phiên bản Rock Ballad bằng công nghệ AI. Video và bản phối được tạo mới hoàn toàn bởi AI, không sử dụng giọng hát gốc, bản ghi âm gốc hay beat gốc, không sao chép bất kỳ bản thu thương mại nào. Giai điệu và ca từ được thể hiện theo cách diễn giải mới, mang tinh thần tri ân tác phẩm gốc. Nội dung được chia sẻ vì mục đích sáng tạo, thưởng thức âm nhạc, không nhằm mạo danh ca sĩ hay gây nhầm lẫn về nguồn gốc. Nếu có vấn đề liên quan đến bản quyền, vui lòng liên hệ để được điều chỉnh hoặc gỡ bỏ kịp thời.\nlyrics:\nThành phố nào nhớ không em?\nNơi chúng mình tìm phút êm đềm\nThành phố nào vừa đi đã mỏi\nĐường quanh co quyện gốc thông già\n\nChiều đan tay nghe nắng chan hòa\nNắng hôn nhẹ làm hồng môi em\nMắt em buồn trong sương chiều..\nAnh thấy đẹp hơn "
+    },
+    {
+      "id": "tb-yt-4TZGsf-Pm1s",
+      "title": "Một Cõi Đi Về (Trịnh Công Sơn) | Hạ Vy Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=4TZGsf-Pm1s",
+      "ytId": "4TZGsf-Pm1s",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Mây che trên đầu và nắng trên vai\nĐôi chân ta đi sông còn ở lại\nCon tim yêu thương vô tình chợt gọi\nLại thấy trong ta hiện bóng con người"
+    },
+    {
+      "id": "tb-yt-ggQpMcwruDU",
+      "title": "15 Ca Khúc Nhạc Trịnh Công Sơn Hay Nhất | Hạ Vy - AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=ggQpMcwruDU",
+      "ytId": "ggQpMcwruDU",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Tuyển chọn những ca khúc bất hủ của Trịnh Công Sơn qua giọng hát Hạ Vy, mang đến không gian âm nhạc sâu lắng, nhẹ nhàng và đầy cảm xúc. Những giai điệu như Biển Nhớ, Diễm Xưa, Hạ Trắng… không chỉ để nghe, mà để cảm nhận và chiêm nghiệm.\n\nVideo này được sản xuất với sự hỗ trợ của công nghệ AI hiện đại:\n🎤 Giọng hát Hạ Vy (AI tái tạo): giữ được chất giọng trữ tình, ấm áp, giàu cảm xúc\n🎼 Bản phối AI: phong cách bolero nhẹ nhàng, sâu lắng, phù hợp nghe thư giãn\n\nDanh sách bài hát:\n00:00 Biển Nhớ\n05:04 Còn Tuổi Nào Cho Em\n10:59 Diễm Xưa\n16:29 Hạ Trắng\n20:45 Một Cõi Đi Về\n26:01 Mưa Hồng\n30:52 Như Cánh Vạc Bay\n35:52 Phôi Pha\n40:14 Ru Ta Ngậm Ngùi\n45:04 Ở Trọ\n49:14 Ca Dao Mẹ\n54:15 Tình Xa\n59:15 Biết Đâu Nguồn Cội\n01:03:24 Ru Em Từng Ngón Xuân Nồng\n01:07:44 Nắng Thủy Tinh\n#trinhcongson #havy #aime"
+    },
+    {
+      "id": "tb-yt-_bDJq3HL4sQ",
+      "title": "Tình Ca Bất Hủ - Giọng Nam Trầm Ấm | Nghe Một Lần Là Nhớ Mãi",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=_bDJq3HL4sQ",
+      "ytId": "_bDJq3HL4sQ",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Playlist tình ca bất hủ với giọng nam trầm ấm, tuyển chọn những ca khúc nhạc xưa sâu lắng, da diết và đầy cảm xúc. Những bản tình ca vượt thời gian dành cho những ai yêu nhạc trữ tình, nhạc vàng và nhạc Trịnh.\n\nGiọng hát nam trầm ấm mang đến cảm giác ấm áp, hoài niệm, phù hợp nghe khi thư giãn, làm việc, hoặc những đêm yên tĩnh. Tuyển tập này gồm những ca khúc nổi tiếng, chạm đến cảm xúc người nghe ngay từ những giai điệu đầu tiên.\n\nDanh sách bài hát:\n00:00 Tôi đã già – Vũ Đình Phúc \n05:03 Bài tình ca cho em – Ngô Thụy Miên\n09:53 Từ lúc em đi – Anh Bằng\n13:41 Diễm xưa – Trịnh Công Sơn\n17:32 Biển nỗi nhớ và em – Phú Quang\n22:15 Cát bụi – Trịnh Công Sơn\n26:51 Em còn nhớ hay em đã quên – Trịnh Công Sơn\n31:24 Rong rêu – Nguyễn Tâm\n35:33 Ru ta ngậm ngùi – Trịnh Công Sơn\n40:09 Ướt Mi – Trịnh Côn"
+    },
+    {
+      "id": "tb-yt-oYjPTLm9cEc",
+      "title": "Chiếc Lá Cuối Cùng (Tuấn Khanh) | Hạ Vy Cover – Giọng Hát Da Diết Chạm Đến Trái Tim",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=oYjPTLm9cEc",
+      "ytId": "oYjPTLm9cEc",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Chiếc Lá Cuối Cùng (Tuấn Khanh) | Hạ Vy Cover – Giọng Hát Da Diết Chạm Đến Trái Tim\n\n“Chiếc Lá Cuối Cùng” là một ca khúc trữ tình nổi tiếng của nhạc sĩ Tuấn Khanh, được khán giả yêu thích qua nhiều thế hệ. Trong video này, ca khúc được thể hiện lại theo phong cách acoustic nhẹ nhàng với giọng hát mô phỏng phong cách Hạ Vy bằng công nghệ AI.\n\nBản phối tối giản với guitar acoustic mang đến không gian âm nhạc sâu lắng, hoài niệm và giàu cảm xúc, phù hợp với những ai yêu thích dòng nhạc trữ tình – bolero – nhạc vàng.\n\n🎧 Thể loại: Bolero – Nhạc trữ tình\n🎤 Vocal: AI Generated (Hạ Vy style)\n🎼 Sáng tác: Tuấn Khanh\n🎸 Arrangement: Acoustic\n\n⚠️ Tuyên bố về bản quyền\nVideo này là AI cover được tạo bằng công nghệ trí tuệ nhân tạo, sử dụng giọng hát mô phỏng phong cách nghệ sĩ. Đây không phải bản th"
+    },
+    {
+      "id": "tb-yt-nsnGQJnHOGQ",
+      "title": "Xin Còn Gọi Tên Nhau (Trường Sa) | Hạ Vy Cover Acoustic Hay Nhất | Bolero Trữ Tình 2026",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=nsnGQJnHOGQ",
+      "ytId": "nsnGQJnHOGQ",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Xin Còn Gọi Tên Nhau (Trường Sa) | Hạ Vy Cover Acoustic là phiên bản nhạc trữ tình bolero nhẹ nhàng, sâu lắng và đầy cảm xúc. Ca khúc Xin Còn Gọi Tên Nhau của nhạc sĩ Trường Sa được thể hiện lại qua giọng hát ngọt ngào của Hạ Vy, mang đến không gian âm nhạc hoài niệm và tinh tế.\n\nTrong bản Xin Còn Gọi Tên Nhau cover acoustic, giúp tôn lên chất giọng ấm áp, rõ chữ và giàu cảm xúc. Phiên bản này giữ đúng tinh thần nhạc trữ tình bolero, phù hợp với những khán giả yêu thích nhạc xưa, tình khúc trữ tình và acoustic nhẹ nhàng.\n\n🎧 Đặc biệt: Phần phối khí và ca sỹ được làm bằng AI, giúp không gian âm nhạc trở nên sạch, rõ và tự nhiên hơn, đồng thời vẫn giữ được cảm xúc mộc mạc của bản acoustic.\n\nNếu bạn yêu thích Xin Còn Gọi Tên Nhau, nhạc trữ tình bolero hay nhất, nhạc xưa acoustic, hãy Like – C"
+    },
+    {
+      "id": "tb-yt-2cjLuIaAKCg",
+      "title": "Bài Tình Ca Cho Em – Ngô Thụy Miên | Hạ Vy Cover | Nhạc Trữ Tình Buồn Lay Động Lòng",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=2cjLuIaAKCg",
+      "ytId": "2cjLuIaAKCg",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Bài Tình Ca Cho Em (Ngô Thụy Miên) – Hạ Vy Cover phiên bản AI nhạc trữ tình sâu lắng, da diết và đầy cảm xúc. Một tuyệt phẩm nhạc xưa bất hủ về tình yêu dang dở, nghe càng thấm càng đau.\n\nAnh hát cho em bài tình ca thiết tha\nAnh hát cho em dù lòng nghe xót xa\nMột lần gặp gỡ đã là bao thương nhớ\nThương dáng em cười nhớ nụ mắt bờ môi\n\nAnh nhớ năm xưa mùa xuân em đến thăm\nEm nói yêu anh rồi tình qua rất nhanh\nMột ngày chợt đến bỗng tình như đã lỡ\nMột ngày chợt đến bỗng đời như tan vỡ\n\nAi đã yêu em những đêm buồn giá lạnh\nVà ai âu yếm hát những lời thiết tha trìu mến\nAi đã nâng niu đón đưa ngày tháng dài\nGiờ đâu còn nữa ngày vui đã hết tình ta đã chết\n\nAnh chúc cho em đời yên vui đắm say\nAnh chúc cho em dù lòng nghe đắng cay\nMột ngày nào đó dẫu tình ta đã lỡ\nMột ngày nào đó ta vẫn yêu mãi ngườ"
+    },
+    {
+      "id": "tb-yt-7_JaCz2_MxU",
+      "title": "Giọt Lệ Sầu - Hạ Vy",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=7_JaCz2_MxU",
+      "ytId": "7_JaCz2_MxU",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Giọt Lệ Sầu\n Tác giả : Lam Phương\nGiọt lệ này em cho anh hơn tất cả.\nGiọt lệ sầu em đã giết trọn tim anh.\nĐêm hôm nay trên cánh tay này,\nTa cho nhau những lời nồng say.\nChuyện tình mình xây bằng nước mắt,\nCó bao giờ tan vỡ đâu em?\nLời thề nguyện muôn năm sau anh vẫn nhớ.\nNụ cười này, đôi mắt đó làm sao quên."
+    },
+    {
+      "id": "tb-yt-o6OTT1sNzR4",
+      "title": "Tôi Đưa Em Sang Sông - Hạ Vy | Nhạc Trữ Tình Bolero Buồn Nhất | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=o6OTT1sNzR4",
+      "ytId": "o6OTT1sNzR4",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Tôi Đưa Em Sang Sông - Hạ Vy | Nhạc Trữ Tình Bolero Buồn Nhất | AI Memory Cover\n“Tôi Đưa Em Sang Sông” là ca khúc nhạc trữ tình bolero nổi tiếng của Nhật Ngân – Y Vũ. Phiên bản Hạ Vy - AI Memory Cover  tái hiện lại chất giọng ngọt ngào, sâu lắng, đầy hoài niệm của dòng nhạc vàng bất hủ.\nCa khúc là câu chuyện tiễn người yêu sang ngang, mang đậm màu sắc nhạc xưa, bolero hải ngoại và nhạc trữ tình buồn dành cho những ai yêu hoài niệm.\n🎵 Thể loại: Nhạc trữ tình bolero\n🎼 Sáng tác: Nhật Ngân – Y Vũ\n🎤 Trình bày: Hạ Vy - AI Memory Cover\nLyrics:\nTôi đưa em sang sông\nChiều xưa mưa rơi âm thầm\nĐể thấm ướt chiếc áo xanh\nVà đẫm ướt mái tóc em\nNếu xưa trời không mưa\nĐường vắng đâu cần tôi đưa\nChẳng lẽ chung một lối về\nMà nỡ quay mặt bước đi\nTôi đưa em sang sông\nBàn tay nâng niu ân cần\nSợ bến đất lấm "
+    },
+    {
+      "id": "tb-yt-ixY2e0v_BXc",
+      "title": "ĐOẠN TÁI BÚT – Rock Ballad Mưa Đêm | Giọng Ca Hạ Vy Gây Thương Nhớ",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=ixY2e0v_BXc",
+      "ytId": "ixY2e0v_BXc",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Một đêm mưa lạnh, tiếng Guitar điện day dứt quyện cùng giọng hát Hạ Vy đã làm sống lại nỗi đau trong \"Đoạn Tái Bút\". Bản Rock Ballad dành riêng cho những trái tim đang cố quên nhưng lòng càng nhớ thêm...\n\n🎵 Về bản phối này:\nKhông còn là điệu Bolero chậm rãi quen thuộc, Hạ Vy mang đến một làn gió mới với chất Rock Ballad mạnh mẽ nhưng vẫn giữ trọn vẹn sự bi thương của ca khúc. Hãy đeo tai nghe để cảm nhận từng nhịp trống và tiếng gằn giọng đầy cảm xúc!\n\n🔥 Đừng quên ủng hộ kênh AI Memory Cover:\nNếu bạn thấy bản phối này \"thấm\", hãy:\n1. Nhấn LIKE video này.\n2. ĐĂNG KÝ (Subscribe) kênh để không bỏ lỡ những bản cover Độc - Lạ - Cảm Xúc tiếp theo.\n3. Để lại BÌNH LUẬN: Bạn thích Hạ Vy hát Bolero thuần hay Rock Ballad hơn?\n\n---\n📜 Thông tin bài hát:\nBài hát: Đoạn Tái Bút\nSáng tác: Tú Nhi & Bằng "
+    },
+    {
+      "id": "tb-yt-Rq1Vyh15ua0",
+      "title": "Hãy Quên Anh | Hạ Vy - AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=Rq1Vyh15ua0",
+      "ytId": "Rq1Vyh15ua0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎼 Bài hát: Hãy Quên Anh\n✍️ Nhạc sĩ: Phương Kim\n🎤 Trình bày: Hạ Vy - AI Memory Cover\n✨ Thể loại: Nhạc trữ tình\nPhiên bản này được thực hiện dưới hình thức AI, với mục đích lưu giữ, tái hiện và lan tỏa giá trị nghệ thuật của ca khúc, hoàn toàn không mang tính thương mại.\n\n 🎼 LYRICS\nĐếm bao lá vàng đốt thư tình cũ\nVới mây trời xa dìu bước em đi\nNước mắt chìm theo sóng rượu phân ly\nLỡ mê lụa gấm đành quên ước thề\nÁo hồng nâng nhẹ xin đừng ngại bước\nKết ngàn vì sao đường sáng em qua\nTiễn nhau ngày vui giấu lệ thương đau\nĐể duyên tình mới đẹp như phút đầu\nĐiệp khúc:\nAi thương ...\nNgười xưa đứng bên đời\nKhổ đau câm nín rồi\nNghẹn ngào trong tiếng cười\nEm ơi ...\nLời yêu dấu cho nhau\nNào đâu có bao lâu\nGiờ sao đã u sầu\n\nNhững ngày tháng mộng xin trả lại em\nCon đường mình qua giờ hãy quên tên\nCó t"
+    },
+    {
+      "id": "tb-yt-DaUueeuFPdI",
+      "title": "Bản Tình Cuối – Ngô Thụy Miện | Official MV | Hạ Vy - AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=DaUueeuFPdI",
+      "ytId": "DaUueeuFPdI",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎼 Bài hát: Bản Tình Cuối\n✍️ Nhạc sĩ: Ngô Thụy Miên\n🎤 Trình bày: Hạ Vy – AI Memory Cover\n✨ Thể loại: Nhạc trữ tình\nPhiên bản này được thực hiện dưới hình thức AI, với mục đích lưu giữ, tái hiện và lan tỏa giá trị nghệ thuật của ca khúc, hoàn toàn không mang tính thương mại.\n\n 🎼 LYRICS\nMưa có rơi và nắng có phai\nTrên cuộc tình yêu em ngày nào\nTa đã yêu và ta đã mơ\nMơ trăng sao đưa đến bên người\nMột lần gặp gỡ đã như quen thuở nào\nMột lần gặp gỡ nhưng tình đã xa xưa\nMây có bay và em có hay\nTa ngại ngùng yêu em lần đầu\nTa đã say hồn ta ngất ngây\nMen yêu đương đã thắm cuộc đời\nMột lần nào đó bước bên em âm thầm\nMột lần nào đó ta vẫn không nói yêu người\nYêu em ta yêu em như yêu tuổi ngây thơ\nBên em bên em ta hát khúc mong chờ\nNgày nào người cho ta biết tình yêu đắm say\nNgày nào đời cho ta biế"
+    },
+    {
+      "id": "tb-yt-zX13wfAshOI",
+      "title": "Tôi Đã Già | Hạ Vy - AI Memory Cover - Những Tình Khúc Vượt Thời Gian",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=zX13wfAshOI",
+      "ytId": "zX13wfAshOI",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎶 Tuyển chọn 4 ca khúc quen thuộc qua giọng hát AI Memory Cover – Hạ Vy 🎶\nMột không gian nhạc trữ tình – nhạc xưa Việt Nam đầy lắng đọng, nơi những giai điệu quen thuộc của nhiều thế hệ được tái hiện lại qua AI Memory Cover với giọng hát Hạ Vy – trong trẻo, sâu lắng và giàu cảm xúc hoài niệm.\n🌸 Danh sách ca khúc trong video:\n00:00 Tôi đã già – Vũ Vĩnh Phúc\n04:58 Em đã thấy mùa xuân chưa – Quốc Dũng\n09:59 Dư âm – Nguyễn Văn Tý\n15:06 Biết đâu nguồn cội – Trịnh Công Sơn\n\n👉 Nếu bạn yêu thích AI cover nhạc trữ tình, nhạc xưa Việt Nam, đừng quên Like – Subscribe – Share để ủng hộ kênh và đồng hành cùng những dự án AI Memory Cover tiếp theo.\n\n📌 Video mang tính chất thử nghiệm công nghệ AI, phi thương mại, nhằm tôn vinh các tác phẩm âm nhạc và các nhạc sĩ.\n#AIMemoryCover #HaVy #NhacTruTinh #N"
+    },
+    {
+      "id": "tb-yt-i2901uhRUiw",
+      "title": "Biết Đâu Nguồn Cội - Trịnh Công Sơn | AI Memory Cover - Hạ Vy",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=i2901uhRUiw",
+      "ytId": "i2901uhRUiw",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Biết Đâu Nguồn Cội – một ca khúc của Trịnh Công Sơn, dành cho những lúc ta chậm lại, lắng nghe chính mình và muốn quay về với những điều rất cũ.\nGiữa dòng đời nhiều biến động, âm nhạc của Trịnh vẫn ở đó – trầm tĩnh, bao dung và đầy nhân ái.\nAI Memory Cover  thực hiện như một mảnh ký ức, nhẹ nhàng gợi lại cảm giác trở về.\n\n“Biết đâu nguồn cội” không chỉ là một câu hỏi, mà là hành trình.\nHành trình đi qua chuyến đò, con sông, vầng trăng – để rồi mỗi người tự soi lại mình giữa đời sống hôm nay.\nÂm nhạc Trịnh Công Sơn không cần cao trào, chỉ cần đủ lặng để người nghe nhận ra mình trong đó.\n\n🎧 AI Memory Cover trân trọng tái hiện ca khúc này bằng công nghệ AI, với mong muốn giữ lại tinh thần nguyên bản: chậm rãi, sâu lắng và giàu chất thơ.\nBản thu phù hợp để nghe về đêm, khi một mình, khi nhớ n"
+    },
+    {
+      "id": "tb-yt-_9R7WppTftc",
+      "title": "Biết Đâu Nguồn Cội – Tình Xa – Ru Ta Ngậm Ngùi | Tuyển Chọn Nhạc Trịnh | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=_9R7WppTftc",
+      "ytId": "_9R7WppTftc",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Tuyển chọn 3 ca khúc Trịnh Công Sơn bất hủ:  \nBiết Đâu Nguồn Cội – Tình Xa – Ru Ta Ngậm Ngùi, được kênh AI Memory Cover tái hiện với phần thể hiện của Hạ Vy bằng công nghệ AI.\n🎧 AI Memory Cover là dự án tái hiện ký ức âm nhạc Việt bằng công nghệ, với mong muốn gìn giữ và lan tỏa những ca khúc vượt thời gian theo một hình thức thể hiện mới.\n--------------------------------------------------\n⚠️ TUYÊN BỐ AI & BẢN QUYỀN\n\n- Video được thực hiện bởi kênh AI Memory Cover, sử dụng công nghệ AI cho mục đích sáng tạo nghệ thuật.\n- Không sử dụng bản ghi âm gốc và không sử dụng giọng hát thật của bất kỳ ca sĩ nào.\n- Đây là phiên bản AI Cover, không nhằm thay thế bản gốc.\n- Bản quyền các tác phẩm âm nhạc gốc thuộc về cố nhạc sĩ Trịnh Công Sơn và các đơn vị sở hữu hợp pháp.\n- Video không mang mục đích "
+    },
+    {
+      "id": "tb-yt-KLhbcbVkZNc",
+      "title": "Em Đã Thấy Mùa Xuân Chưa – Quốc Dũng | Official MV | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=KLhbcbVkZNc",
+      "ytId": "KLhbcbVkZNc",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Em Đã Thấy Mùa Xuân Chưa, một ca khúc trữ tình nổi tiếng của nhạc sĩ Quốc Dũng, được kênh AI Memory Cover tái hiện lại bằng công nghệ AI, mang màu sắc hoài niệm, nhẹ nhàng và sâu lắng.\nPhiên bản này giữ tinh thần nguyên bản của ca khúc, đồng thời làm mới cảm xúc bằng không gian âm nhạc mềm mại, hiện đại, phù hợp để thưởng thức trong những khoảnh khắc tĩnh lặng và suy tư.\n🎧 AI Memory Cover mong muốn mang đến một cách tiếp cận mới cho những ca khúc Việt Nam kinh điển – như một ký ức được tái hiện bằng công nghệ, với sự tôn trọng dành cho giá trị gốc.\n--------------------------------------------------\n⚠️ TUYÊN BỐ AI & BẢN QUYỀN\n- Video được thực hiện bởi kênh AI Memory Cover, sử dụng công nghệ AI nhằm mục đích sáng tạo nghệ thuật, lưu giữ ký ức âm nhạc.\n- Không sử dụng bản ghi âm gốc, không "
+    },
+    {
+      "id": "tb-yt-A8gKBYEo9T0",
+      "title": "Mùa Thu Cho Em – Bài Tình Ca Cho Em | Ngô Thụy Miên | Hạ Vy AI Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=A8gKBYEo9T0",
+      "ytId": "A8gKBYEo9T0",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎵 Mùa Thu Cho Em – Bài Tình Ca Cho Em\n✍️ Sáng tác: Ngô Thụy Miên\n🎤 Trình bày: Hạ Vy AI\n📺 Kênh: AI Memory Cover\nGiọng hát Hạ Vy AI được tái tạo theo phong cách trữ tình nhẹ nhàng, giữ nguyên tinh thần nhạc xưa – chậm rãi, sâu lắng và đầy hoài niệm.\n\n⏱️ Mốc thời gian:\n00:00 Mùa Thu Cho Em\n04:46 Bài Tình Ca Cho Em\n\n📌 Video mang tính chất cover – tưởng nhớ âm nhạc Ngô Thụy Miên.\n📌 Không nhằm mục đích thương mại.\n📌 Nếu yêu thích, hãy nhấn 👍 và đăng ký kênh AI Memory Cover để nghe thêm nhiều bản nhạc xưa chọn lọc."
+    },
+    {
+      "id": "tb-yt-evI0teM7t3E",
+      "title": "Nhạc Trữ Tình Lam Phương & Trịnh Công Sơn | Official MV Tổng Hợp | Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=evI0teM7t3E",
+      "ytId": "evI0teM7t3E",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎵 Nhạc Trữ Tình Lam Phương & Trịnh Công Sơn – Official MV Tổng Hợp\nVideo tổng hợp những ca khúc trữ tình bất hủ của hai nhạc sĩ lớn Lam Phương và Trịnh Công Sơn, được Memory Cover thực hiện dưới dạng Official MV chọn lọc.\n\nNhững bản nhạc trong video mang giai điệu sâu lắng, giàu cảm xúc, phù hợp để thư giãn, hoài niệm và thưởng thức nhạc xưa Việt Nam.\n\n📀 Danh sách bài hát trong video:\n00:00 Ru Em Từng Ngón Xuân Nồng – Trịnh Công Sơn  \n04:20 Thành Phố Buồn – Lam Phương  \n9:48 Còn Tuổi Nào Cho Em – Trịnh Công Sơn  \n15:19 Ru Ta Ngậm Ngùi – Trịnh Công Sơn  \n19:53 Ướt Mi – Trịnh Công Sơn  \n25:11 Nắng Thủy Tinh – Trịnh Công Sơn  \n29:33 Thu Sầu – Lam Phương  \n33:57 Diễm Xưa – Trịnh Công Sơn  \n\n🎧 Video dành cho những ai yêu:\n- Nhạc Lam Phương\n- Nhạc Trịnh Công Sơn\n- Nhạc trữ tình, nhạc xưa, bol"
+    },
+    {
+      "id": "tb-yt-miEwvxWMBuA",
+      "title": "Ru Em Từng Ngón Xuân Nồng – Trịnh Công Sơn | Hạ Vy - AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=miEwvxWMBuA",
+      "ytId": "miEwvxWMBuA",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "🎵 Ru Em Từng Ngón Xuân Nồng – Trịnh Công Sơn | Hạ Vy | Official MV 4K | AI Memory Cover\n\n\"Ru Em Từng Ngón Xuân Nồng\" – một trong những ca khúc bất hủ mang đậm chất thơ và chiều sâu triết lý của nhạc sĩ Trịnh Công Sơn. Qua giọng ca trong trẻo, mềm mại và đầy rung cảm của ca sĩ Hạ Vy, bài hát được tái hiện sống động, nữ tính và lay động trái tim người nghe – mang trọn vẹn tinh thần đặc trưng của nhạc Trịnh.\n\n🎤 THÔNG TIN BÀI HÁT\n- Tên bài hát: Ru Em Từng Ngón Xuân Nồng\n- Sáng tác: Trịnh Công Sơn\n- Thể hiện: Hạ Vy\n- Thể loại: Nhạc Trịnh, Nhạc Trữ Tình, Nhạc Xưa\n- Sản xuất: AI Memory Cover – Official MV 4K\n\n💝 DÀNH CHO BẠN\n\nBài hát này phù hợp để nghe trong:\n✨ Những buổi chiều tĩnh lặng cần tìm về cảm xúc xưa\n✨ Khi cần thư giãn, suy ngẫm, gợi nhớ kỷ niệm\n✨ Làm nhạc nền nhẹ nhàng cho giờ làm v"
+    },
+    {
+      "id": "tb-yt-IEX6635_yi8",
+      "title": "Phút Cuối – Rock Ballad | Lam Phương | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=IEX6635_yi8",
+      "ytId": "IEX6635_yi8",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Phút Cuối Lam Phương là ca khúc trữ tình bất hủ, được AI Memory Cover làm mới theo phong cách Rock Ballad sâu lắng, mang màu sắc hoài niệm và cảm xúc mạnh mẽ.\n⚠️ Tuyên bố trách nhiệm:\nVideo này là sản phẩm AI Remake / AI Memory Cover, thực hiện với mục đích nghe – tưởng nhớ – phi thương mại. Nội dung không nhằm thay thế hay làm ảnh hưởng đến giá trị của tác phẩm gốc. Mọi quyền tác giả thuộc về nhạc sĩ Lam Phương và các đơn vị nắm giữ bản quyền hợp pháp.\nNếu bạn yêu thích dòng Rock Ballad – AI Memory Cover, hãy Like, Share và Subscribe để đồng hành cùng kênh trong hành trình làm mới ký ức âm nhạc Việt.\n#PhutCuoi\n#LamPhuong\n#aimemorycover"
+    },
+    {
+      "id": "tb-yt-xLYXT7Qr4GA",
+      "title": "Ru Ta Ngậm Ngùi - Trịnh Công Sơn | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=xLYXT7Qr4GA",
+      "ytId": "xLYXT7Qr4GA",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Ru Ta Ngậm Ngùi là một trong những tình khúc tiêu biểu của nhạc Trịnh, nói về thân phận con người, những cuộc tình đã qua và sự ngậm ngùi khi đối diện chính mình.\nAI Memory Cover không làm mới giai điệu theo hướng thị trường, mà tôn trọng tinh thần nhạc Trịnh: buồn, tĩnh và rất thật.\n\nNếu bạn yêu nhạc Trịnh Công Sơn, nhạc trữ tình, nhạc xưa Việt Nam, đây là phiên bản dành cho bạn.\n\n🎵 Thể loại: Nhạc Trịnh – Nhạc trữ tình – Nhạc buồn\n🎧 Phong cách: Chậm, sâu, tối giản, giàu cảm xúc\n📀 Thực hiện: AI Memory Cover\n\n👉 Đăng ký kênh để theo dõi thêm các bản AI Cover nhạc Trịnh Công Sơn, nhạc trữ tình và tình khúc vượt thời gian.\n💬 Hãy để lại cảm xúc của bạn nếu Ru Ta Ngậm Ngùi chạm đến bạn.\n\nLyrics:\nMôi nào hãy còn thơm, cho ta phơi cuộc tình.\nTóc nào hãy còn xanh, cho ta chút hồn nhiên\nTim nào"
+    },
+    {
+      "id": "tb-yt-L896LC0ULgE",
+      "title": "Bài Thánh Ca Buồn - Nguyên Vũ | AI Memory Cover - Hạ Vy",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=L896LC0ULgE",
+      "ytId": "L896LC0ULgE",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Bài Thánh Ca Buồn – Nguyên Vũ | AI Memory Cover – Hạ Vy\nMột bản tình ca Noel buồn, chan chứa hoài niệm dưới mái giáo đường đêm thánh. Giai điệu quen thuộc, ca từ sâu lắng, gợi nhớ những lời hẹn xưa, tiếng chuông nhà thờ và giọng hát cũ vang lên giữa mùa đông lạnh giá. Phiên bản AI Memory Cover – Hạ Vy giữ trọn tinh thần nguyên tác, mang đến cảm xúc lắng đọng và mênh mang cho người yêu nhạc trữ tình, nhạc Noel xưa.\n\nLyrics:\n\nBài thánh ca đó còn nhớ không em\nNoel năm nào chúng mình có nhau\nLong lanh sao trời thêm đẹp môi mắt\nÁo trắng em bay như cánh thiên thần\nGiọt môi hôn dưới tháp chuông ngân\nCùng nhau quỳ dưới trần Chúa cao sang\nXin cho đôi mình suốt đời có nhau\nVang trong đêm lạnh bài ca Thiên Chúa\n\nKhẽ hát theo câu đêm thánh vô cùng\nÔi giọng hát em mênh mang buồn\nRồi mùa giá buốt cũng q"
+    },
+    {
+      "id": "tb-yt-poAF8Yz2PZY",
+      "title": "Thu Sầu – Lam Phương | AI Cover Nhạc Vàng Buồn Nhất Mùa Thu",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=poAF8Yz2PZY",
+      "ytId": "poAF8Yz2PZY",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Thu Sầu là một trong những ca khúc tiêu biểu của nhạc sĩ Lam Phương, gắn liền với hình ảnh mùa thu, chia ly và nỗi nhớ lặng thầm.\nBài hát không bi lụy, mà buồn một cách rất đẹp – buồn của ký ức, của những điều đã qua nhưng không thể quên.\nPhiên bản AI Cover này được phối theo tinh thần nhạc xưa: tiết tấu chậm, hòa âm nhẹ, giọng hát mềm và giàu cảm xúc, phù hợp để nghe trong những buổi tối yên tĩnh, khi lòng cần một khoảng lặng.\n\n🎧 Nghe bằng tai nghe để cảm nhận rõ hơn không gian và cảm xúc của bài hát.\n👉 Nếu bạn yêu nhạc Lam Phương và nhạc vàng xưa, hãy đăng ký kênh để nghe thêm nhiều bản cover chọn lọc khác.\n👉 Hãy để lại bình luận: “Thu Sầu gợi cho bạn nhớ đến điều gì?”\n#ThuSau\n#LamPhuong\n#NhacVang\n#NhacXua\n#AIMemoryCover"
+    },
+    {
+      "id": "tb-yt-1R23eu23Gew",
+      "title": "AI Nhạc Trịnh – 4 Tuyệt Phẩm Về Mẹ | Huyền Thoại Mẹ – Ca Dao Mẹ – Gia Tài Của Mẹ – Người Mẹ Ô Lý",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=1R23eu23Gew",
+      "ytId": "1R23eu23Gew",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "AI Memory Cover giới thiệu album gồm 4 tuyệt phẩm viết về Mẹ của nhạc sỹ Trịnh Công Sơn, được làm mới bằng công nghệ AI nhưng vẫn giữ trọn tinh thần nhân văn, sâu lắng của nguyên tác.\n\nAlbum quy tụ những ca khúc giàu tính biểu tượng trong sự nghiệp Trịnh Công Sơn, ca ngợi tình mẹ bao la, sự hi sinh thầm lặng và vẻ đẹp thiêng liêng của người phụ nữ Việt Nam.\n\nDanh sách bài hát:\n1. Huyền Thoại Mẹ\n2. Ca Dao Mẹ\n3. Gia Tài Của Mẹ \n4. Người Mẹ Ô Lý \nAlbum được phối khí và tái tạo bằng AI với mục tiêu:\nTôn trọng tinh thần nguyên bản\nLàm mới không gian âm thanh\nGiúp thế hệ trẻ tiếp cận nhạc Trịnh theo một cách hiện đại hơn\n\nAI Memory Cover cam kết đem lại trải nghiệm âm nhạc chân thật, giàu cảm xúc và hướng tới xây dựng một thư viện nhạc AI chất lượng cao, gìn giữ giá trị nghệ thuật Việt Nam.\n\nNếu"
+    },
+    {
+      "id": "tb-yt-75V59mt6tp8",
+      "title": "Khi Đã Yêu – Bản Cover AI Cảm Động | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=75V59mt6tp8",
+      "ytId": "75V59mt6tp8",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Khi Đã Yêu\nSáng tác: Phượng Linh\nMột trong những ca khúc trữ tình chạm tới trái tim nhiều thế hệ, nay được tái hiện bằng công nghệ AI với bản phối mới sâu lắng, giàu cảm xúc.\nAI Memory Cover mang đến phiên bản bolero hiện đại, mượt mà, giữ được hồn xưa nhưng khoác lên cảm âm mới đầy rung động.\nLời bài hát:\n[Verse 1]\n(Soft, Melismatic Vocals, Bolero Style)\nKhi đã yêu... thì mơ mộng nhiều\nMơ... ngày mai pháo nhuộm đường vui\nMơ vành môi... thơm ngát hương đời\nTình kia phong kín mây trời\nKhi yêu riêng... một người thôi\n\n[Verse 2]\n(Emotional, Heavy Vibrato)\nKhi đã yêu... thì lo sợ nhiều\nLo chiều thu nắng nhạt màu tươi\nLo niềm yêu... chưa thắm tim người\nTình kia thêm vỡ tan rồi\nNên đêm hoen lệ... đầy vơi...\n\n[Chorus]\n(Power Ballad style, but keep the Melismatic singing)\nChớ... nói tình yêu... bằ"
+    },
+    {
+      "id": "tb-yt-pm1LJdV0Chg",
+      "title": "Bình Minh Sẽ Mang Em Đi – Bản Ballad Nữ Da Diết Khiến Người Nghe Lặng Người | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=pm1LJdV0Chg",
+      "ytId": "pm1LJdV0Chg",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Bình Minh Sẽ Mang Em Đi\nLời bài hát: Đàm Vĩnh Hưng\nPhiên bản ballad giọng nữ da diết, được AI Memory Cover phối lại theo phong cách nhẹ nhàng, cảm xúc và đầy hoài niệm.\n Giai điệu mềm, giọng hát sâu lắng cùng hòa âm ballad mộc giúp ca khúc chạm đến trái tim người nghe.\n\n Điểm nổi bật của bản phối:\n- Giọng nữ nhẹ – ấm – đầy cảm xúc\n- Hòa âm ballad mộc, tập trung vào cảm xúc\n- Không gian âm nhạc buồn, sâu và tinh tế\n- AI phối khí hiện đại nhưng vẫn giữ hồn giai điệu\n\nCa khúc dành cho những ai yêu:\n- Nhạc ballad Việt\n- Giọng nữ da diết – cảm xúc\n- Nhạc nhẹ, chill, lofi ballad\n- Cover nhạc Việt bằng AI\n\nNghe thêm các bản cover chất lượng tại:\nAI Memory Cover – nơi tái sinh những ca khúc quen thuộc bằng âm thanh mới mẻ và cảm xúc.\nHãy đăng ký kênh để xem thêm nhiều bản phối AI đậm chất cảm xúc."
+    },
+    {
+      "id": "tb-yt-DWJXqq_uubY",
+      "title": "Người Mẹ Ô Lý – Trịnh Công Sơn | Bản Cover Đầy Cảm Xúc | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=DWJXqq_uubY",
+      "ytId": "DWJXqq_uubY",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Người Mẹ Ô Lý - Trịnh Công Sơn\n Một trong những ca khúc day dứt nhất của Trịnh Công Sơn – được AI Memory Cover tái sinh theo phong cách cảm xúc – cinematic – rock nhẹ.\nBản phối mang không khí sâu lắng, gợi lại câu chuyện người mẹ già ôm trái bí đi bộ 120km từ Quảng Trị vào Huế.\nHy vọng phiên bản này chạm đến trái tim bạn.\n#TrinhCongSon #NgườiMẹÔLý #AIMemoryCover #AIROCKCover #NhạcTrịnh #Cover2025\nLời bài hát:\nMột sớm lên đường  \nMẹ ra sau vườn  \nHỏi thăm trái bí \nTrên giàn còn xanh \nMột sớm bên hè \nVườn sau vắng vẻ  \nNày thôi bí nhé  \nLên đường cùng me \nBí nằm bí ngủ đường xa  \nTrên vai mẹ già  \nBao nhiêu vốn liếng \nNhớ tới một đời đã xới vun  \nHôm nay bỏ vườn với xóm thôn \nChân mẹ già sao run quá  \nQua xương trắng với máu hồng \nMột sớm đã về  \nDừng chân phố chợ  \nMẹ ôm trái bí  \nMắt còn n"
+    },
+    {
+      "id": "tb-yt-0PMc-Yxxyuw",
+      "title": "Diễm Xưa – Bản Cover Cảm Xúc Khiến Người Nghe Lặng Đi | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=0PMc-Yxxyuw",
+      "ytId": "0PMc-Yxxyuw",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Diễm Xưa - Trịnh Công Sơn\nĐược AI Memory Cover dựng lại giữa rừng thông Đà Lạt – guitar, violin và giọng hát nhẹ như sương sớm.\nMột phiên bản vừa mộc, vừa điện ảnh, vừa mang màu hoài niệm của Trịnh Công Sơn.\nNhạc êm, hình đẹp, cảm xúc sâu – đúng tinh thần “Diễm Xưa” bất hủ.\n\n- Nhạc Trịnh phối mới\n- Guitar & violin cinematic\n- Không gian Đà Lạt sương mù\n- AI voice – AI Music – AI MV\n- Cover trữ tình, nhẹ nhàng, dễ thấm\nNếu yêu thích bản này, hãy để lại một ❤️ để YouTube đề xuất đến nhiều người hơn.\n#DiễmXưa\n#AIMemoryCover\n#NhạcTrịnh"
+    },
+    {
+      "id": "tb-yt-0fBATflWr1c",
+      "title": "Cát Bụi – Trịnh Công Sơn | Rock Version Bùng Nổ Cảm Xúc | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=0fBATflWr1c",
+      "ytId": "0fBATflWr1c",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Cát Bụi - Trịnh Công Sơn\n Một trong những ca khúc triết lý sâu sắc nhất của Trịnh Công Sơn – được AI Memory Cover tái hiện theo phong cách Rock Ballad Cinematic hiện đại nhưng đầy suy tư. Guitar điện và trống rock tạo nên sự mạnh mẽ, trong khi phần vocal AI giữ lại chất buồn – nhân sinh – thiền của Trịnh.\nLời bài hát:\nHạt bụi nào hoá kiếp thân tôi\nĐể một mai vươn hình hài lớn dậy\nÔi cát bụi tuyệt vời\nMặt trời soi một kiếp rong chơi\nHạt bụi nào hoá kiếp thân tôi\nĐể một mai tôi về làm cát bụi\nÔi cát bụi mệt nhoài\nTiếng động nào gõ nhịp không nguôi\nBao nhiêu năm làm kiếp con người\nChợt một chiều tóc trắng như vôi\nLá úa trên cao rụng đầy\nCho trăm năm vào chết một ngày\nMặt trời nào soi sáng tim tôi\nĐể tình yêu xay mòn thành đá cuội\nXin úp mặt bùi ngùi\nTừng ngày qua mỏi ngóng tin vui\nCụm rừng nà"
+    },
+    {
+      "id": "tb-yt-8oDCc-N-qzA",
+      "title": "Biển Nhớ - Trịnh Công Sơn (Rock Cover) | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=8oDCc-N-qzA",
+      "ytId": "8oDCc-N-qzA",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Thưởng thức Biển Nhớ của cố nhạc sĩ Trịnh Công Sơn qua một bản phối hoàn toàn mới: Modern Rock Ballad. Với giọng nam ấm và vang, bản AI Memory Cover này sẽ mang lại cảm xúc day dứt và mạnh mẽ\nLời bài hát:\nNgày mai em đi\nbiển nhớ tên em gọi về\ngọi hồn liễu rũ lê thê\ngọi bờ cát trắng đêm khuya\n\nNgày mai em đi\nđồi núi nghiêng nghiêng đợi chờ\nsỏi đá trông em từng giờ\nnghe buồn nhịp chân bơ vơ\n\nNgày mai em đi\nbiển nhớ em quay về nguồn\ngọi trùng dương gió ngập hồn\nbàn tay chắn gió mưa sang\n\nNgày mai em đi\nthành phố mắt đêm đèn mờ\nhồn lẻ nghiêng vai gọi buồn\nnghe ngoài biển động buồn hơn\n\nHôm nào em về\nbàn tay buông lối ngỏ\nđàn lên cung phím chờ\nsầu lên đây hoang vu\n\nNgày mai em đi\nbiển nhớ tên em gọi về\ntriều sương ướt đẫm cơn mê\ntrời cao níu bước sơn khê\n\nNgày mai em đi\ncồn đá rêu phong rủ buồn"
+    },
+    {
+      "id": "tb-yt-RTfJ2WIWYwc",
+      "title": "Da Vàng – Trịnh Công Sơn | AI Rock Cover Làm Mới Hoàn Toàn | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=RTfJ2WIWYwc",
+      "ytId": "RTfJ2WIWYwc",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "“Da Vàng” – Tuyển chọn những ca khúc kinh điển của Trịnh Công Sơn, lần đầu tiên được AI Memory Cover phối lại hoàn toàn theo phong cách Rock mới mẻ, mạnh mẽ nhưng vẫn giữ trọn chiều sâu và tinh thần nguyên bản.\n\nÂm thanh guitar điện, trống rock hiện đại kết hợp cùng vocal AI tái tạo cảm xúc hoài niệm, tạo nên một trải nghiệm âm nhạc vừa quen vừa mới.\nĐây không chỉ là bản cover – mà là một bản tái sinh của nhạc Trịnh trong không gian âm nhạc hiện đại.\n\n🎧 DANH SÁCH BÀI HÁT – DA VÀNG (AI ROCK COVER)\n1. Gia Tài Của Mẹ\n2. Người Già Em Bé\n3. Hát Trên Những Xác Người\n4. Ngày Dài Trên Quê Hương\n5. Người Con Gái Việt Nam Da Vàng\n6. Xin Mặt Trời Ngủ Yên\n7. Ta Đã Thấy Gì Trong Đêm Nay\n#DaVàng#aimemorycover #trinhcongson#cover #AIRockCover"
+    },
+    {
+      "id": "tb-yt-HsKmZNnH9z8",
+      "title": "Diễm Xưa – Trịnh Công Sơn | Rock Ballad Version | AI Memory Cover",
+      "artist": "AI",
+      "genre": "AI",
+      "sourceType": "youtube",
+      "url": "https://www.youtube.com/watch?v=HsKmZNnH9z8",
+      "ytId": "HsKmZNnH9z8",
+      "playlistId": "",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "“Diễm Xưa – Rock Ballad Version” là bản phối hiện đại do AI Memory Cover thực hiện, mang âm hưởng rock mạnh mẽ nhưng vẫn giữ trọn chiều sâu và chất thơ đặc trưng của Trịnh Công Sơn.\n\nTrong phiên bản này, giai điệu quen thuộc của “Diễm Xưa” được tái hiện bằng lead guitar da diết, trống rock ấm – chắc, bass mạnh, cùng giọng hát AI dày, giàu cảm xúc, tạo nên một không gian vừa hoài niệm vừa bùng nổ.\n\nĐây là hướng làm nhạc Trịnh rất mới: Rock Ballad / Rock Cinematic, nơi cảm xúc cô đơn, buồn mưa của bài hát được “thắp sáng” bằng năng lượng của rock — nhưng vẫn đầy chất tự sự.\n\nKhi bạn tìm: “Diễm Xưa rock”, “Diễm Xưa Trịnh Công Sơn”, “Diễm Xưa cover”, “nhạc Trịnh rock”, “rock ballad Việt Nam”… hy vọng YouTube sẽ đưa bạn đến đúng bản này.\n\nThực hiện: AI Memory Cover\nPhong cách: Rock Ballad / Roc"
     }
   ],
-  "artists": {}
+  "artists": {
+    "AI": {
+      "photo": "",
+      "bio": ""
+    }
+  }
 }
