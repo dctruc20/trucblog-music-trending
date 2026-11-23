@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""TrucBlog Music Pro v4.10: refresh seven charts, Latin aggregation, hot topics and music shows.
+"""TrucBlog Music Pro v4.11: refresh seven charts, Latin aggregation, hot topics and music shows.
 
 YouTube Data API key is used ONLY in GitHub Actions via YOUTUBE_API_KEY.
 Public trending.json contains no API keys. Python stdlib only.
@@ -24,7 +24,7 @@ MAX_SHOW_VIDEOS = 20
 def api_call(endpoint, params, key):
     query = parse.urlencode({**params, 'key': key})
     req = request.Request(API + endpoint + '?' + query,
-                          headers={'Accept': 'application/json', 'User-Agent': 'TrucBlog-Music/4.10'})
+                          headers={'Accept': 'application/json', 'User-Agent': 'TrucBlog-Music/4.11'})
     try:
         with request.urlopen(req, timeout=30) as res:
             payload = json.load(res)
@@ -137,12 +137,38 @@ def get_show(show, key):
     return items[:MAX_SHOW_VIDEOS]
 
 
+
+def get_chinese_pop(key):
+    """Curated Mandarin/C-Pop MV results on YouTube; NOT a mainland CN chart."""
+    payload=api_call('search',{
+        'part':'id,snippet','q':'华语 流行 官方 MV 音乐','type':'video',
+        'videoEmbeddable':'true','relevanceLanguage':'zh-CN',
+        'order':'viewCount','maxResults':'50',
+    },key)
+    candidates=[]
+    for item in payload.get('items',[]):
+        vid=(item.get('id') or {}).get('videoId')
+        if isinstance(vid,str) and YOUTUBE_ID.fullmatch(vid):candidates.append(vid)
+    candidates=list(dict.fromkeys(candidates))[:50]
+    if not candidates:return []
+    data=api_call('videos',{'part':'snippet,status,statistics','id':','.join(candidates)},key)
+    out=[]
+    for item in data.get('items',[]):
+        sn=item.get('snippet') or {}
+        if str(sn.get('categoryId',''))!='10':continue
+        v=video_record(item)
+        if v:
+            v['market']='CN';v['country']='CN'
+            out.append(v)
+    out.sort(key=lambda x:x.get('viewCount',0),reverse=True)
+    return out[:50]
+
 # Charts use regionCode=GB for the UK. Latin is not a single YouTube chart:
 # it combines Mexico, Argentina and Colombia, transparently labelled as a selection.
 REGION_CODES = ('VN','AU','US','GB','KR','JP')
 LATIN_CODES = ('MX','AR','CO')
 REGION_LABELS = {'VN':'Việt Nam','AU':'Australia','US':'US','GB':'UK',
-                 'KR':'Hàn Quốc','JP':'Nhật Bản','LAT':'Latin (MX/AR/CO)'}
+                 'KR':'Hàn Quốc','JP':'Nhật Bản','LAT':'Latin (MX/AR/CO)', 'CN':'Nhạc Hoa · C-Pop (tuyển chọn YouTube)'}
 # These topics re-evaluate daily on real chart video metadata; empty topics are hidden.
 TOPIC_RULES = {
     'k-pop': ('K-Pop', r'\b(k.?pop|korean pop|케이팝|아이돌)\b|블랙핑크|방탄소년단'),
@@ -164,7 +190,7 @@ TOPIC_IGNORE = {'music','trending','trendingmusic','youtube','official','video',
 
 def mix_regional(data, limit=100):
     """Deterministic round-robin, no global ranking claim."""
-    pools = [data.get(k, []) for k in (*REGION_CODES, 'LAT')]
+    pools = [data.get(k, []) for k in (*REGION_CODES, 'LAT','CN')]
     seen=set(); result=[]
     for i in range(max([0]+[len(p) for p in pools])):
         for pool in pools:
@@ -249,6 +275,14 @@ def main():
         regions['LAT']=latin;refreshed_regions.append('LAT')
     else:
         regions['LAT']=old_regions.get('LAT',[]) if isinstance(old_regions.get('LAT'),list) else []
+    try:
+        chinese=get_chinese_pop(key)
+        if not chinese:raise ValueError('empty Chinese-pop curated results')
+        regions['CN']=chinese;refreshed_regions.append('CN')
+        print('CN Chinese-pop curated YouTube selection:',len(chinese))
+    except (RuntimeError,ValueError) as exc:
+        print('WARNING CN curated C-Pop',type(exc).__name__,str(exc))
+        regions['CN']=old_regions.get('CN',[]) if isinstance(old_regions.get('CN'),list) else []
     for show in SHOWS:
         slug=show['id']
         try:
@@ -267,7 +301,7 @@ def main():
     stamp=TODAY.isoformat(timespec='seconds').replace('+00:00','Z')
     updated={
         'schemaVersion':3,
-        'source':'YouTube Data API regional music mostPopular; Latin = MX/AR/CO selection; mixed feed not a global ranking',
+        'source':'YouTube Data API regional charts; Latin = MX/AR/CO; CN = curated Mandarin/C-Pop search, NOT mainland China chart; mixed feed not a global ranking',
         'isFallback':False,'updatedAt':stamp,
         'regionLabels':REGION_LABELS,
         'refreshedRegions':refreshed_regions,
