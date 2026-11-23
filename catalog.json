@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:22:46.715Z",
+  "updatedAt": "2026-11-23T19:23:18.797Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1495,13 +1495,15 @@
     },
     {
       "id": "tb-yt-WjtPBUaqnTo",
-      "title": "Ngày Tình Phôi Pha - Lê Hiếu「Official Lyric Video」",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "Ngày Tình Phôi Pha",
+      "artist": "Lê Hiếu",
+      "genre": "V-Pop",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=WjtPBUaqnTo",
       "ytId": "WjtPBUaqnTo",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1509,10 +1511,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Ngày Tình Phôi Pha - Lê Hiếu「Official Lyric Video」\nComposer: Thai Thinh\nSinger: Le Hieu\nVideo by METUB\n#LeHieu #NgayTinhPhoiPha #LyricVideo \n\nLyrics:\nTình là cơn mộng thắm lúc ban đầu\nRồi nhạt nhòa như nắng phai trong chiều\nTình là muôn ngàn nỗi u sầu\nNgười đã mang cho anh rất nhiều\n\nMột khi yêu nào có mấy ai ngờ\nNgười mình yêu sẽ dối gian bao giờ\nĐể rồi khi tình đã xa mờ\nMình mới hay nhìn theo bỡ ngỡ\n\n[ĐK:]\nNgày em bước xa cuộc tình\nLà ngày anh đã biết thương phận mình\nMột thời yêu em thắm thiết\nNhư cơn sóng biếc tan trong nuối tiếc\n\nDù sao cũng xin một lời\nCảm ơn em đã bước qua cuộc đời\nĐể lòng anh đây mới biết\nMột niềm thương đau ngậm ngùi ra sao\n\nNgười tình ơi còn có nỗi đau nào\nSợ rằng người còn lãng quên hôm nào\nThì giờ đây người hãy thêm vào\nĐể trái tim anh thôi thét gào\n\nDù con tim",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-XEjaQv_qGok",
