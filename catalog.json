@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:30:27.914Z",
+  "updatedAt": "2026-11-23T19:30:44.013Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1082,7 +1082,7 @@
       "id": "tb-yt-X0TSzY2W0KU",
       "title": "Tôi vẫn nhớ - Nguyễn Thu Phương",
       "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "genre": "Bolero",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=X0TSzY2W0KU",
       "ytId": "X0TSzY2W0KU",
@@ -1099,9 +1099,9 @@
       "coverUrl": "",
       "lyrics": "",
       "isAI": false,
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-BL-PWCiKKQI",
