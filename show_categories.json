@@ -1,0 +1,102 @@
+[
+  {
+    "id": "masked-singer",
+    "label": "Ca Sĩ Mặt Nạ",
+    "query": "Ca Sĩ Mặt Nạ The Masked Singer Vietnam 2026 performance",
+    "official": [
+      "vie channel",
+      "vieshow",
+      "vie music"
+    ],
+    "minimumTerm": "mặt nạ",
+    "limit": 20,
+    "channelIds": [
+      "UC2fu6CiFfNYz5UFORvFyc0w",
+      "UCkna2OcuN1E6u5I8GVtdkOw"
+    ]
+  },
+  {
+    "id": "tinh-ha-say-hi",
+    "label": "Tinh Hà Say Hi",
+    "query": "TINH HÀ SAY HI 2026 performance Vie Channel Music",
+    "official": [
+      "vie channel"
+    ],
+    "minimumTerm": "tinh hà",
+    "limit": 20,
+    "channelIds": [
+      "UC2fu6CiFfNYz5UFORvFyc0w",
+      "UCkna2OcuN1E6u5I8GVtdkOw"
+    ]
+  },
+  {
+    "id": "anh-trai-say-hi",
+    "label": "Anh Trai Say Hi",
+    "query": "Anh Trai Say Hi performance music 2025 Vie Channel Music",
+    "official": [
+      "vie channel"
+    ],
+    "minimumTerm": "say hi",
+    "limit": 20,
+    "channelIds": [
+      "UC2fu6CiFfNYz5UFORvFyc0w",
+      "UCkna2OcuN1E6u5I8GVtdkOw"
+    ]
+  },
+  {
+    "id": "em-xinh-say-hi",
+    "label": "Em Xinh Say Hi",
+    "query": "Em Xinh Say Hi performance 2025 Vie Channel MUSIC",
+    "official": [
+      "vie channel"
+    ],
+    "minimumTerm": "em xinh",
+    "limit": 20,
+    "channelIds": [
+      "UC2fu6CiFfNYz5UFORvFyc0w",
+      "UCkna2OcuN1E6u5I8GVtdkOw"
+    ]
+  },
+  {
+    "id": "rap-viet",
+    "label": "Rap Việt",
+    "query": "Rap Việt 2024 performance Vie Channel music",
+    "official": [
+      "vie channel",
+      "rap việt",
+      "rap viet"
+    ],
+    "minimumTerm": "rap việt",
+    "limit": 20,
+    "channelIds": [
+      "UC2fu6CiFfNYz5UFORvFyc0w",
+      "UCkna2OcuN1E6u5I8GVtdkOw"
+    ]
+  },
+  {
+    "id": "tan-binh-toan-nang",
+    "label": "Tân Binh Toàn Năng",
+    "query": "Tân Binh Toàn Năng 2025 2026 performance YEAH1 MUSIC",
+    "official": [
+      "yeah1"
+    ],
+    "minimumTerm": "tân binh",
+    "limit": 20,
+    "channelIds": [
+      "UCI2OiZs5aVcyBUBVsgovzng"
+    ]
+  },
+  {
+    "id": "anh-trai-vuot-ngan-chong-gai",
+    "label": "Anh Trai Vượt Ngàn Chông Gai",
+    "query": "Anh Trai Vượt Ngàn Chông Gai concert performance YEAH1 MUSIC",
+    "official": [
+      "yeah1"
+    ],
+    "minimumTerm": "anh trai vượt",
+    "limit": 20,
+    "channelIds": [
+      "UCI2OiZs5aVcyBUBVsgovzng"
+    ]
+  }
+]
