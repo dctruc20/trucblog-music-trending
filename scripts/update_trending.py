@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""TrucBlog Music Pro v4.6: refresh VN/AU popular music and official Vietnamese music shows.
+"""TrucBlog Music Pro v4.10: refresh seven charts, Latin aggregation, hot topics and music shows.
 
 YouTube Data API key is used ONLY in GitHub Actions via YOUTUBE_API_KEY.
 Public trending.json contains no API keys. Python stdlib only.
@@ -24,7 +24,7 @@ MAX_SHOW_VIDEOS = 20
 def api_call(endpoint, params, key):
     query = parse.urlencode({**params, 'key': key})
     req = request.Request(API + endpoint + '?' + query,
-                          headers={'Accept': 'application/json', 'User-Agent': 'TrucBlog-Music/4.6'})
+                          headers={'Accept': 'application/json', 'User-Agent': 'TrucBlog-Music/4.10'})
     try:
         with request.urlopen(req, timeout=30) as res:
             payload = json.load(res)
@@ -68,6 +68,7 @@ def video_record(item):
         'channelTitle': str(snip.get('channelTitle') or 'YouTube')[:140],
         'viewCount': views,
         'publishedAt': str(snip.get('publishedAt') or ''),
+        'tags': [str(t)[:90] for t in (snip.get('tags') or [])[:16]],
         'thumbnail': image_info.get('url') or f'https://i.ytimg.com/vi/{ident}/hqdefault.jpg',
     }
 
@@ -136,58 +137,150 @@ def get_show(show, key):
     return items[:MAX_SHOW_VIDEOS]
 
 
+# Charts use regionCode=GB for the UK. Latin is not a single YouTube chart:
+# it combines Mexico, Argentina and Colombia, transparently labelled as a selection.
+REGION_CODES = ('VN','AU','US','GB','KR','JP')
+LATIN_CODES = ('MX','AR','CO')
+REGION_LABELS = {'VN':'Việt Nam','AU':'Australia','US':'US','GB':'UK',
+                 'KR':'Hàn Quốc','JP':'Nhật Bản','LAT':'Latin (MX/AR/CO)'}
+# These topics re-evaluate daily on real chart video metadata; empty topics are hidden.
+TOPIC_RULES = {
+    'k-pop': ('K-Pop', r'\b(k.?pop|korean pop|케이팝|아이돌)\b|블랙핑크|방탄소년단'),
+    'j-pop': ('J-Pop / Anime', r'\b(j.?pop|anime|japanese pop)\b|アニメ|歌ってみた'),
+    'latin-pop': ('Latin Pop / Reggaeton', r'\b(reggaeton|latin pop|urbano|bachata|salsa|cumbia)\b'),
+    'v-pop': ('V-Pop', r'\b(v.?pop|nhac tre|nhac viet|vietnamese pop)\b'),
+    'rap-hiphop': ('Rap / Hip-Hop', r'\b(rap|hip.?hop|freestyle|cypher|trap)\b'),
+    'ballad': ('Pop / Ballad', r'\b(ballad|slow pop|tinh ca)\b'),
+    'ost': ('Nhạc phim / OST', r'\b(ost|soundtrack|original soundtrack|nhac phim)\b'),
+    'live-stage': ('Live / Sân khấu', r'\b(live|performance|live stage|concert|san khau)\b'),
+    'acoustic': ('Acoustic / Guitar', r'\b(acoustic|unplugged|guitar|fingerstyle)\b'),
+    'edm-dance': ('EDM / Dance', r'\b(edm|dance music|remix|electronic|dj set)\b'),
+    'music-shows': ('Gameshow âm nhạc', r'\b(say hi|masked singer|rap viet|idol|talent show)\b|mat na|toan nang'),
+}
+TOPIC_IGNORE = {'music','trending','trendingmusic','youtube','official','video','mv',
+                'shorts','fyp','viral','subscribe','lyrics','lyric','2026','2025','newmusic',
+                'pop','song','songs','kpop','jpop','hit','hits','audio','hd','4k','ytshorts'}
+
+
+def mix_regional(data, limit=100):
+    """Deterministic round-robin, no global ranking claim."""
+    pools = [data.get(k, []) for k in (*REGION_CODES, 'LAT')]
+    seen=set(); result=[]
+    for i in range(max([0]+[len(p) for p in pools])):
+        for pool in pools:
+            if i >= len(pool): continue
+            v=pool[i];vid=v.get('id')
+            if vid and vid not in seen:
+                seen.add(vid);result.append(v)
+                if len(result)>=limit:return result
+    return result
+
+
+def public_record(row):
+    return {k:v for k,v in row.items() if k!='tags'}
+
+
+def hot_topics_from_charts(regions):
+    """Discover active themes and hashtags from current chart video metadata (no extra API quota)."""
+    items=mix_regional(regions,400)
+    buckets={key:[] for key in TOPIC_RULES}
+    hashes={}
+    for track in items:
+        text=flat(track.get('title','')+' '+ ' '.join(track.get('tags', [])))
+        for key,(_name,pattern) in TOPIC_RULES.items():
+            if re.search(pattern,text,re.I):buckets[key].append(track)
+        # Auto discover emerging cross-regional hashtags, not only fixed topic rules.
+        hashtags=re.findall(r'#([\w]{3,24})',str(track.get('title',''))+' '+ ' '.join(track.get('tags',[])),re.U)
+        for tag in set(hashtags):
+            norm=flat(tag).replace(' ','')
+            if norm and norm not in TOPIC_IGNORE and not norm.isdigit() and len(norm)>=4:
+                hashes.setdefault(norm,{'label':'#'+tag,'items':[]})['items'].append(track)
+    for slug,data in sorted(hashes.items(),key=lambda x:len(x[1]['items']),reverse=True)[:12]:
+        if len(data['items'])>=3:
+            buckets['hash-'+slug]=data['items']
+    labels={key:name for key,(name,_pattern) in TOPIC_RULES.items()}
+    labels.update({'hash-'+slug:val['label'] for slug,val in hashes.items() if 'hash-'+slug in buckets})
+    compact={};title={}
+    for key,rows in buckets.items():
+        ids=set(); unique=[]
+        for v in sorted(rows,key=lambda v:(v.get('viewCount',0),v.get('publishedAt','')),reverse=True):
+            vid=v.get('id')
+            if vid not in ids:
+                ids.add(vid);unique.append(public_record(v))
+        if len(unique)>=2:
+            compact[key]=unique[:50]
+            title[key]=labels[key]
+    return compact,title
+
+
 def main():
-    key = os.getenv('YOUTUBE_API_KEY', '').strip()
+    key=os.getenv('YOUTUBE_API_KEY','').strip()
     if not key:
         raise SystemExit('Missing YOUTUBE_API_KEY. Add GitHub repository Settings > Secrets > Actions.')
-    try:
-        old = json.loads(OUT.read_text('utf-8'))
-    except (OSError, json.JSONDecodeError):
-        old = {}
-    old_regions = old.get('regions') if isinstance(old.get('regions'), dict) else {}
-    old_shows = old.get('collections') if isinstance(old.get('collections'), dict) else {}
-    regions, collections = {}, {}
-    refreshed_regions, refreshed_shows = [], []
-    for region in ('VN', 'AU'):
+    try:old=json.loads(OUT.read_text('utf8'))
+    except (OSError,json.JSONDecodeError):old={}
+    old_regions=old.get('regions') if isinstance(old.get('regions'),dict) else {}
+    old_shows=old.get('collections') if isinstance(old.get('collections'),dict) else {}
+    regions={}; collections={}; refreshed_regions=[]; refreshed_shows=[]
+    raw_regions={}
+    for country in (*REGION_CODES,*LATIN_CODES):
         try:
-            current = get_region(region, key)
-            if not current:
-                raise ValueError('empty results')
-            regions[region] = current
-            refreshed_regions.append(region)
-            print(region, 'popular music:', len(current))
-        except (RuntimeError, ValueError) as exc:
-            print('WARNING', region, type(exc).__name__, str(exc))
-            regions[region] = old_regions.get(region, []) if isinstance(old_regions.get(region), list) else []
+            current=get_region(country,key)
+            if not current:raise ValueError('empty music results')
+            raw_regions[country]=[{**v,'market':('LAT' if country in LATIN_CODES else country),
+                                   'country':country} for v in current]
+            if country not in LATIN_CODES:
+                regions[country]=raw_regions[country]
+                refreshed_regions.append(country)
+            print(country,'music video chart:',len(current))
+        except (RuntimeError,ValueError) as exc:
+            print('WARNING',country,type(exc).__name__,str(exc))
+            if country not in LATIN_CODES:
+                regions[country]=old_regions.get(country,[]) if isinstance(old_regions.get(country),list) else []
+    latin_pools={x:raw_regions.get(x,[]) for x in LATIN_CODES}
+    latin=[]; seen=set()
+    for i in range(max([0]+[len(p) for p in latin_pools.values()])):
+        for country,pool in latin_pools.items():
+            if i <len(pool) and pool[i]['id'] not in seen:
+                latin.append(pool[i]);seen.add(pool[i]['id'])
+                if len(latin)>=50:break
+        if len(latin)>=50:break
+    if latin:
+        regions['LAT']=latin;refreshed_regions.append('LAT')
+    else:
+        regions['LAT']=old_regions.get('LAT',[]) if isinstance(old_regions.get('LAT'),list) else []
     for show in SHOWS:
-        slug = show['id']
+        slug=show['id']
         try:
-            current = get_show(show, key)
-            if not current:
-                raise ValueError('no eligible official embeddable performances')
-            collections[slug] = current
-            refreshed_shows.append(slug)
-            print(show['label'], 'performances:', len(current))
-        except (RuntimeError, ValueError) as exc:
-            print('WARNING', slug, type(exc).__name__, str(exc))
-            collections[slug] = old_shows.get(slug, []) if isinstance(old_shows.get(slug), list) else []
+            current=get_show(show,key)
+            if not current:raise ValueError('no eligible official embeddable performances')
+            collections[slug]=current;refreshed_shows.append(slug)
+            print(show['label'],'performances:',len(current))
+        except (RuntimeError,ValueError) as exc:
+            print('WARNING',slug,type(exc).__name__,str(exc))
+            collections[slug]=old_shows.get(slug,[]) if isinstance(old_shows.get(slug),list) else []
     if not refreshed_regions and not refreshed_shows:
-        raise SystemExit('No API results refreshed; leaving published trending.json untouched.')
-    stamp = TODAY.isoformat(timespec='seconds').replace('+00:00', 'Z')
-    updated = {
-        'schemaVersion': 2,
-        'source': 'YouTube Data API: music mostPopular + official-channel show performances (not official show rankings)',
-        'isFallback': False,
-        'updatedAt': stamp,
-        'refreshedRegions': refreshed_regions,
-        'refreshedCollections': refreshed_shows,
-        'collectionLabels': {s['id']: s['label'] for s in SHOWS},
-        'regions': regions,
-        'collections': collections,
+        raise SystemExit('No new API results; published JSON left unchanged.')
+    topics,topic_labels=hot_topics_from_charts(regions)
+    if not topics and old.get('hotTopics'):
+        topics=old.get('hotTopics',{});topic_labels=old.get('hotTopicLabels',{})
+    stamp=TODAY.isoformat(timespec='seconds').replace('+00:00','Z')
+    updated={
+        'schemaVersion':3,
+        'source':'YouTube Data API regional music mostPopular; Latin = MX/AR/CO selection; mixed feed not a global ranking',
+        'isFallback':False,'updatedAt':stamp,
+        'regionLabels':REGION_LABELS,
+        'refreshedRegions':refreshed_regions,
+        'refreshedCollections':refreshed_shows,
+        'collectionLabels':{s['id']:s['label'] for s in SHOWS},
+        'regions':{k:[public_record(v) for v in region] for k,region in regions.items()},
+        'collections':{k:[public_record(v) for v in shows] for k,shows in collections.items()},
+        'hotTopics':topics,'hotTopicLabels':topic_labels,
     }
-    OUT.write_text(json.dumps(updated, ensure_ascii=False, indent=2) + '\n', 'utf-8')
-    print('Wrote', OUT.name, 'schemaVersion=2', 'regions', len(refreshed_regions), 'shows', len(refreshed_shows))
+    OUT.write_text(json.dumps(updated,ensure_ascii=False,indent=2)+'\n','utf8')
+    print('Wrote',OUT.name,'schemaVersion=3 | refreshed charts:',refreshed_regions,
+          '| shows:',len(refreshed_shows),'| live topics:',len(topics))
 
 
-if __name__ == '__main__':
+if __name__=='__main__':
     main()
