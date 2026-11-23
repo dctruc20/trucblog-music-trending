@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:37:57.350Z",
+  "updatedAt": "2026-11-23T19:38:21.111Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1682,13 +1682,15 @@
     },
     {
       "id": "tb-yt-7Xo4sc5ma7w",
-      "title": "XIN BÊN CON CHÚA ƠI - Jb. An Ninh I Ca sĩ Tuyết Mai I Audio",
-      "artist": "Thu Phương",
+      "title": "XIN BÊN CON CHÚA ƠI",
+      "artist": "Tuyết Mai",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=7Xo4sc5ma7w",
       "ytId": "7Xo4sc5ma7w",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1696,7 +1698,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Ca khúc: Xin bên con Chúa ơi\nSáng tác: Jb. An Ninh\nTrình bày: Ca sĩ Tuyết Mai\n#thanhca #nhacthanhca #Jbanninh #tuyetmai",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
