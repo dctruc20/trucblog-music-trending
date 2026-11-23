@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:25:55.515Z",
+  "updatedAt": "2026-11-23T19:26:02.302Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1668,27 +1668,6 @@
       "isCatholic": false,
       "collection": "",
       "catholicCategory": ""
-    },
-    {
-      "id": "tb-yt-q86XPtR-rY0",
-      "title": "Hűséges Isten | Ararat Worship | LIVE",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
-      "sourceType": "youtube",
-      "url": "https://www.youtube.com/watch?v=q86XPtR-rY0",
-      "ytId": "q86XPtR-rY0",
-      "playlistId": "",
-      "duration": "00:00",
-      "durationSec": 0,
-      "plays": 0,
-      "colors": [
-        "#8b5cf6",
-        "#0ea5e9"
-      ],
-      "lyrics": "©MMXX Ararat Worship Collective\n\nInstagram: https://www.instagram.com/araratworship/ \nFacebook: https://www.facebook.com/araratworshipcollective\nWeb: https://www.araratworship.com/ \nAkkordok & Szöveg: https://www.araratworship.com/akkordok\n\n- - - \n\nHŰSÉGES ISTEN\n\nverse1\nKi átvezetsz a tengeren\nHatalmas Úr, ki lépsz a hegyeken\nKinek hatalma végtelen\nTe megláttál, s kimondtad a nevem \n\nKi port és tengert alkottál\nKi szólsz és újra él ez a világ\nKi adtál fényt és éjszakát\nKezem fogod s mindig vigyázol rám\n\nREFR\nTámaszom, erőm vagy én Uram\nÉletem, jövőm kezedben van\nCsak Benned bízik lelkem, tarts meg engem\nHűséges Istenem\n\nverse2\nKi hordozol sasszárnyakon\nKi jársz viharban, égi utakon\nTe jól tudod a holnapom\nMár nem félek, mert Hozzád tartozom\n\ncoda\nOltalmam és pajzsom\nKőszálam, szerelmed ég ",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
     },
     {
       "id": "tb-yt-ZIU9X61YStw",
