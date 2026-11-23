@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:41:12.357Z",
+  "updatedAt": "2026-11-23T19:42:14.130Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1787,12 +1787,14 @@
     {
       "id": "tb-yt-HZCi3EVe6oQ",
       "title": "CỦA LỄ THẮM TÌNH QUÊ HƯƠNG (Dâng lễ vật) - Jos Trần Anh Vũ | Ca Đoàn Hàn Quốc GYEONGJU",
-      "artist": "Thu Phương",
+      "artist": "Không tên",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=HZCi3EVe6oQ",
       "ytId": "HZCi3EVe6oQ",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1800,7 +1802,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
-      "lyrics": "CỦA LỄ THẮM TÌNH QUÊ HƯƠNG\nSáng tác: Jos Trần Anh Vũ\nThể hiện: Ca viên Ca Đoàn Gyeongju\nHoà âm phối khí: Anton Duy Trần\nRec/Mix/Mastering: Anton Duy Trần\n\nLời bài hát:\n1./ Đây rượu nho bánh miến khiết tinh con dâng về Ngài.\nXưa vì yêu nhân thế Chúa chịu chết nên của lễ dâng.\nTrong nắng chiều Cal-vê bừng sáng lên\ntình Chúa yêu thương nhân trần. \n\n2./ Xin được như ánh nến sáng soi xua tan lạnh đông.\nSoi vào lòng băng giá, phá hờn căm, nghi kị, ghét ghen.\nXin mãi được tiêu hao, để sáng lên \nlòng mến yêu không lụi tàn. \n\n3./ Dâng trầm hương thơm ngát ngút bay đến nơi cực linh.\nNhư lời con nguyện xin Chúa hãy đoái thương nhìn thế gian\ntrong vũng lụy miên man. \nNguyện tái sinh, đổi mới tâm can muôn lòng. \n\n4./ Dâng về Cha nhân ái sắc hoa xinh tươi rực hồng.\nVui đùa trong nắng ấm, dưới trời xanh ",
+      "coverUrl": "",
+      "lyrics": "CỦA LỄ THẮM TÌNH QUÊ HƯƠNG\nSáng tác: Jos Trần Anh Vũ\nThể hiện: Ca viên Ca Đoàn Gyeongju\nHoà âm phối khí: Anton Duy Trần\nRec/Mix/Mastering: Anton Duy Trần\n\nLời bài hát:\n1./ Đây rượu nho bánh miến khiết tinh con dâng về Ngài.\nXưa vì yêu nhân thế Chúa chịu chết nên của lễ dâng.\nTrong nắng chiều Cal-vê bừng sáng lên\ntình Chúa yêu thương nhân trần. \n\n2./ Xin được như ánh nến sáng soi xua tan lạnh đông.\nSoi vào lòng băng giá, phá hờn căm, nghi kị, ghét ghen.\nXin mãi được tiêu hao, để sáng lên \nlòng mến yêu không lụi tàn. \n\n3./ Dâng trầm hương thơm ngát ngút bay đến nơi cực linh.\nNhư lời con nguyện xin Chúa hãy đoái thương nhìn thế gian\ntrong vũng lụy miên man. \nNguyện tái sinh, đổi mới tâm can muôn lòng. \n\n4./ Dâng về Cha nhân ái sắc hoa xinh tươi rực hồng.\nVui đùa trong nắng ấm, dưới trời xanh",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
