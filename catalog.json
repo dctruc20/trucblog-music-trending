@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:26:02.302Z",
+  "updatedAt": "2026-11-23T19:26:26.639Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1563,12 +1563,14 @@
     {
       "id": "tb-yt-7p0Okwxs1EU",
       "title": "Tuyệt Phẩm Tàu Đêm Năm Cũ (Trúc Phương) | Bản Phối Đỉnh Cao | Thanh Tú [Phố Nhạc Việt]",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "artist": "AI",
+      "genre": "Nhạc AI",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=7p0Okwxs1EU",
       "ytId": "7p0Okwxs1EU",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1576,10 +1578,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "TÀU ĐÊM NĂM CŨ – tuyệt phẩm bất hủ của nhạc sĩ TRÚC PHƯƠNG sẽ trở lại trong một diện mạo âm nhạc hoàn toàn mới qua bản hòa âm phối khí đầy cảm xúc của PHỐ NHẠC VIỆT.\n\n🎶 Giai điệu quen thuộc, cảm xúc thăng hoa!\n❤️ Một bản tình ca đưa ta trở về những năm tháng yêu thương, hoài niệm và tiếc nuối.\nĐừng để chuyến tàu ký ức này rời sân ga mà thiếu sự hiện diện của quý cô chú, anh chị và các bạn!\n💖 Nếu bạn yêu thích những bản nhạc ballad, nhạc trữ tình, tình khúc xưa tâm trạng buồn của Thanh Tú, đừng quên để lại 1 LIKE ❤️ và ĐĂNG KÝ để ủng hộ kênh nhé!\n---------------------------------------------------------\n🎧 Ca khúc: Tàu Đêm Năm Cũ Hòa Âm Mới\n🎼 Sáng tác: Trúc Phương\n🎵 Trình bày: Thanh Tú [Phố Nhạc Việt]\n------------------------------------------------------------\nPHỐ NHẠC VIỆT MẾN CHÀO CÔ",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": true,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-DKldT39UwnE",
