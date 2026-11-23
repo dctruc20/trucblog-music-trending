@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:33:34.977Z",
+  "updatedAt": "2026-11-23T19:33:58.023Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -952,13 +952,15 @@
     },
     {
       "id": "tb-yt-00O6CW2XY9I",
-      "title": "Khung Trời Tình Yêu - Thu Phương | Sáng tác : Giuse Vũ Đình Lộc | MV Studio Thánh Ca",
+      "title": "Khung Trời Tình Yêu",
       "artist": "Thu Phương",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=00O6CW2XY9I",
       "ytId": "00O6CW2XY9I",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -966,7 +968,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Mời mọi người lắng nghe bài hát rấtđược nhiều người yêu thích qua phần trình bày của bạn  Thu Phương \nKhung Trời Tình Yêu \nSáng tác : Giuse Vũ Đình Lộc \nTrình bày : Thu Phương\nProducer : Studio Thánh Ca\n#Mvstudiothanhca\n#Khungtroitinhyeu\n------------------------------------------------------\n☞ Xin Hãy Subscribe : https://www.youtube.com/@StudioThanhCa\n☞ Fanpage :https://www.facebook.com/stdthanhca\n☞ Tiktok : https://www.tiktok.com/@studio_thanhca\n======================\n★Cần Hoà Âm - Thu Âm Mix Thánh Ca xin liên hệ\n Email: nguyenhienkeyboard@gmail.com\nTel : 0973645004\n======================\n★ NOTE: Nếu có bất kỳ vấn đề nào liên quan đến bản quyền trong video, xin vui lòng liên hệ với Studio Thánh Ca qua Email : nguyenhienkeyboard@gmail.com\nXin cảm ơn!\n© Copyright by Studio Thánh Ca\n☞ Vui lò",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
