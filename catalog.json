@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:20:12.804Z",
+  "updatedAt": "2026-11-23T19:20:48.987Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1274,12 +1274,14 @@
     {
       "id": "tb-yt-tHcgYh0UBWs",
       "title": "LẶNG LẼ - Nỗi đau của ta ai sẽ thấu.... | Kẻ Viết Nhạc Tình | MV OFFICIAL",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "artist": "AI",
+      "genre": "Nhạc AI",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=tHcgYh0UBWs",
       "ytId": "tHcgYh0UBWs",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1287,10 +1289,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "🎧 Lắng nghe ca khúc mới nhất từ Kẻ Viết Nhạc Tình - một không gian âm nhạc tự sự, chênh vênh nhưng đầy kiên cường của một kẻ đi tìm chốn bình yên giữa dòng đời ngổn ngang.\n\n\"Nỗi đau của ta ai sẽ thấu... Ngoảnh mặt lên không ai giống mình, cúi thấp đầu lại chẳng giống ai...\"\n\nHy vọng ca khúc này sẽ là một trạm dừng chân cho tâm hồn bạn trong những ngày mệt mỏi và chới với nhất.\n\nComposer: Thành Liêm\nsinger: Kẻ Viết Nhạc Tình AI\nLyric: \n[Verse 1]\nTa nhìn về tương lai\nCon đường dài tận cùng mãi mãi\nỞ đâu đó ven đường\nCó cho ta một trạm dừng chân\n\nLúc mệt mỏi ai nâng\nLúc gục ngã còn được ai thân\nNhìn phía trước phía sau\nCó những ai hay chỉ còn ta... \n[verse 2]\nBao lần từng vấp ngã\nBao lần mất tưởng chừng tất cả\nNhiều khi cũng yếu lòng\nNếu lỡ như giã tràng nhọc công\n \nNgã một lần đau thương\nNg",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": true,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-D88gCU1Jwf8",
