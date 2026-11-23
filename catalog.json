@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:36:20.538Z",
+  "updatedAt": "2026-11-23T19:37:39.457Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1490,13 +1490,15 @@
     },
     {
       "id": "tb-yt-2Q5DEcMVFM0",
-      "title": "Bài Ca Hiến Dâng - Kim Tuyến | Sáng tác : Sr Kim Liên SPC | Thánh Ca Dâng Hiến",
-      "artist": "Thu Phương",
+      "title": "Bài Ca Hiến Dâng",
+      "artist": "Kim Tuyến",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=2Q5DEcMVFM0",
       "ytId": "2Q5DEcMVFM0",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1504,7 +1506,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Mời mọi người lắng nghe một sáng tác mới của về Thánh Hiến của sr Kim Liên qua phần trình bày của Kim Tuyến\nBài Ca Hiến Dâng\nSáng tác : Sr Kim Liên SPC \nTrình bày : Kim Tuyến\nHoà âm : Nguyen Hien\n#kimtuyến \n#thanhcadanghien\n------------------------------------------------------\n☞ Xin Hãy Subscribe : https://www.youtube.com/@StudioThanhCa\n☞ Fanpage :https://www.facebook.com/stdthanhca\n☞ Tiktok : https://www.tiktok.com/@studio_thanhca\n======================\n★Cần Hoà Âm - Thu Âm Mix Thánh Ca xin liên hệ\n Email: nguyenhienkeyboard@gmail.com\nTel : 0973645004\n======================\n★ NOTE: Nếu có bất kỳ vấn đề nào liên quan đến bản quyền trong video, xin vui lòng liên hệ với Studio Thánh Ca qua Email : nguyenhienkeyboard@gmail.com\nXin cảm ơn!\n© Copyright by Studio Thánh Ca\n☞ Vui lòng không  Reup",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
