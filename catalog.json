@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:26:37.582Z",
+  "updatedAt": "2026-11-23T19:27:04.814Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1587,13 +1587,15 @@
     },
     {
       "id": "tb-yt-DKldT39UwnE",
-      "title": "ĐÀNH THÔI XA CÁCH ☘️ Phương Phương Thảo x DJ Thiện Hí (Composer)",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "ĐÀNH THÔI XA CÁCH",
+      "artist": "Phương Phương Thảo",
+      "genre": "Bolero",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=DKldT39UwnE",
       "ytId": "DKldT39UwnE",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1601,10 +1603,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "ĐÀNH THÔI XA CÁCH ☘️ Phương Phương Thảo x DJ Thiện Hí (Composer)\n#phuongphuongthao #danhthoixacach #livesession \n\nSINGER: PHƯƠNG PHƯƠNG THẢO\nPROJECT MANAGER: HÀ THANH PHÚC\nCOMPOSER: DJ THIỆN HÍ\nPRODUCER: VUGIN\nMUSIC ARRANGER: THIENHI\nACTOR: DOÃN CHÍ KIÊN\nDIRECTOR: ĐỖ HOÀNG\nCAMERA OPERATOR: ĐỖ HOÀNG - ĐỨC HUY - THIÊN ƯNG VIDEO EDITOR: ĐỖ HOÀNG - THIÊN ƯNG\nPRODUCTION HOUSE: PEACE WALKER PRODUCTION\nSET DESIGN: NGUYỄN CHÍ THẾ\nLIGHTING: HẢI 94 TEAM\nTHU ÂM & MIX: HÀ ANH TÙNG\nPHOTOGRAPHER: NGUYỄN THÀNH LUÂN\nMAKE UP ARTIST: THÁI VŨ TÀI NGÂN\nHAIR: JOYCE NGUYỄN\nBEHIND THE SCENES: NGỌC ANH\nPROJECT MANAGER ASSISTANT: CAO HOÀNG LONG\nGRAPHIC DESIGN: TRẦN LƯƠNG GIA HUY\nPRODUCER ASSISTANT: NGUYỄN LÊ QUỲNH HƯƠNG\nMAKE UP ASSISTANT: YẾN LIZ\n___________________________________________\n✪ Xem Thêm:\n👉 Phương Ph",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-7Xo4sc5ma7w",
