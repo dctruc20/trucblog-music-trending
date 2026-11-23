@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:21:03.691Z",
+  "updatedAt": "2026-11-23T19:21:55.420Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1143,13 +1143,15 @@
     },
     {
       "id": "tb-yt-6HFbw87Iq9o",
-      "title": "Chút Lòng Son || Sáng tác: Hồng Trần, Phạm Đình Đài || Thể hiện: Kiều Oanh Nguyễn",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "Chút Lòng Son",
+      "artist": "Kiều Oanh Nguyễn",
+      "genre": "Bolero",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=6HFbw87Iq9o",
       "ytId": "6HFbw87Iq9o",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1157,10 +1159,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "*****Chút Lòng Son*****\n- Sáng tác: Hồng Trần, Phạm Đình Đài\n- Thể hiện: Kiều Oanh Nguyễn \n___\n\n\\\\\\profile: https://www.facebook.com/KieuOanh.BeautyFul\n\n© 2022 Kieu Oanh Nguyen ● WM Media. All rights reserved.\n\nCOPYRIGHT © & FAQ\n• This video was given a special license directly from the artist's visual.\n• All music on Kieu Oanh Nguyen are copyrighted.",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-KcFWEmjdjgk",
