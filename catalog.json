@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:32:20.422Z",
+  "updatedAt": "2026-11-23T19:33:34.977Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1065,13 +1065,15 @@
     },
     {
       "id": "tb-yt-Ok2mzKYHdVw",
-      "title": "Khung Trời Tình Yêu - Khánh Ly | Sáng tác : Vũ Đình Lộc",
-      "artist": "Thu Phương",
+      "title": "Khung Trời Tình Yêu",
+      "artist": "Khánh Ly",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=Ok2mzKYHdVw",
       "ytId": "Ok2mzKYHdVw",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1079,7 +1081,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Bài Thánh Ca được yêu thích nhất trong thời gian qua. Mời mọi người lắng nghe qua giọng hát rất nhẹ nhàng và cảm xúc của bạn Khánh Ly\nKhung Trời Tình Yêu \nSáng tác : Giuse Vũ Đình Lộc\nTrình bày : Khánh Ly\nProducer : Studio Thánh Ca\n#khungtroitinhyeu\n#thanhca \n------------------------------------------------------\n☞ Xin Hãy Subscribe : https://www.youtube.com/@StudioThanhCa\n☞ Fanpage :https://www.facebook.com/stdthanhca\n☞ Tiktok : https://www.tiktok.com/@studio_thanhca\n======================\n★Cần Hoà Âm - Thu Âm Mix Thánh Ca xin liên hệ\n Email: nguyenhienkeyboard@gmail.com\nTel : 0973645004\n======================\n★ NOTE: Nếu có bất kỳ vấn đề nào liên quan đến bản quyền trong video, xin vui lòng liên hệ với Studio Thánh Ca qua Email : nguyenhienkeyboard@gmail.com\nXin cảm ơn!\n© Copyright by St",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
