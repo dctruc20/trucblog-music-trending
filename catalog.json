@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T17:39:14.573Z",
+  "updatedAt": "2026-11-23T17:42:23.168Z",
   "source": "TrucBlog Music Admin v4.14",
   "tracks": [
+    {
+      "id": "tb-admin-mwtjzo17-rb3f2i",
+      "title": "THÁNH CA KIM TUYẾN",
+      "artist": "KIM TUYẾN",
+      "genre": "V-Pop",
+      "sourceType": "youtube_playlist",
+      "url": "https://www.youtube.com/playlist?list=PLLjOQ0vcoeAbDWWP9wpXFkmiq7Xlm0BhD",
+      "ytId": "",
+      "playlistId": "PLLjOQ0vcoeAbDWWP9wpXFkmiq7Xlm0BhD",
+      "duration": "00:00",
+      "durationSec": 0,
+      "plays": 0,
+      "colors": [
+        "#8b5cf6",
+        "#0ea5e9"
+      ],
+      "lyrics": "Playlist cập nhật tự động từ YouTube khi kênh thêm hoặc thay đổi video."
+    },
     {
       "id": "tb-admin-mwtjvjx1-qu8eqv",
       "title": "Hiền Hồ live tại Lululola Show 3",
