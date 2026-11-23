@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T20:00:43.843Z",
+  "updatedAt": "2026-11-23T20:01:01.823Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -375,32 +375,6 @@
       "isCatholic": false,
       "collection": "",
       "catholicCategory": ""
-    },
-    {
-      "id": "tb-05",
-      "title": "Video mẫu kiểm thử HLS (Mux)",
-      "artist": "Mux Test Stream",
-      "genre": "EDM & Remix",
-      "sourceType": "hls",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "ytId": "5qap5aO4i9A",
-      "duration": "06:10",
-      "durationSec": 370,
-      "plays": 0,
-      "colors": [
-        "#06b6d4",
-        "#3b82f6"
-      ],
-      "notes": [
-        130.81,
-        261.63,
-        196,
-        392,
-        164.81,
-        329.63
-      ],
-      "tempo": 138,
-      "lyrics": "Luồng HLS thử nghiệm; đây không phải bài nhạc được đặt tên ở phiên bản cũ."
     },
     {
       "id": "tb-06",
