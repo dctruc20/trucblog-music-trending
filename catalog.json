@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:42:14.130Z",
+  "updatedAt": "2026-11-23T19:42:36.915Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1766,12 +1766,14 @@
     {
       "id": "tb-yt-tnLNOO12cYo",
       "title": "MÂY ƠI MƯA XUỐNG -Lm.Nguyễn Duy | Một Lời Thánh Ca Nguyện Cầu",
-      "artist": "Thu Phương",
+      "artist": "Không tên",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=tnLNOO12cYo",
       "ytId": "tnLNOO12cYo",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1779,7 +1781,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "Thánh Ca Công Giáo “Mây Ơi Mưa Xuống” – một lời nguyện cầu nhẹ nhàng, tha thiết, xin Chúa tuôn đổ tình yêu và ân sủng trên cuộc đời mỗi người.\n\nMong những cơn mưa từ trời cao mang đến bình an, hy vọng và làm tươi mới những tâm hồn đang khát khao tình Chúa.\n\n( Imprimatur: TGP. Sài Gòn | 22/08/2007 )\n🎙 Giọng hát: Cece Châu\n🎼 Sáng tác:LM. Nguyễn Duy\n🎵 Âm nhạc & Hình ảnh:Hoan Ca Studio\n\n💙 Cảm ơn bạn đã lắng nghe!\n\nNếu yêu thích những bài Thánh Ca Công Giáo nhẹ nhàng, sâu lắng và giàu tâm tình cầu nguyện, hãy đăng ký kênh Hoan Ca để đón nghe những ca khúc tiếp theo.\n———————\n⛔️ MỌI SAO CHÉP XIN VUI LÒNG GHI RÕ NGUỒN\n———————\n✅ Mọi thông tin xin liên hệ :\n\n▶️ Email : bdung.des@gmail.com\n▶️ Instagram: hoanca.dl\n\n———————\nXin Chúa chúc lành cho bạn và gia đình.\n\n© Copyright by Hoan ca Studio\n\n#Th",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "other"
