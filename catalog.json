@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:27:04.814Z",
+  "updatedAt": "2026-11-23T19:27:36.212Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1411,13 +1411,15 @@
     },
     {
       "id": "tb-yt-7m_zVBmNIas",
-      "title": "TÌM LẠI HƯƠNG TÌNH XƯA - (ST: MINH PHI) - QUA GIỌNG HÁT ĐƯỢC YÊU THÍCH NHẤT HIỆN NAY, DIỄM TRANG",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "title": "TÌM LẠI HƯƠNG TÌNH XƯA",
+      "artist": "DIỄM TRANG",
+      "genre": "Bolero",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=7m_zVBmNIas",
       "ytId": "7m_zVBmNIas",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1425,10 +1427,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "TÌM LẠI HƯƠNG TÌNH XƯA - (ST: MINH PHI) - QUA GIỌNG HÁT ĐƯỢC YÊU THÍCH NHẤT HIỆN NAY, DIỄM TRANG\n➥Diễm Trang với những tác phẩm hay nhất mang lại cho người xem những cảm xúc về quê hương về tình yêu đôi lứa, Hãy nghe và cảm nhận nhé Fan yêu quý của Diễm Trang\n►  Hãy bấm đăng ký kênh để nhận những sản phẩm âm nhạc mới nhất.\n© Bản quyền thuộc sở hữu của Diễm Trang Official & BH MEDIA Vui lòng không đăng tải lại các sản phẩm của tôi.\n🚩 Mọi đóng góp ý kiến xin quý vị và các bạn vui lòng liên hệ qua mail: thutrangnhoanhkr@gmail.com\n⏩ Chúc quý vị và các bạn nghe nhạc vui vẻ!\nHãy Theo dõi  kênh của Diễm Trang tại đây nhé...... \nhttps://www.youtube.com/channel/UC7Ig-vF9C530yQ5FVG8aU-Q?sub_confirmation=1\nFacebook Diễm Trang : https://www.facebook.com/casidiemtrang\nSố Điện thoại Tại hàn quốc : 0082",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": false,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-2Q5DEcMVFM0",
