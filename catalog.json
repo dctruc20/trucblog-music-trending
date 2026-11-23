@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:21:55.420Z",
+  "updatedAt": "2026-11-23T19:22:16.639Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1190,12 +1190,14 @@
     {
       "id": "tb-yt-59sy0w2me0E",
       "title": "KHÔNG MÔN ĐĂNG HỘ ĐỐI (new version) || Tại hai ta không môn đăng hộ đối...",
-      "artist": "Thu Phương",
-      "genre": "Nhạc Công giáo",
+      "artist": "AI",
+      "genre": "Nhạc AI",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=59sy0w2me0E",
       "ytId": "59sy0w2me0E",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1203,10 +1205,12 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "MÔN ĐĂNG HỘ ĐỐI (NEW VERSION) | Sáng tác: Nguyễn Vĩ\n\n“Môn Đăng Hộ Đối” là câu chuyện về một tình yêu có thương, có nhớ nhưng lại chẳng thể bước cùng nhau đến cuối con đường. Khi khoảng cách giữa hai người không chỉ nằm ở tình cảm, mà còn là hoàn cảnh, gia đình và hai thế giới khác biệt.\n\n“Một người là hoa, một người là cỏ\nBiết lấy gì ra làm tin với họ…”\n\nMôn Đăng Hộ Đối – New Version mang màu sắc tình cảm, buồn và nhiều tự sự. Hy vọng phiên bản này sẽ chạm đến những ai từng yêu một người rất nhiều nhưng cuối cùng vẫn phải học cách buông tay.\n\n🎵 Bài hát: Môn Đăng Hộ Đối (New Version)\n✍️ Sáng tác: Nguyễn Vĩ\n\nNếu bạn thấy mình đâu đó trong câu chuyện này, hãy để lại một bình luận và đăng ký kênh để cùng nghe thêm những bản nhạc mới nhé.\n\n#MonDangHoDoi #MonDangHoDoiNewVersion #NguyenVi #NhacT",
-      "isCatholic": true,
-      "collection": "catholic",
-      "catholicCategory": "other"
+      "isAI": true,
+      "isCatholic": false,
+      "collection": "",
+      "catholicCategory": ""
     },
     {
       "id": "tb-yt-WahLapMImJU",
