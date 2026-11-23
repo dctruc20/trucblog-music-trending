@@ -1,45 +1,44 @@
-name: TrucBlog daily YouTube Music Trending
+name: TrucBlog Music v4.6 - Daily Charts and Shows
 
 on:
   schedule:
-    - cron: '20 0 * * *' # 08:20 Perth / 07:20 Vietnam
+    - cron: '20 0 * * *' # 08:20 AWST / 07:20 Vietnam; GitHub may delay
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: trucblog-music-daily
+  group: trucblog-music-charts
   cancel-in-progress: false
 
 jobs:
-  update:
+  update-charts:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Python
+        with:
+          persist-credentials: true
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Update video & playlist discoveries
+      - name: Refresh regional music and Vietnamese shows
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          TREND_CHART_LIMIT: '250'
-          TREND_GENRE_LIMIT: '70'
-          TREND_PLAYLIST_LIMIT: '6'
-          TREND_SEARCH_BUDGET: '88'
-          TREND_SEARCH_DAYS: '365'
-          TREND_GENRES: 'vpop,bolero,remix,lofi,instrumental,usuk,kpop,jpop,catholic,children,gameshow,movie'
         run: python scripts/update_trending.py
-      - name: Publish JSON to repository
+      - name: Validate trending JSON
+        run: |
+          python -m json.tool trending.json > /dev/null
+          python -c 'import json;d=json.load(open("trending.json"));assert d["schemaVersion"]==2 and "collections" in d and "regions" in d'
+      - name: Commit JSON only if changed
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add trending.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Refresh TrucBlog music videos and playlists'
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            git commit -m 'Refresh TrucBlog Music v4.6 charts and shows'
+            git push
           fi
