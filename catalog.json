@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T19:33:58.023Z",
+  "updatedAt": "2026-11-23T19:34:31.121Z",
   "source": "TrucBlog Music Admin v4.16",
   "tracks": [
     {
@@ -1186,13 +1186,15 @@
     },
     {
       "id": "tb-yt-KcFWEmjdjgk",
-      "title": "CHỈ MÌNH CHÚA ( Imprimatur ) | Sáng tác: Sr Maria, SLE | Tuyết Sương [ MV LYRICS ]",
-      "artist": "Thu Phương",
+      "title": "CHỈ MÌNH CHÚA",
+      "artist": "Tuyết Sương",
       "genre": "Nhạc Công giáo",
       "sourceType": "youtube",
       "url": "https://www.youtube.com/watch?v=KcFWEmjdjgk",
       "ytId": "KcFWEmjdjgk",
       "playlistId": "",
+      "embedUrl": "",
+      "sources": [],
       "duration": "00:00",
       "durationSec": 0,
       "plays": 0,
@@ -1200,7 +1202,9 @@
         "#8b5cf6",
         "#0ea5e9"
       ],
+      "coverUrl": "",
       "lyrics": "CHỈ MÌNH CHÚA ( Được sử dụng trong phụng vụ )\n🎵Sáng tác: Sr Maria, SLE \n🎤Trình bày: Tuyết Sương (https://www.facebook.com/suong.bui.52?mibextid=LQQJ4d)\nCa đoàn Các Thánh Tử Đạo Gx Vinh Sơn Tây Ninh \n 📖Để tải PDF : https://thanhcavietnam.org/FilesLoiNhac/TacGia/MariaSLE/ChiMinhChua_MariaSLE.pdf",
+      "isAI": false,
       "isCatholic": true,
       "collection": "catholic",
       "catholicCategory": "mary"
