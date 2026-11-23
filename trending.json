@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "source": "YouTube Data API: music mostPopular + official-channel show performances (not official show rankings)",
   "isFallback": false,
-  "updatedAt": "2026-11-23T10:51:44Z",
+  "updatedAt": "2026-11-23T14:11:49Z",
   "refreshedRegions": [
     "VN",
     "AU"
@@ -29,7 +29,7 @@
         "id": "hGu7BVQy5G0",
         "title": "Như Một Người Rưng - Chủ Tịch Mai x Giám Đốc Hà | Official M/V",
         "channelTitle": "OSAD Official",
-        "viewCount": 22797650,
+        "viewCount": 22932069,
         "publishedAt": "2026-10-27T15:54:28Z",
         "thumbnail": "https://i.ytimg.com/vi/hGu7BVQy5G0/maxresdefault.jpg"
       },
@@ -37,7 +37,7 @@
         "id": "AoaWiWPfLKE",
         "title": "Bài Hát Khiến Bạn Ngẩn Ngơ Vì Tiếc Nuối Mối Tình Đầu | Trúc Đào - Thanh Tú [Phố Nhạc Việt]",
         "channelTitle": "PHỐ NHẠC VIỆT",
-        "viewCount": 5099350,
+        "viewCount": 5174228,
         "publishedAt": "2026-11-05T13:17:06Z",
         "thumbnail": "https://i.ytimg.com/vi/AoaWiWPfLKE/maxresdefault.jpg"
       },
@@ -45,7 +45,7 @@
         "id": "INJuqE_34eQ",
         "title": "3 PHẢI 6 ĐỪNG - Quân A.P (Official MV)",
         "channelTitle": "Quân A.P Official",
-        "viewCount": 15020087,
+        "viewCount": 15071199,
         "publishedAt": "2026-10-27T13:00:09Z",
         "thumbnail": "https://i.ytimg.com/vi/INJuqE_34eQ/maxresdefault.jpg"
       },
@@ -53,7 +53,7 @@
         "id": "hdG28jrzjmU",
         "title": "TRÚC NHÂN ft. MIN | CHUYỆN TÌNH TỨ CỨ TỪ TỪ TÍNH | OFFICIAL PERFORMANCE",
         "channelTitle": "Trúc Nhân",
-        "viewCount": 7636372,
+        "viewCount": 7717111,
         "publishedAt": "2026-11-02T14:22:50Z",
         "thumbnail": "https://i.ytimg.com/vi/hdG28jrzjmU/maxresdefault.jpg"
       },
@@ -61,7 +61,7 @@
         "id": "LHcMitei7gw",
         "title": "Mashup: HÔN LỄ CỦA EM x NGÀY EM ĐẸP NHẤT - KOALAOKE, BÁO BERRY, CAO BỒI LANG, CẬU TƯ LÀNH",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 1675249,
+        "viewCount": 1728678,
         "publishedAt": "2026-11-15T02:00:37Z",
         "thumbnail": "https://i.ytimg.com/vi/LHcMitei7gw/maxresdefault.jpg"
       },
@@ -69,47 +69,47 @@
         "id": "_DDdTphLxKI",
         "title": "TRÚC NHÂN ft. WREN EVANS | VÌ ANH QUÁ ĐẸP TRAI | OFFICIAL PERFORMANCE",
         "channelTitle": "Trúc Nhân",
-        "viewCount": 4779361,
+        "viewCount": 4821089,
         "publishedAt": "2026-11-01T16:36:39Z",
         "thumbnail": "https://i.ytimg.com/vi/_DDdTphLxKI/maxresdefault.jpg"
-      },
-      {
-        "id": "ceGkpG_HJ6Y",
-        "title": "COOLKID - QUÁ ĐỦ RỒI (OFFICIAL VISUALIZER)",
-        "channelTitle": "COOLKID OFFICIAL",
-        "viewCount": 4795266,
-        "publishedAt": "2026-11-01T13:00:06Z",
-        "thumbnail": "https://i.ytimg.com/vi/ceGkpG_HJ6Y/maxresdefault.jpg"
       },
       {
         "id": "AG1Rp2J9Axw",
         "title": "Phố Đêm - 16 TUỔI GÂY BÃO chỉ bằng CÂU DẠO ĐẦU, Ai Nghe Cũng BẬT NGỬA | Minh Tú Bolero",
         "channelTitle": "Minh Tú Bolero",
-        "viewCount": 866294,
+        "viewCount": 912591,
         "publishedAt": "2026-11-13T12:00:07Z",
         "thumbnail": "https://i.ytimg.com/vi/AG1Rp2J9Axw/maxresdefault.jpg"
       },
       {
-        "id": "oaxpY1EjLH0",
-        "title": "DC Tâm Remix - Mashup 15 In 1 Cực Cuốn 2026 🔥 Về Đây Em Lo x Đắng Cay Tuổi Đôi Mươi x Vở Kịch Của Em",
-        "channelTitle": "DC Tâm",
-        "viewCount": 1301246,
-        "publishedAt": "2026-10-30T11:45:32Z",
-        "thumbnail": "https://i.ytimg.com/vi/oaxpY1EjLH0/maxresdefault.jpg"
+        "id": "ceGkpG_HJ6Y",
+        "title": "COOLKID - QUÁ ĐỦ RỒI (OFFICIAL VISUALIZER)",
+        "channelTitle": "COOLKID OFFICIAL",
+        "viewCount": 4828409,
+        "publishedAt": "2026-11-01T13:00:06Z",
+        "thumbnail": "https://i.ytimg.com/vi/ceGkpG_HJ6Y/maxresdefault.jpg"
       },
       {
         "id": "xmPqTY48txs",
         "title": "Mashup Đường Chân Trời - Ngàn Lần Khắc Tên Em - Nhạc Buồn Tâm Trạng Cho Người Thất Tình",
         "channelTitle": "Lương Gia Hùng Media",
-        "viewCount": 590542,
+        "viewCount": 610444,
         "publishedAt": "2026-11-13T01:30:18Z",
         "thumbnail": "https://i.ytimg.com/vi/xmPqTY48txs/maxresdefault.jpg"
+      },
+      {
+        "id": "oaxpY1EjLH0",
+        "title": "DC Tâm Remix - Mashup 15 In 1 Cực Cuốn 2026 🔥 Về Đây Em Lo x Đắng Cay Tuổi Đôi Mươi x Vở Kịch Của Em",
+        "channelTitle": "DC Tâm",
+        "viewCount": 1323310,
+        "publishedAt": "2026-10-30T11:45:32Z",
+        "thumbnail": "https://i.ytimg.com/vi/oaxpY1EjLH0/maxresdefault.jpg"
       },
       {
         "id": "P8oEIJ9kaqM",
         "title": "TRÚC NHÂN | ĐI ĐÊM CÓ NGÀY GẶP EM & Tâm sự 3: TÌNH CHÊNH PHÔ | OFFICIAL PERFORMANCE",
         "channelTitle": "Trúc Nhân",
-        "viewCount": 1757389,
+        "viewCount": 1776878,
         "publishedAt": "2026-11-08T13:00:08Z",
         "thumbnail": "https://i.ytimg.com/vi/P8oEIJ9kaqM/maxresdefault.jpg"
       },
@@ -117,7 +117,7 @@
         "id": "6UlhtuiqQmM",
         "title": "Mashup: CÒN ANH EM BỎ CHO AI x SAO CŨNG ĐƯỢC - CAO BỒI LANG |Ca Sĩ Mặt Nạ -The Masked Singer Vietnam",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 1137100,
+        "viewCount": 1163516,
         "publishedAt": "2026-11-15T03:00:09Z",
         "thumbnail": "https://i.ytimg.com/vi/6UlhtuiqQmM/maxresdefault.jpg"
       },
@@ -125,7 +125,7 @@
         "id": "hX9S94XsySk",
         "title": "The Weeknd - Hong Kong (feat. 王菲季候風) (Official Music Video)",
         "channelTitle": "The Weeknd",
-        "viewCount": 24560282,
+        "viewCount": 24782994,
         "publishedAt": "2026-11-12T16:00:33Z",
         "thumbnail": "https://i.ytimg.com/vi/hX9S94XsySk/maxresdefault.jpg"
       },
@@ -133,39 +133,47 @@
         "id": "FF68dL5a11Y",
         "title": "[CD109] Lời Tình Viết Vội ➤ Nhạc Vàng Xưa Trước 1975 Đặc Sắc – Tuyển Tập Bất Hủ Càng Nghe Càng Say",
         "channelTitle": "Shop Nhạc Vàng",
-        "viewCount": 981679,
+        "viewCount": 1006409,
         "publishedAt": "2026-10-26T22:00:14Z",
         "thumbnail": "https://i.ytimg.com/vi/FF68dL5a11Y/maxresdefault.jpg"
-      },
-      {
-        "id": "OLaYISTt65E",
-        "title": "HIEUTHUHAI - Anh Nên Đi Khỏi Đây (prod. by Kewtiie) | Official Music Video",
-        "channelTitle": "HIEUTHUHAI",
-        "viewCount": 3146651,
-        "publishedAt": "2026-11-04T13:00:09Z",
-        "thumbnail": "https://i.ytimg.com/vi/OLaYISTt65E/maxresdefault.jpg"
       },
       {
         "id": "b0cQ4ylNbpo",
         "title": "ERIK - ‘2 năm 1 không’ | OFFICIAL MV | from The 2nd EP ‘Tình trạng: Tình tan’",
         "channelTitle": "ERIK Official",
-        "viewCount": 855282,
+        "viewCount": 876607,
         "publishedAt": "2026-11-18T13:00:28Z",
         "thumbnail": "https://i.ytimg.com/vi/b0cQ4ylNbpo/maxresdefault.jpg"
+      },
+      {
+        "id": "OLaYISTt65E",
+        "title": "HIEUTHUHAI - Anh Nên Đi Khỏi Đây (prod. by Kewtiie) | Official Music Video",
+        "channelTitle": "HIEUTHUHAI",
+        "viewCount": 3155460,
+        "publishedAt": "2026-11-04T13:00:09Z",
+        "thumbnail": "https://i.ytimg.com/vi/OLaYISTt65E/maxresdefault.jpg"
       },
       {
         "id": "QA-h0UnD1Zk",
         "title": "Cũng Bởi Do Nghèo - Vọng Kim Lang - Em Nỡ Sao Người Ơi Bước Đi Với Ai Cho Đành",
         "channelTitle": "Tín Mixer",
-        "viewCount": 1187328,
+        "viewCount": 1211558,
         "publishedAt": "2026-11-02T10:00:30Z",
         "thumbnail": "https://i.ytimg.com/vi/QA-h0UnD1Zk/maxresdefault.jpg"
+      },
+      {
+        "id": "L-m02SZQtTI",
+        "title": "500K NHẠC LỘN XỘN SIÊU PEAK: Lo Người Ướt Áo x Vở Kịch Của Em x Nhìn Em Lần Cuối ♫ Việt Mino Remix",
+        "channelTitle": "Việt Mino",
+        "viewCount": 517054,
+        "publishedAt": "2026-11-10T09:00:19Z",
+        "thumbnail": "https://i.ytimg.com/vi/L-m02SZQtTI/maxresdefault.jpg"
       },
       {
         "id": "3df_xcXsYRU",
         "title": "Chuyện Tình Đám Mạ Non | { Chương Trình HÁT THEO YÊU CẦU { Số 20 } | KHANG LÊ",
         "channelTitle": "Khang Lê official { Hoàng Tử Cha Cha Cha }",
-        "viewCount": 679405,
+        "viewCount": 695427,
         "publishedAt": "2026-11-12T01:44:26Z",
         "thumbnail": "https://i.ytimg.com/vi/3df_xcXsYRU/maxresdefault.jpg"
       },
@@ -173,23 +181,15 @@
         "id": "33zWui_8UXM",
         "title": "HOA NỞ SAI MÙA ( FULL CHA CHA CHA ) THIÊN TÚ | HOT TIKTOK | Tình Mình Nhạt Phai Nhìn Em Bước Cùng Ai",
         "channelTitle": "Thiên Tú Official",
-        "viewCount": 2394901,
+        "viewCount": 2429902,
         "publishedAt": "2026-11-01T10:44:40Z",
         "thumbnail": "https://i.ytimg.com/vi/33zWui_8UXM/maxresdefault.jpg"
-      },
-      {
-        "id": "L-m02SZQtTI",
-        "title": "500K NHẠC LỘN XỘN SIÊU PEAK: Lo Người Ướt Áo x Vở Kịch Của Em x Nhìn Em Lần Cuối ♫ Việt Mino Remix",
-        "channelTitle": "Việt Mino",
-        "viewCount": 469168,
-        "publishedAt": "2026-11-10T09:00:19Z",
-        "thumbnail": "https://i.ytimg.com/vi/L-m02SZQtTI/maxresdefault.jpg"
       },
       {
         "id": "kbQzdyvnso0",
         "title": "Mashup 4in1 PEAK: Daddy Cool x Vở Kịch Của Em x Anh Vội Quên x Trả Cho Anh x Thương Nhau Đến Thế",
         "channelTitle": "SS Remix",
-        "viewCount": 856843,
+        "viewCount": 881684,
         "publishedAt": "2026-11-04T03:00:32Z",
         "thumbnail": "https://i.ytimg.com/vi/kbQzdyvnso0/maxresdefault.jpg"
       },
@@ -197,31 +197,31 @@
         "id": "OslNdIsmaRM",
         "title": "Dám Làm Vợ Anh Không 2  | bao đêm nằm mộng được gần bên em ! | KHANG LÊ",
         "channelTitle": "Khang Lê official { Hoàng Tử Cha Cha Cha }",
-        "viewCount": 1045723,
+        "viewCount": 1065353,
         "publishedAt": "2026-11-04T23:30:39Z",
         "thumbnail": "https://i.ytimg.com/vi/OslNdIsmaRM/maxresdefault.jpg"
-      },
-      {
-        "id": "JlmKqFJIp8k",
-        "title": "Hoàng Thuỳ Linh - VÔ LƯỢNG KIẾP | Official Music Video",
-        "channelTitle": "Hoàng Thùy Linh",
-        "viewCount": 2591341,
-        "publishedAt": "2026-11-18T12:00:08Z",
-        "thumbnail": "https://i.ytimg.com/vi/JlmKqFJIp8k/maxresdefault.jpg"
       },
       {
         "id": "WYq9V2XKLt8",
         "title": "Đám Cưới Đầu Xuân - Song Nhi ♫ XUẤT HIỆN MỸ NHÂN ĐÃ XINH GÁI LẠI CÒN HÁT HAY",
         "channelTitle": "Đêm Nhạc Hay Nhất",
-        "viewCount": 834189,
+        "viewCount": 888604,
         "publishedAt": "2026-11-10T03:37:45Z",
         "thumbnail": "https://i.ytimg.com/vi/WYq9V2XKLt8/maxresdefault.jpg"
+      },
+      {
+        "id": "JlmKqFJIp8k",
+        "title": "Hoàng Thuỳ Linh - VÔ LƯỢNG KIẾP | Official Music Video",
+        "channelTitle": "Hoàng Thùy Linh",
+        "viewCount": 2699990,
+        "publishedAt": "2026-11-18T12:00:08Z",
+        "thumbnail": "https://i.ytimg.com/vi/JlmKqFJIp8k/maxresdefault.jpg"
       },
       {
         "id": "CiVVUjAoWOU",
         "title": "MANG CƠN ĐAU EM ĐI - ANH QUÂN IDOL | 'LANG QUÂN' EP (Studio Live Session)",
         "channelTitle": "Anh Quân Idol",
-        "viewCount": 1210061,
+        "viewCount": 1226290,
         "publishedAt": "2026-11-16T13:00:08Z",
         "thumbnail": "https://i.ytimg.com/vi/CiVVUjAoWOU/maxresdefault.jpg"
       },
@@ -229,7 +229,7 @@
         "id": "GYrtRyPcDfk",
         "title": "MỸ TÂM - HOA NẮNG | OFFICIAL VISUALIZER MUSIC VIDEO",
         "channelTitle": "My Tam",
-        "viewCount": 1164940,
+        "viewCount": 1174166,
         "publishedAt": "2026-11-11T04:00:10Z",
         "thumbnail": "https://i.ytimg.com/vi/GYrtRyPcDfk/maxresdefault.jpg"
       }
@@ -239,7 +239,7 @@
         "id": "hX9S94XsySk",
         "title": "The Weeknd - Hong Kong (feat. 王菲季候風) (Official Music Video)",
         "channelTitle": "The Weeknd",
-        "viewCount": 24560282,
+        "viewCount": 24782994,
         "publishedAt": "2026-11-12T16:00:33Z",
         "thumbnail": "https://i.ytimg.com/vi/hX9S94XsySk/maxresdefault.jpg"
       },
@@ -247,31 +247,31 @@
         "id": "IQI2qaqHFlg",
         "title": "GiiiRIP",
         "channelTitle": "BIGBANG - Topic",
-        "viewCount": 3562487,
+        "viewCount": 3758126,
         "publishedAt": "2026-11-20T05:02:15Z",
         "thumbnail": "https://i.ytimg.com/vi/IQI2qaqHFlg/maxresdefault.jpg"
-      },
-      {
-        "id": "zdz8swOQUqw",
-        "title": "Shubh - Never Left (Official Music Video)",
-        "channelTitle": "SHUBH",
-        "viewCount": 13503310,
-        "publishedAt": "2026-11-13T05:00:22Z",
-        "thumbnail": "https://i.ytimg.com/vi/zdz8swOQUqw/maxresdefault.jpg"
       },
       {
         "id": "LJC7mgjp5FQ",
         "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
         "channelTitle": "Taylor Swift",
-        "viewCount": 6123694,
+        "viewCount": 6164233,
         "publishedAt": "2026-11-19T11:00:19Z",
         "thumbnail": "https://i.ytimg.com/vi/LJC7mgjp5FQ/maxresdefault.jpg"
+      },
+      {
+        "id": "zdz8swOQUqw",
+        "title": "Shubh - Never Left (Official Music Video)",
+        "channelTitle": "SHUBH",
+        "viewCount": 13657946,
+        "publishedAt": "2026-11-13T05:00:22Z",
+        "thumbnail": "https://i.ytimg.com/vi/zdz8swOQUqw/maxresdefault.jpg"
       },
       {
         "id": "tz8nh-16JWg",
         "title": "KUNDHIYAN (official video) | RANJIT BAWA | KAPTAAN | BLACK VIRUS | NAVJIT BUTTAR | NEW PUNJABI SONGS",
         "channelTitle": "Ranjit Bawa Music",
-        "viewCount": 6416919,
+        "viewCount": 6490243,
         "publishedAt": "2026-11-20T05:04:50Z",
         "thumbnail": "https://i.ytimg.com/vi/tz8nh-16JWg/maxresdefault.jpg"
       },
@@ -279,7 +279,7 @@
         "id": "7kb3KdUbt6Y",
         "title": "RÜFÜS DU SOL x Hans Zimmer - Innerbloom XI (Official Music Video)",
         "channelTitle": "RÜFÜS DU SOL",
-        "viewCount": 781414,
+        "viewCount": 807600,
         "publishedAt": "2026-11-20T05:00:26Z",
         "thumbnail": "https://i.ytimg.com/vi/7kb3KdUbt6Y/maxresdefault.jpg"
       },
@@ -287,7 +287,7 @@
         "id": "M8fO5lQpfrc",
         "title": "LISA - Leave With Me (Featured in Always Lalisa) (Official Music Video)",
         "channelTitle": "LISAOfficialVEVO",
-        "viewCount": 5144039,
+        "viewCount": 5237728,
         "publishedAt": "2026-11-18T15:00:05Z",
         "thumbnail": "https://i.ytimg.com/vi/M8fO5lQpfrc/maxresdefault.jpg"
       },
@@ -295,7 +295,7 @@
         "id": "akiAh12Vt-U",
         "title": "Jamie Miller - Babydoll (Lyrics)",
         "channelTitle": "WaveMusic",
-        "viewCount": 1277512,
+        "viewCount": 1317871,
         "publishedAt": "2026-11-15T18:00:02Z",
         "thumbnail": "https://i.ytimg.com/vi/akiAh12Vt-U/maxresdefault.jpg"
       },
@@ -303,7 +303,7 @@
         "id": "0lI_KzhfIBk",
         "title": "Blood In Your Eyes (from GTAVI: The Album)",
         "channelTitle": "Tove Lo - Topic",
-        "viewCount": 3734728,
+        "viewCount": 3800837,
         "publishedAt": "2026-11-10T14:19:00Z",
         "thumbnail": "https://i.ytimg.com/vi/0lI_KzhfIBk/maxresdefault.jpg"
       },
@@ -311,7 +311,7 @@
         "id": "BPZkZpGMpXA",
         "title": "KING: Tu Mil Jaaye | Shah Rukh Khan, Deepika | Sachin-Jigar, Arijit, Ed Sheeran, Madhubanti, Kumaar",
         "channelTitle": "T-Series",
-        "viewCount": 97901017,
+        "viewCount": 98228632,
         "publishedAt": "2026-11-01T18:39:02Z",
         "thumbnail": "https://i.ytimg.com/vi/BPZkZpGMpXA/maxresdefault.jpg"
       },
@@ -319,7 +319,7 @@
         "id": "zT104EktdOc",
         "title": "IDK & Eminem — WELCOME (Prd. By J Dilla) [Official Music Video]",
         "channelTitle": "idk",
-        "viewCount": 7349702,
+        "viewCount": 7409408,
         "publishedAt": "2026-11-13T05:00:03Z",
         "thumbnail": "https://i.ytimg.com/vi/zT104EktdOc/maxresdefault.jpg"
       },
@@ -327,7 +327,7 @@
         "id": "CnO_eCzoVsg",
         "title": "One Last Breath (Remastered 2026)",
         "channelTitle": "Creed - Topic",
-        "viewCount": 421474,
+        "viewCount": 445403,
         "publishedAt": "2026-11-19T10:00:26Z",
         "thumbnail": "https://i.ytimg.com/vi/CnO_eCzoVsg/maxresdefault.jpg"
       },
@@ -335,7 +335,7 @@
         "id": "eR20KCC6oPs",
         "title": "Sushant KC - Na Lajai ft. Situsit (Official Music Video)",
         "channelTitle": "Sushant KC",
-        "viewCount": 2142543,
+        "viewCount": 2154106,
         "publishedAt": "2026-11-07T13:15:11Z",
         "thumbnail": "https://i.ytimg.com/vi/eR20KCC6oPs/maxresdefault.jpg"
       },
@@ -343,7 +343,7 @@
         "id": "7wVufXnZ64A",
         "title": "FOR THE BROS (OFFICAL VIDEO) TARSEM JASSAR & KULBIR JHINJER | RASS | LATEST PUNJABI SONG",
         "channelTitle": "VehliJantaRecords",
-        "viewCount": 2534831,
+        "viewCount": 2544864,
         "publishedAt": "2026-11-19T11:40:12Z",
         "thumbnail": "https://i.ytimg.com/vi/7wVufXnZ64A/maxresdefault.jpg"
       },
@@ -351,31 +351,31 @@
         "id": "eqQRPRcoIYo",
         "title": "Go Easy (from GTAVI: The Album)",
         "channelTitle": "Dua Lipa - Topic",
-        "viewCount": 1105397,
+        "viewCount": 1172602,
         "publishedAt": "2026-11-19T10:05:08Z",
         "thumbnail": "https://i.ytimg.com/vi/eqQRPRcoIYo/maxresdefault.jpg"
-      },
-      {
-        "id": "RVsMPZ-EE5Y",
-        "title": "TAF - The Aura Farmer ft. Larper Larry (official song)",
-        "channelTitle": "Horror Skunx",
-        "viewCount": 7908150,
-        "publishedAt": "2026-11-13T21:45:10Z",
-        "thumbnail": "https://i.ytimg.com/vi/RVsMPZ-EE5Y/maxresdefault.jpg"
       },
       {
         "id": "7QN49z7R8v0",
         "title": "Half Alive (From The Hunger Games: Sunrise on the Reaping - The Album) (Official Music Video)",
         "channelTitle": "MckennaGraceVEVO",
-        "viewCount": 5140004,
+        "viewCount": 5185676,
         "publishedAt": "2026-11-13T15:00:02Z",
         "thumbnail": "https://i.ytimg.com/vi/7QN49z7R8v0/maxresdefault.jpg"
+      },
+      {
+        "id": "RVsMPZ-EE5Y",
+        "title": "TAF - The Aura Farmer ft. Larper Larry (official song)",
+        "channelTitle": "Horror Skunx",
+        "viewCount": 7959168,
+        "publishedAt": "2026-11-13T21:45:10Z",
+        "thumbnail": "https://i.ytimg.com/vi/RVsMPZ-EE5Y/maxresdefault.jpg"
       },
       {
         "id": "XO1h5G6xytU",
         "title": "Daddy Yankee and Diljit Dosanjh - POKITO  (Official Music Video)",
         "channelTitle": "Daddy Yankee",
-        "viewCount": 51971232,
+        "viewCount": 52059811,
         "publishedAt": "2026-10-30T04:00:11Z",
         "thumbnail": "https://i.ytimg.com/vi/XO1h5G6xytU/maxresdefault.jpg"
       },
@@ -383,7 +383,7 @@
         "id": "XXSNzN8wMTM",
         "title": "Al Shami - Taa [Official Music Video] (2026) / الشامي - تعا",
         "channelTitle": "Al Shami - الشامي",
-        "viewCount": 21705660,
+        "viewCount": 21886018,
         "publishedAt": "2026-11-03T15:00:10Z",
         "thumbnail": "https://i.ytimg.com/vi/XXSNzN8wMTM/maxresdefault.jpg"
       },
@@ -391,7 +391,7 @@
         "id": "0JQ9k6kcKVs",
         "title": "NAYEON “BABY ANGEL” M/V",
         "channelTitle": "JYP Entertainment",
-        "viewCount": 10481494,
+        "viewCount": 10824940,
         "publishedAt": "2026-11-20T05:00:03Z",
         "thumbnail": "https://i.ytimg.com/vi/0JQ9k6kcKVs/maxresdefault.jpg"
       },
@@ -399,7 +399,7 @@
         "id": "EF-7XiyKKKc",
         "title": "Ramayana: Mangal Rang (Lyrical) | Namit M, Nitesh T | AR Rahman, Arijit Singh,Shreya Ghoshal,Kumar V",
         "channelTitle": "T-Series",
-        "viewCount": 13104736,
+        "viewCount": 13218149,
         "publishedAt": "2026-11-05T17:23:39Z",
         "thumbnail": "https://i.ytimg.com/vi/EF-7XiyKKKc/maxresdefault.jpg"
       },
@@ -407,7 +407,7 @@
         "id": "DxEkSmqTOtc",
         "title": "Alan Walker, Hamza Malik, Zain Zohaib & James Arthur - Alfaaz (Alan Walker Relight)",
         "channelTitle": "Alan Walker",
-        "viewCount": 6634192,
+        "viewCount": 6678317,
         "publishedAt": "2026-11-12T15:00:08Z",
         "thumbnail": "https://i.ytimg.com/vi/DxEkSmqTOtc/maxresdefault.jpg"
       },
@@ -415,7 +415,7 @@
         "id": "ftDNJhhJ22k",
         "title": "XG - DEPENDS (Official Music Video)",
         "channelTitle": "XG",
-        "viewCount": 13648639,
+        "viewCount": 13713617,
         "publishedAt": "2026-11-06T07:00:09Z",
         "thumbnail": "https://i.ytimg.com/vi/ftDNJhhJ22k/maxresdefault.jpg"
       },
@@ -423,7 +423,7 @@
         "id": "KePvp0-hcn0",
         "title": "The Beatles - In My Life (2026 Mix)",
         "channelTitle": "TheBeatlesVEVO",
-        "viewCount": 1407222,
+        "viewCount": 1426738,
         "publishedAt": "2026-11-19T16:00:06Z",
         "thumbnail": "https://i.ytimg.com/vi/KePvp0-hcn0/maxresdefault.jpg"
       },
@@ -431,7 +431,7 @@
         "id": "Xf8q6VbQ6MI",
         "title": "Let It Go",
         "channelTitle": "TRFN - Topic",
-        "viewCount": 2654796,
+        "viewCount": 2680490,
         "publishedAt": "2026-10-29T10:00:11Z",
         "thumbnail": "https://i.ytimg.com/vi/Xf8q6VbQ6MI/maxresdefault.jpg"
       },
@@ -439,7 +439,7 @@
         "id": "OLzEiNjXWaY",
         "title": "NO FEFE",
         "channelTitle": "Revus - Topic",
-        "viewCount": 104431,
+        "viewCount": 104897,
         "publishedAt": "2026-11-12T10:02:43Z",
         "thumbnail": "https://i.ytimg.com/vi/OLzEiNjXWaY/maxresdefault.jpg"
       },
@@ -447,7 +447,7 @@
         "id": "5NICoPwcqlg",
         "title": "Photos",
         "channelTitle": "Release - Topic",
-        "viewCount": 3112176,
+        "viewCount": 3128948,
         "publishedAt": "2026-10-22T10:02:52Z",
         "thumbnail": "https://i.ytimg.com/vi/5NICoPwcqlg/maxresdefault.jpg"
       },
@@ -455,7 +455,7 @@
         "id": "M9G4guYg-i8",
         "title": "TXT (투모로우바이투게더) 'Angel Bite' Official MV",
         "channelTitle": "HYBE LABELS",
-        "viewCount": 30722348,
+        "viewCount": 30787188,
         "publishedAt": "2026-11-16T08:58:08Z",
         "thumbnail": "https://i.ytimg.com/vi/M9G4guYg-i8/maxresdefault.jpg"
       },
@@ -463,7 +463,7 @@
         "id": "A_H1EH6p4A0",
         "title": "CL - ‘ICONIC’ M/V",
         "channelTitle": "THEBLACKLABEL",
-        "viewCount": 8751573,
+        "viewCount": 9125396,
         "publishedAt": "2026-11-20T08:59:07Z",
         "thumbnail": "https://i.ytimg.com/vi/A_H1EH6p4A0/maxresdefault.jpg"
       }
@@ -472,10 +472,26 @@
   "collections": {
     "masked-singer": [
       {
+        "id": "KTTXZ8G-rdM",
+        "title": "Người anh yêu hỡiiii #TheMaskedSingerVietnam2026 #CaSiMatNa2026 #shorts",
+        "channelTitle": "Vie Channel ",
+        "viewCount": 2330,
+        "publishedAt": "2026-11-23T13:15:33Z",
+        "thumbnail": "https://i.ytimg.com/vi/KTTXZ8G-rdM/maxresdefault.jpg"
+      },
+      {
+        "id": "eZ6idSee63M",
+        "title": "TÔI LÀ TÔI: LYHAN aka MIMIBU lộ diện tiết lộ từng khóc sau mascot, gửi lời chúc đến KHỈ XÙ MÌ",
+        "channelTitle": "Vie Channel ",
+        "viewCount": 2611,
+        "publishedAt": "2026-11-23T12:00:15Z",
+        "thumbnail": "https://i.ytimg.com/vi/eZ6idSee63M/maxresdefault.jpg"
+      },
+      {
         "id": "vpk8Q7VXrwU",
         "title": "VẦNG TRĂNG CÔ ĐƠN - RABIBUUM aka Ngọc Sơn |Ca Sĩ Mặt Nạ-The Masked Singer Vietnam 2026 [Performance]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 47094,
+        "viewCount": 58822,
         "publishedAt": "2026-11-22T08:00:27Z",
         "thumbnail": "https://i.ytimg.com/vi/vpk8Q7VXrwU/maxresdefault.jpg"
       },
@@ -483,7 +499,7 @@
         "id": "_Jsi9qIsHaI",
         "title": "ĐẮNG DƯỢC - MIMIBU | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Live Stage]",
         "channelTitle": "Vie Channel ",
-        "viewCount": 9207,
+        "viewCount": 9524,
         "publishedAt": "2026-11-22T08:00:22Z",
         "thumbnail": "https://i.ytimg.com/vi/_Jsi9qIsHaI/maxresdefault.jpg"
       },
@@ -491,7 +507,7 @@
         "id": "3FNBgmL2p1I",
         "title": "RƠI TỰ DO - MIMIBU aka LYHAN | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Live Stage]",
         "channelTitle": "Vie Channel ",
-        "viewCount": 19187,
+        "viewCount": 25266,
         "publishedAt": "2026-11-22T07:00:23Z",
         "thumbnail": "https://i.ytimg.com/vi/3FNBgmL2p1I/maxresdefault.jpg"
       },
@@ -499,7 +515,7 @@
         "id": "hghvMwzdcs4",
         "title": "RƠI TỰ DO - MIMIBU aka LYHAN | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Performance]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 76126,
+        "viewCount": 94239,
         "publishedAt": "2026-11-22T07:00:11Z",
         "thumbnail": "https://i.ytimg.com/vi/hghvMwzdcs4/maxresdefault.jpg"
       },
@@ -507,7 +523,7 @@
         "id": "Hv3VjiDHQis",
         "title": "VẦNG TRĂNG CÔ ĐƠN - RABIBUUM aka Ngọc Sơn |Ca Sĩ Mặt Nạ-The Masked Singer Vietnam 2026 [Live Stage]",
         "channelTitle": "Vie Channel ",
-        "viewCount": 26701,
+        "viewCount": 31221,
         "publishedAt": "2026-11-22T06:00:22Z",
         "thumbnail": "https://i.ytimg.com/vi/Hv3VjiDHQis/maxresdefault.jpg"
       },
@@ -515,7 +531,7 @@
         "id": "NsbUH3QQknU",
         "title": "ĐẮNG DƯỢC - MIMIBU | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Performance]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 24037,
+        "viewCount": 27256,
         "publishedAt": "2026-11-22T06:00:05Z",
         "thumbnail": "https://i.ytimg.com/vi/NsbUH3QQknU/maxresdefault.jpg"
       },
@@ -523,7 +539,7 @@
         "id": "saODXpVftnQ",
         "title": "SAU HÌNH BÓNG KHÁC -  KHỈ XÙ MÌ | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Performance]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 59394,
+        "viewCount": 66508,
         "publishedAt": "2026-11-22T05:00:30Z",
         "thumbnail": "https://i.ytimg.com/vi/saODXpVftnQ/maxresdefault.jpg"
       },
@@ -531,7 +547,7 @@
         "id": "E9pRHXO-XZI",
         "title": "SAU HÌNH BÓNG KHÁC -  KHỈ XÙ MÌ | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Live Stage]",
         "channelTitle": "Vie Channel ",
-        "viewCount": 47003,
+        "viewCount": 50112,
         "publishedAt": "2026-11-22T04:00:15Z",
         "thumbnail": "https://i.ytimg.com/vi/E9pRHXO-XZI/maxresdefault.jpg"
       },
@@ -539,7 +555,7 @@
         "id": "rEkFUewQf3k",
         "title": "E LÀ KHÔNG THỂ - RABIBUUM | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Performance]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 36135,
+        "viewCount": 40986,
         "publishedAt": "2026-11-22T04:00:06Z",
         "thumbnail": "https://i.ytimg.com/vi/rEkFUewQf3k/maxresdefault.jpg"
       },
@@ -547,7 +563,7 @@
         "id": "aKGAcxhLyKI",
         "title": "MÌNH YÊU ĐẾN ĐÂY THÔI - MAD LONG | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Live Stage]",
         "channelTitle": "Vie Channel ",
-        "viewCount": 27711,
+        "viewCount": 28842,
         "publishedAt": "2026-11-22T03:00:37Z",
         "thumbnail": "https://i.ytimg.com/vi/aKGAcxhLyKI/maxresdefault.jpg"
       },
@@ -555,7 +571,7 @@
         "id": "XXQ18ln6Tk8",
         "title": "MÌNH YÊU ĐẾN ĐÂY THÔI - MAD LONG | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Performance]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 109003,
+        "viewCount": 121231,
         "publishedAt": "2026-11-22T03:00:25Z",
         "thumbnail": "https://i.ytimg.com/vi/XXQ18ln6Tk8/maxresdefault.jpg"
       },
@@ -563,7 +579,7 @@
         "id": "hpkAePutwbQ",
         "title": "E LÀ KHÔNG THỂ - RABIBUUM | Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026 [Live Stage]",
         "channelTitle": "Vie Channel ",
-        "viewCount": 51900,
+        "viewCount": 57272,
         "publishedAt": "2026-11-22T02:00:31Z",
         "thumbnail": "https://i.ytimg.com/vi/hpkAePutwbQ/maxresdefault.jpg"
       },
@@ -571,7 +587,7 @@
         "id": "RckiEEjdyr0",
         "title": "BTS: Công khai dự đoán của Orange JSOL trước và sau khi nghe hát, báo vệ bất chấp BÁO BERRY",
         "channelTitle": "Vie Channel ",
-        "viewCount": 8375,
+        "viewCount": 8390,
         "publishedAt": "2026-11-20T14:00:32Z",
         "thumbnail": "https://i.ytimg.com/vi/RckiEEjdyr0/maxresdefault.jpg"
       },
@@ -579,33 +595,33 @@
         "id": "wmjdM1HMM9c",
         "title": "Cặp đôi \"Ghép Đôi Đường Phố\" hoàn hảo, BÁO BERRY \"xốn xang\" với lời có cánh từ CAO BỒI LANG",
         "channelTitle": "Vie Channel ",
-        "viewCount": 3251,
+        "viewCount": 3272,
         "publishedAt": "2026-11-20T04:00:23Z",
         "thumbnail": "https://i.ytimg.com/vi/wmjdM1HMM9c/maxresdefault.jpg"
-      },
-      {
-        "id": "SlPzBSSl7GA",
-        "title": "BTS: Orange chưa kịp ra tay đã bị JSOL bắt quả tang, Sunbaenim bật mí về mascot côn trùng bản chibi",
-        "channelTitle": "Vie Channel ",
-        "viewCount": 6802,
-        "publishedAt": "2026-11-19T06:00:37Z",
-        "thumbnail": "https://i.ytimg.com/vi/SlPzBSSl7GA/maxresdefault.jpg"
-      },
-      {
-        "id": "Dlz2rIMdxD8",
-        "title": "LÊNH ĐÊNH - KOALAOKE [MV LYRICS] Ca Sĩ Mặt Nạ - The Masked Singer Vietnam 2026",
-        "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 5302,
-        "publishedAt": "2026-11-19T05:00:18Z",
-        "thumbnail": "https://i.ytimg.com/vi/Dlz2rIMdxD8/maxresdefault.jpg"
       }
     ],
     "tinh-ha-say-hi": [
       {
+        "id": "bIBgVj0u8-4",
+        "title": "Nóng hơn bao giờ hết với Bad Night, MVP, Xoay Vòng | TINH HÀ SAY HI CONCERT [FANCAM]",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 312,
+        "publishedAt": "2026-11-23T13:00:20Z",
+        "thumbnail": "https://i.ytimg.com/vi/bIBgVj0u8-4/maxresdefault.jpg"
+      },
+      {
+        "id": "geRQJJo8E4g",
+        "title": "Lụy thêm một chút với BEST 5: buitruonglinh, CAPTAIN BOY, CONGB, Dương Domic, Quang Hùng MasterD",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 1296,
+        "publishedAt": "2026-11-23T12:00:26Z",
+        "thumbnail": "https://i.ytimg.com/vi/geRQJJo8E4g/maxresdefault.jpg"
+      },
+      {
         "id": "DJRm5VGLDMI",
         "title": "Rehearsal Secret, MRT, Run To You | Tinh Hà Say Hi Concert",
         "channelTitle": "Vie Channel ",
-        "viewCount": 364,
+        "viewCount": 2038,
         "publishedAt": "2026-11-23T09:00:27Z",
         "thumbnail": "https://i.ytimg.com/vi/DJRm5VGLDMI/maxresdefault.jpg"
       },
@@ -613,7 +629,7 @@
         "id": "a6jHe46uRz4",
         "title": "Rehearsal Sau Hình Bóng Ấy, Mất La Bàn, Gentleman | Tinh Hà Say Hi Concert",
         "channelTitle": "Vie Channel ",
-        "viewCount": 569,
+        "viewCount": 1362,
         "publishedAt": "2026-11-23T08:00:15Z",
         "thumbnail": "https://i.ytimg.com/vi/a6jHe46uRz4/maxresdefault.jpg"
       },
@@ -621,7 +637,7 @@
         "id": "ssueFCJ41r0",
         "title": "Đắm chìm trong không khí của Sau Hình Bóng Ấy, Cô Đơn Anh Cũng Vui | TINH HÀ SAY HI CONCERT [FANCAM]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 27724,
+        "viewCount": 28099,
         "publishedAt": "2026-11-19T12:00:36Z",
         "thumbnail": "https://i.ytimg.com/vi/ssueFCJ41r0/maxresdefault.jpg"
       },
@@ -629,7 +645,7 @@
         "id": "FwouHbHULyU",
         "title": "24EVER - TINH HÀ \"SAY HI\" CONCERT ENCORE",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 372272,
+        "viewCount": 380474,
         "publishedAt": "2026-11-17T13:00:11Z",
         "thumbnail": "https://i.ytimg.com/vi/FwouHbHULyU/maxresdefault.jpg"
       },
@@ -637,7 +653,7 @@
         "id": "XebFw2wMJgQ",
         "title": "[FANCAM - HÀ NỘI] Bùng nổ với fanchant CÓ GÌ ĐÂU MÀ CAY, Thế Giới Của Anh | TINH HÀ SAY HI CONCERT",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 12138,
+        "viewCount": 12222,
         "publishedAt": "2026-11-17T12:00:10Z",
         "thumbnail": "https://i.ytimg.com/vi/XebFw2wMJgQ/maxresdefault.jpg"
       },
@@ -645,7 +661,7 @@
         "id": "mYpXWKYvQII",
         "title": "Hà Nội rộn ràng không khí rước dâu của Thêu Hoa Dệt Gấm | TINH HÀ SAY HI CONCERT [FANCAM]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 91263,
+        "viewCount": 92411,
         "publishedAt": "2026-11-17T11:00:39Z",
         "thumbnail": "https://i.ytimg.com/vi/mYpXWKYvQII/maxresdefault.jpg"
       },
@@ -653,7 +669,7 @@
         "id": "392dEvNsoxo",
         "title": "Secret trong Secret với beat Vinahouse cực cháy, Run To You - MRT - Secret | TINH HÀ SAY HI CONCERT",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 25074,
+        "viewCount": 25148,
         "publishedAt": "2026-11-17T04:58:50Z",
         "thumbnail": "https://i.ytimg.com/vi/392dEvNsoxo/maxresdefault.jpg"
       },
@@ -661,41 +677,33 @@
         "id": "lD5syFNdbKI",
         "title": "XOAY VÒNG - GENTLEMAN | TINH HÀ SAY HI CONCERT [FANCAM]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 5994,
+        "viewCount": 5999,
         "publishedAt": "2026-11-11T13:00:03Z",
         "thumbnail": "https://i.ytimg.com/vi/lD5syFNdbKI/maxresdefault.jpg"
-      },
-      {
-        "id": "N1pdhgIofnw",
-        "title": "50 CUỘC GỌI NHỠ - MRT | TINH HÀ SAY HI CONCERT [FANCAM]",
-        "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 8369,
-        "publishedAt": "2026-11-11T12:00:30Z",
-        "thumbnail": "https://i.ytimg.com/vi/N1pdhgIofnw/maxresdefault.jpg"
       }
     ],
     "anh-trai-say-hi": [
       {
-        "id": "DJRm5VGLDMI",
-        "title": "Rehearsal Secret, MRT, Run To You | Tinh Hà Say Hi Concert",
-        "channelTitle": "Vie Channel ",
-        "viewCount": 364,
-        "publishedAt": "2026-11-23T09:00:27Z",
-        "thumbnail": "https://i.ytimg.com/vi/DJRm5VGLDMI/maxresdefault.jpg"
+        "id": "bIBgVj0u8-4",
+        "title": "Nóng hơn bao giờ hết với Bad Night, MVP, Xoay Vòng | TINH HÀ SAY HI CONCERT [FANCAM]",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 312,
+        "publishedAt": "2026-11-23T13:00:20Z",
+        "thumbnail": "https://i.ytimg.com/vi/bIBgVj0u8-4/maxresdefault.jpg"
       },
       {
-        "id": "a6jHe46uRz4",
-        "title": "Rehearsal Sau Hình Bóng Ấy, Mất La Bàn, Gentleman | Tinh Hà Say Hi Concert",
-        "channelTitle": "Vie Channel ",
-        "viewCount": 569,
-        "publishedAt": "2026-11-23T08:00:15Z",
-        "thumbnail": "https://i.ytimg.com/vi/a6jHe46uRz4/maxresdefault.jpg"
+        "id": "geRQJJo8E4g",
+        "title": "Lụy thêm một chút với BEST 5: buitruonglinh, CAPTAIN BOY, CONGB, Dương Domic, Quang Hùng MasterD",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 1296,
+        "publishedAt": "2026-11-23T12:00:26Z",
+        "thumbnail": "https://i.ytimg.com/vi/geRQJJo8E4g/maxresdefault.jpg"
       },
       {
         "id": "ssueFCJ41r0",
         "title": "Đắm chìm trong không khí của Sau Hình Bóng Ấy, Cô Đơn Anh Cũng Vui | TINH HÀ SAY HI CONCERT [FANCAM]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 27724,
+        "viewCount": 28099,
         "publishedAt": "2026-11-19T12:00:36Z",
         "thumbnail": "https://i.ytimg.com/vi/ssueFCJ41r0/maxresdefault.jpg"
       },
@@ -703,33 +711,17 @@
         "id": "FwouHbHULyU",
         "title": "24EVER - TINH HÀ \"SAY HI\" CONCERT ENCORE",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 372272,
+        "viewCount": 380474,
         "publishedAt": "2026-11-17T13:00:11Z",
         "thumbnail": "https://i.ytimg.com/vi/FwouHbHULyU/maxresdefault.jpg"
       },
       {
-        "id": "gAGLjygXl64",
-        "title": "IDNAT | TINH HÀ SAY HI CONCERT | Wren Evans, CAPTAIN BOY, IVAN, Thể Thiên [PERFORMANCE]",
+        "id": "mYpXWKYvQII",
+        "title": "Hà Nội rộn ràng không khí rước dâu của Thêu Hoa Dệt Gấm | TINH HÀ SAY HI CONCERT [FANCAM]",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 142197,
-        "publishedAt": "2026-10-31T05:00:19Z",
-        "thumbnail": "https://i.ytimg.com/vi/gAGLjygXl64/maxresdefault.jpg"
-      },
-      {
-        "id": "Dzeq79GCX84",
-        "title": "MRT | TINH HÀ SAY HI CONCERT | XUÂN ĐỊNH KY, buitruonglinh, CAPTAIN BOY, HYO [PERFORMANCE]",
-        "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 186590,
-        "publishedAt": "2026-10-31T04:00:22Z",
-        "thumbnail": "https://i.ytimg.com/vi/Dzeq79GCX84/maxresdefault.jpg"
-      },
-      {
-        "id": "FdLnDBnppu4",
-        "title": "THẾ GIỚI CỦA ANH | TINH HÀ SAY HI CONCERT | Dương Domic, buitruonglinh, CONGB, WEAN [PERFORMANCE]",
-        "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 576406,
-        "publishedAt": "2026-10-30T13:00:24Z",
-        "thumbnail": "https://i.ytimg.com/vi/FdLnDBnppu4/maxresdefault.jpg"
+        "viewCount": 92411,
+        "publishedAt": "2026-11-17T11:00:39Z",
+        "thumbnail": "https://i.ytimg.com/vi/mYpXWKYvQII/maxresdefault.jpg"
       }
     ],
     "em-xinh-say-hi": [
@@ -744,9 +736,33 @@
         "id": "U65TLiXc-u4",
         "title": "CHANGMO - SELFMADE ORANGE x BAND (solo ver.) | Rap Việt 2024",
         "channelTitle": "Vie Channel - MUSIC",
-        "viewCount": 309271,
+        "viewCount": 309331,
         "publishedAt": "2024-12-19T13:00:38Z",
         "thumbnail": "https://i.ytimg.com/vi/U65TLiXc-u4/maxresdefault.jpg"
+      },
+      {
+        "id": "MwbbSs9Rbbo",
+        "title": "SĂN - Suboi x Saabirose hoá thân hai nữ thợ săn cực cuốn hút | Rap Việt 2024 [Performance]",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 2396382,
+        "publishedAt": "2024-12-16T04:30:16Z",
+        "thumbnail": "https://i.ytimg.com/vi/MwbbSs9Rbbo/maxresdefault.jpg"
+      },
+      {
+        "id": "sJueC1-5_7M",
+        "title": "ALL MY LIFE -Thai VG x MANBO giao thoa thế hệ nâng tầm tiết mục quốc tế |Rap Việt 2024 [Performance]",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 671495,
+        "publishedAt": "2024-12-16T02:00:32Z",
+        "thumbnail": "https://i.ytimg.com/vi/sJueC1-5_7M/maxresdefault.jpg"
+      },
+      {
+        "id": "9XoOCDoxyKw",
+        "title": "NÓI LÀ LÀM - Karik x DANMY rủ Mason Nguyễn mang tinh thần cực chiến | Rap Việt 2024 [Performance]",
+        "channelTitle": "Vie Channel - MUSIC",
+        "viewCount": 5488903,
+        "publishedAt": "2024-12-15T04:00:04Z",
+        "thumbnail": "https://i.ytimg.com/vi/9XoOCDoxyKw/maxresdefault.jpg"
       }
     ],
     "tan-binh-toan-nang": [
@@ -761,7 +777,7 @@
         "id": "xYZ8Dbusew8",
         "title": "HỎA TÂM - 33 ANH TÀI | Anh Trai Vượt Ngàn Chông Gai 2026",
         "channelTitle": "YEAH1 MUSIC",
-        "viewCount": 373997,
+        "viewCount": 374203,
         "publishedAt": "2026-10-11T06:30:31Z",
         "thumbnail": "https://i.ytimg.com/vi/xYZ8Dbusew8/maxresdefault.jpg"
       },
@@ -769,7 +785,7 @@
         "id": "ojJCD4ECt0c",
         "title": "THĂNG HOA - Tiết Mục Liên Minh Khải Hoàn | Anh Trai Vượt Ngàn Chông Gai 2026",
         "channelTitle": "YEAH1 MUSIC",
-        "viewCount": 552467,
+        "viewCount": 553794,
         "publishedAt": "2026-10-11T05:30:37Z",
         "thumbnail": "https://i.ytimg.com/vi/ojJCD4ECt0c/maxresdefault.jpg"
       },
@@ -777,7 +793,7 @@
         "id": "qLo_id5UmNU",
         "title": "NGẦU ĐÉT - Tiết Mục Liên Minh Kỳ Tích | Anh Trai Vượt Ngàn Chông Gai 2026",
         "channelTitle": "YEAH1 MUSIC",
-        "viewCount": 810624,
+        "viewCount": 813156,
         "publishedAt": "2026-10-11T05:00:42Z",
         "thumbnail": "https://i.ytimg.com/vi/qLo_id5UmNU/maxresdefault.jpg"
       },
@@ -785,7 +801,7 @@
         "id": "Spm64LckuHs",
         "title": "[KARAOKE] TRỐN TÌM - Tiết Mục Liên Minh Khải Hoàn | Anh Trai Vượt Ngàn Chông Gai 2026",
         "channelTitle": "YEAH1 MUSIC",
-        "viewCount": 7366,
+        "viewCount": 7371,
         "publishedAt": "2026-10-10T02:00:06Z",
         "thumbnail": "https://i.ytimg.com/vi/Spm64LckuHs/maxresdefault.jpg"
       },
@@ -793,7 +809,7 @@
         "id": "YwmKQ86hHUM",
         "title": "TÓC NGẮN - Tiết Mục Liên Minh Khải Hoàn | Anh Trai Vượt Ngàn Chông Gai 2026",
         "channelTitle": "YEAH1 MUSIC",
-        "viewCount": 922637,
+        "viewCount": 924781,
         "publishedAt": "2026-10-04T07:30:04Z",
         "thumbnail": "https://i.ytimg.com/vi/YwmKQ86hHUM/maxresdefault.jpg"
       },
@@ -801,7 +817,7 @@
         "id": "G00qL3JT874",
         "title": "BẦU TRỜI MỚI - Tiết Mục Liên Minh Kỳ Tích | Anh Trai Vượt Ngàn Chông Gai 2026",
         "channelTitle": "YEAH1 MUSIC",
-        "viewCount": 573620,
+        "viewCount": 574296,
         "publishedAt": "2026-10-04T06:30:24Z",
         "thumbnail": "https://i.ytimg.com/vi/G00qL3JT874/maxresdefault.jpg"
       }
